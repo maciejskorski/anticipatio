@@ -15,5 +15,7 @@ from pathlib import Path
 files = Path('./data').rglob('*csv')
 outs = map(pd.read_csv, files)
 outs = pd.concat(outs)
+outs.columns = ['index','user','timestamp','url','txt']
 outs.shape # (290226, 5)
+outs.head()
 ```
