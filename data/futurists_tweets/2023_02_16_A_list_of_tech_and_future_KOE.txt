@@ -1,260 +1,260 @@
 
-1. Elon Musk @elonmusk
-2. Bill Gates @BillGates
-3. Jeff Bezos @JeffBezos
-4. Tim Cook @tim_cook
-5. Sundar Pichai @sundarpichai
-6. Mark Benioff @Benioff
-7. Stewart Butterfield @stewart
-8. Reed Hastings @reedhastings
-9. Mike Bloomberg @MikeBloomberg
-10. Thomas Kurian @ThomasOrTK
-11. Kai-Fu Lee @kaifulee
-12. Satya Nadella @satyanadella
-13. Amy Webb @amywebb
-14. marina gorbis on mastodon @mgorbis
-15. Dr. Michio Kaku @michiokaku
-16. Neil deGrasse Tyson @neiltyson
-17. Ian Khan Futurist @IanKhanFuturist
-18. Estelle Metayer @Competia
-19. Henry Mintzberg @Mintzberg141
-20. Bryan Palma @BryanJPalma
-21. Daniel Burrus @DanielBurrus 
-22. Marc R Gagné @OttLegalRebels
-23. David Brin @DavidBrin
-24. Eva Appelbaum @evaapp
-25. Maribel Lopez @MaribelLopez
-26. Michael Krigsman @mkrigsman
-27. Marc Andreessen Marc Andreessen
-28. Martha Heller @marthaheller
-29. Chris Curran @cbcurran
-30. Isaac Sacolick @nyike
-31. Bertrand Duperrin @bduperrin 
-32. Andrew McAfee @amcafee
-33. Nigel Fenwick @NigelFenwick
-34. Zaheer Nooruddin @zooruddin
-35. Tim Minahan @tminahan
-36. Tim Grieveson @timgrieveson
-37. Thomas Winter @WinterForMT
-38. Charlene Li @charleneli
-39. Christian McMahon @ChristianMcM 
-40. Kara Swisher @karaswisher
-41. Chuck Robbins @ChuckRobbins
-42. Andy Jassy @ajassy
-43. Jeff Weiner @jeffweiner
-44. Megan Smith @smithmegan
-45. Hans Vestberg @HansVestberg
-46. David Cohen @davidcohen
-47. Emily Chang @emilychangtv
-48. Molly Wood @mollywood
-49. Andrew Ng @AndrewYNg
-50. Reshma Saujani @reshmasaujani
-51. David Heinemeier Hansen @DHH
-52. Mary Barra @mtbarra
-53. Chris Wright @kernelcdub
-54. Hilary Mason @hmason
-55. Natalie Panek @nmpanek
-56. Amber Osborne @MissDestructo
-57. Diana Trujullo @FromCaliToMars
-58. Benedict Evans @benedictevans
-59. David Ulevitch @davidu 
-60. Randy Bias @randybias
-61. Neville Ray @NevilleRay
-62. Jeff Reed @jeffreed415
-63. Christopher Mims @mims
-64. Siraj Raval @sirajraval
-65. Adrian Swinscoe @adrianswinscoe
-66. Al Hopper @AlHopper
-67. Alan Berkson @berkson0
-68. Andrew Gilliam @ndytg
-69. Andrew Neff @AndrewinContact
-70. Annette Franz @annettefranz
-71. Becky Roemen @beckyroemen
-72. Ben Motteram @cxpert
-73. Bill Quiseng @billquiseng
-74. Bob Furniss @bobfurniss
-75. Brad Cleveland @bradcleveland
-76. Cameron Weeks @cameronweeks
-77. Chris Hanna @EvolvingMgmt
-78. Colin Taylor @colinsataylor
-79. Dan Gingiss @dgingiss
-80. Debbie Szumylo @debbieszumylo
-81. Debra Bentson @theccdoctor
-82. Erica Mancuso @esmancuso
-83. Erica Marois @ericamarois
-84. Jacob Shields @jacobshields20
-85. Jeanne Bliss @JeanneBliss
-86. Jeff Toister @toister
-87. Jenny Dempsey @jennysuedempsey
-88. Jeremy Watkin @jtwatkin
-89. Justin Robbins @justinmrobbins
-90. Kate Nasser @katenasser
-91. Katherine Thompson @KTInnovate
-92. Kathleen Peterson @KMP603
-93. Kaye Chapman @kayejchapman
-94. Lauren Volpe @laurenqvolpe
-95. Leslie O @leslieO
-96. Mark McArthur-Christie @markchristie
-97. Matt Beckwith @mattbikewith
-98. Mike Aoki @mikeaoki
-99. Murphy Fraser @murphyjfraser
-100. Nancy Friedman @telephonedoctor
-101. Nate Brown @CustomerIsFirst
-102. Neal Dlin @nealdlin
-103. Patrick Russell @Patrick_SaaS
-104. Peter Gregg @pfgregg
-105. Roy Atkinson @royatkinson
-106. Russell Lolacher @RussLoL
-107. Sangeeta Bhatnagar @SBhatnagar212
-108. Sean Hawkins @SeanBHawkins
-109. Shep Hyken @hyken
-110. Sheri Kendall @sherikendall
-111. Stephanie Thum @stephaniethum
-112. Steve Digioia @stevedigioia
-113. Sue Duris @sueduris
-114. Susan Hash @susanhash
-115. Beth Noveck @bethnoveck 
-116. Klaus Schwab @ProfKlausSchwab
-117. Martin Mocker @martinmocker
-118. Melissa Swift @meswift 
-119. Rahul Welde @RahulWelde 
-120. Joanna Young @jcycio 
-121. Didier Bonnet @didiebon 
-122. M. Nadia Vincent @ITTransLeaders 
-123. Kevin Coluci @kcoluci 
-124. Marc Touitou @TouitouMarc 
-125. Leon Wilson @leon_clevefdn 
-126. Adriana (Andi) Karaboutis @AndiKaraboutis 
-127. Jesus San Segundo @JesusSanSegundo 
-128. Giuliano Liguori @ingliguori 
-129. Tim Crawford @tcrawford 
-130. Jacob Abboud @jacob_abboud 
-131. Les Ottolenghi @LesOttolenghi 
-132. Jay Ferro @jayferro 
-133. Marcus East @marcuseast 
-134. Peter Weis @PeterFWeis 
-135. Marcus Borba @marcusborba 
-136. Sarbjeet Johal @sarbjeetjohal
-137. Jennifer Jarratt @jenjarratt
-138. Andy Hines @futurist_Ahines 
-139. Dr. James Canton @futureguru
-140. Ross Dawson @rossdawson
-141.  Gerd Leonhard @gleonhard
-142. Graeme Codrington @FuturistGraeme
-143.  Allison Duettman @allisondman
-144.  Aubrey de Grey @aubreydegrey
-145.  Tamara McCleary @TamaraMcCleary
-146.  Kevin Kelly @kevin2kelly
-147. Antonio Grasso @antgrasso
-148. Brian Solis @briansolis
-149. ipfconline @ipfconline1
-150. Michael Fisher @Fisher85M
-151. Cyril Coste @CyrilCoste
-152. Giuliano Liguori @ingliguori
-153. Sandeep Raut @rautsan
-154. Daniel Newman @danielnewmanUV
-155. James Gingerich @jamesvgingerich
-156. Harold Sinnott @HaroldSinnott
-157. Linda Grasso @LindaGrass0
-158. Marcell Vollmer @mvollmer1
-159. ANDY FITZE @andy_fitze
-160. R “Ray” Wang @rwang0 
-161. Sally Eaves @sallyeaves
-162. Helen Yu @YuHelenYu
-163.  Marcus Borba @marcusborba
-164. Nicolas Babin @Nicochan33
-165. Theodora (Theo) Lau @psb_dc
-166. Dion Hinchcliffe @dhinchcliffe
-167. Danielle Guzman @guzmand
-168. Craig Brown @craigbrownphd
-169. David Doughty @daviddoughty
-170. Tom Raftery @TomRaftery
-171. Wilko S. Wolters @WSWMUC
-172. Jim Marous @JimMarous
-173. Vladimer Botsvadze @VladoBotsvadze
-174. Greg Verdino @gregverdino
-175. Digital Trans4m  @digital_trans4m
-176. Claudio M. Camacho @claudiomkd
-177. Ronald van Loon @Ronald_vanLoon
-178. Mike BAI @Mike_IMC
-179. Chan Naseeb @ChanNaseeb
-180. Richard Branson @richardbranson
-181. Prof(Dr) Sanjay Kuma Rout (Futurist) @ProfSanjayRout5
-182. Toby Trevarthen @tobinw
-183. Peter F Gallagher @peterfgallagher
-184. Guy Kawasaki @GuyKawasaki
-185. Ben Horowitz @bhorowitz
-186. Chris Brogan @chrisbrogan
-187. Mari Smith @MariSmith
-188. Keith Keller @KeithKeller
-189. Elise Quevedo @EliseQuevedo
-190. Kirk Borne @KirkDBorne
-191. Dr. Ganapathi Pulipaka @gp_pulipaka
-192. Ronald van Loon @Ronald_vanLoon
-193. Harold Sinnott @HaroldSinnott
-194. Franco Ronconi @FrRonconi
-195. Dev Khanna @CurieuxExplorer
-196. Tansu YEńěEN @TansuYegen
-197. Mario Pawlowski @PawlowskiMario
-198. Harold Sinnott @HaroldSinnott
-199. Evan Kirstel @EvanKirstel
-200. Dr. Khulood Almani @Khulood_Almani
-201. Chidambara @chidambara09
-202. Dr. Marcell Vollmer @mvollmer1
-203. Jean-Baptiste @jblefevre60
-204. Jim Harris @JimHarris
-205. Pascal Bornet @pascal_bornet
-206. Lex Fridman @lexfridman
-207. Andrew Ng @AndrewYNg
-208. Philip Vollet @philipvollet
-209. Yann LeCun @ylecun
-210. Andrej Karpathy @karpathy
-211. Mark Tenenholtz @marktenenholtz
-212. Iain Brown @IainLJBrown
-213. Terence Mills @terence_mills
-214. Francesca Rossi @frossi_t
-215. Pinna Pierre @pierrepinna
-216. Rob McCargow @RobMcCargow
-217. Theodora (Theo) Lau @psb_dc
-218. Patrick Mineault @neuromatch.social @patrickmineault
-219. Pieter Abbeel @pabbeel
-220. Rachel Thomas @math_rachel
-221. Kai-Fu Lee @kaifulee
-222. Vinod Khosla @vkhosla
-223. Michael Anti @mranti
-224. Reid Hoffman @reidhoffman
-225. Pedro Domingos @pmddomingos
-226. Gary Marcus @GaryMarcus
-227. Murat Durmus @CEO_AISOMA
-228. Oriol Vinyals @OriolVinyalsML
-229. Alvin Foo @alvinfoo
-230. Soumith Chintala @soumithchintala
-231. abhishek @abhi1thakur
-232. Mike Tamir @MikeTamir
-233. Iain Brown @IainLJBrown
-234. Sebastian Raschka @rasbt
-235. Cassie Kozyrkov @quaesita
-236. Greg Brockman @gdb
-237. Warren Buffett @WarrenBuffett
-238. Ray Kurzweil @raykurzweil
+1.	Elon Musk	@elonmusk
+2.	Bill Gates	@BillGates
+3.	Jeff Bezos	@JeffBezos
+4.	Tim Cook	@tim_cook
+5.	Sundar Pichai	@sundarpichai
+6.	Mark Benioff	@Benioff
+7.	Stewart Butterfield	@stewart
+8.	Reed Hastings	@reedhastings
+9.	Mike Bloomberg	@MikeBloomberg
+10.	Thomas Kurian	@ThomasOrTK
+11.	Kai-Fu Lee	@kaifulee
+12.	Satya Nadella	@satyanadella
+13.	Amy Webb	@amywebb
+14.	marina gorbis on mastodon	@mgorbis
+15.	Dr. Michio Kaku	@michiokaku
+16.	Neil deGrasse Tyson	@neiltyson
+17.	Ian Khan Futurist	@IanKhanFuturist
+18.	Estelle Metayer	@Competia
+19.	Henry Mintzberg	@Mintzberg141
+20.	Bryan Palma	@BryanJPalma
+21.	Daniel Burrus	@DanielBurrus 
+22.	Marc R Gagné	@OttLegalRebels
+23.	David Brin	@DavidBrin
+24.	Eva Appelbaum	@evaapp
+25.	Maribel Lopez	@MaribelLopez
+26.	Michael Krigsman	@mkrigsman
+27.	Marc Andreessen Marc Andreessen
+28.	Martha Heller	@marthaheller
+29.	Chris Curran	@cbcurran
+30.	Isaac Sacolick	@nyike
+31.	Bertrand Duperrin	@bduperrin 
+32.	Andrew McAfee	@amcafee
+33.	Nigel Fenwick	@NigelFenwick
+34.	Zaheer Nooruddin	@zooruddin
+35.	Tim Minahan	@tminahan
+36.	Tim Grieveson	@timgrieveson
+37.	Thomas Winter	@WinterForMT
+38.	Charlene Li	@charleneli
+39.	Christian McMahon	@ChristianMcM 
+40.	Kara Swisher	@karaswisher
+41.	Chuck Robbins	@ChuckRobbins
+42.	Andy Jassy	@ajassy
+43.	Jeff Weiner	@jeffweiner
+44.	Megan Smith	@smithmegan
+45.	Hans Vestberg	@HansVestberg
+46.	David Cohen	@davidcohen
+47.	Emily Chang	@emilychangtv
+48.	Molly Wood	@mollywood
+49.	Andrew Ng	@AndrewYNg
+50.	Reshma Saujani	@reshmasaujani
+51.	David Heinemeier Hansen	@DHH
+52.	Mary Barra	@mtbarra
+53.	Chris Wright	@kernelcdub
+54.	Hilary Mason	@hmason
+55.	Natalie Panek	@nmpanek
+56.	Amber Osborne	@MissDestructo
+57.	Diana Trujullo	@FromCaliToMars
+58.	Benedict Evans	@benedictevans
+59.	David Ulevitch	@davidu 
+60.	Randy Bias	@randybias
+61.	Neville Ray	@NevilleRay
+62.	Jeff Reed	@jeffreed415
+63.	Christopher Mims	@mims
+64.	Siraj Raval	@sirajraval
+65.	Adrian Swinscoe	@adrianswinscoe
+66.	Al Hopper	@AlHopper
+67.	Alan Berkson	@berkson0
+68.	Andrew Gilliam	@ndytg
+69.	Andrew Neff	@AndrewinContact
+70.	Annette Franz	@annettefranz
+71.	Becky Roemen	@beckyroemen
+72.	Ben Motteram	@cxpert
+73.	Bill Quiseng	@billquiseng
+74.	Bob Furniss	@bobfurniss
+75.	Brad Cleveland	@bradcleveland
+76.	Cameron Weeks	@cameronweeks
+77.	Chris Hanna	@EvolvingMgmt
+78.	Colin Taylor	@colinsataylor
+79.	Dan Gingiss	@dgingiss
+80.	Debbie Szumylo	@debbieszumylo
+81.	Debra Bentson	@theccdoctor
+82.	Erica Mancuso	@esmancuso
+83.	Erica Marois	@ericamarois
+84.	Jacob Shields	@jacobshields20
+85.	Jeanne Bliss	@JeanneBliss
+86.	Jeff Toister	@toister
+87.	Jenny Dempsey	@jennysuedempsey
+88.	Jeremy Watkin	@jtwatkin
+89.	Justin Robbins	@justinmrobbins
+90.	Kate Nasser	@katenasser
+91.	Katherine Thompson	@KTInnovate
+92.	Kathleen Peterson	@KMP603
+93.	Kaye Chapman	@kayejchapman
+94.	Lauren Volpe	@laurenqvolpe
+95.	Leslie O	@leslieO
+96.	Mark McArthur-Christie	@markchristie
+97.	Matt Beckwith	@mattbikewith
+98.	Mike Aoki	@mikeaoki
+99.	Murphy Fraser	@murphyjfraser
+100.	Nancy Friedman	@telephonedoctor
+101.	Nate Brown	@CustomerIsFirst
+102.	Neal Dlin	@nealdlin
+103.	Patrick Russell	@Patrick_SaaS
+104.	Peter Gregg	@pfgregg
+105.	Roy Atkinson	@royatkinson
+106.	Russell Lolacher	@RussLoL
+107.	Sangeeta Bhatnagar	@SBhatnagar212
+108.	Sean Hawkins	@SeanBHawkins
+109.	Shep Hyken	@hyken
+110.	Sheri Kendall	@sherikendall
+111.	Stephanie Thum	@stephaniethum
+112.	Steve Digioia	@stevedigioia
+113.	Sue Duris	@sueduris
+114.	Susan Hash	@susanhash
+115.	Beth Noveck	@bethnoveck 
+116.	Klaus Schwab	@ProfKlausSchwab
+117.	Martin Mocker	@martinmocker
+118.	Melissa Swift	@meswift 
+119.	Rahul Welde	@RahulWelde 
+120.	Joanna Young	@jcycio 
+121.	Didier Bonnet	@didiebon 
+122.	M. Nadia Vincent	@ITTransLeaders 
+123.	Kevin Coluci	@kcoluci 
+124.	Marc Touitou	@TouitouMarc 
+125.	Leon Wilson	@leon_clevefdn 
+126.	Adriana (Andi) Karaboutis	@AndiKaraboutis 
+127.	Jesus San Segundo	@JesusSanSegundo 
+128.	Giuliano Liguori	@ingliguori 
+129.	Tim Crawford	@tcrawford 
+130.	Jacob Abboud	@jacob_abboud 
+131.	Les Ottolenghi	@LesOttolenghi 
+132.	Jay Ferro	@jayferro 
+133.	Marcus East	@marcuseast 
+134.	Peter Weis	@PeterFWeis 
+135.	Marcus Borba	@marcusborba 
+136.	Sarbjeet Johal	@sarbjeetjohal
+137.	Jennifer Jarratt	@jenjarratt
+138.	Andy Hines	@futurist_Ahines 
+139.	Dr. James Canton	@futureguru
+140.	Ross Dawson	@rossdawson
+141.	 Gerd Leonhard	@gleonhard
+142.	Graeme Codrington	@FuturistGraeme
+143.	 Allison Duettman	@allisondman
+144.	 Aubrey de Grey	@aubreydegrey
+145.	 Tamara McCleary	@TamaraMcCleary
+146.	 Kevin Kelly	@kevin2kelly
+147.	Antonio Grasso	@antgrasso
+148.	Brian Solis	@briansolis
+149.	ipfconline	@ipfconline1
+150.	Michael Fisher	@Fisher85M
+151.	Cyril Coste	@CyrilCoste
+152.	Giuliano Liguori	@ingliguori
+153.	Sandeep Raut	@rautsan
+154.	Daniel Newman	@danielnewmanUV
+155.	James Gingerich	@jamesvgingerich
+156.	Harold Sinnott	@HaroldSinnott
+157.	Linda Grasso	@LindaGrass0
+158.	Marcell Vollmer	@mvollmer1
+159.	ANDY FITZE	@andy_fitze
+160.	R “Ray” Wang	@rwang0 
+161.	Sally Eaves	@sallyeaves
+162.	Helen Yu	@YuHelenYu
+163.	 Marcus Borba	@marcusborba
+164.	Nicolas Babin	@Nicochan33
+165.	Theodora (Theo) Lau	@psb_dc
+166.	Dion Hinchcliffe	@dhinchcliffe
+167.	Danielle Guzman	@guzmand
+168.	Craig Brown	@craigbrownphd
+169.	David Doughty	@daviddoughty
+170.	Tom Raftery	@TomRaftery
+171.	Wilko S. Wolters	@WSWMUC
+172.	Jim Marous	@JimMarous
+173.	Vladimer Botsvadze	@VladoBotsvadze
+174.	Greg Verdino	@gregverdino
+175.	Digital Trans4m 	@digital_trans4m
+176.	Claudio M. Camacho	@claudiomkd
+177.	Ronald van Loon	@Ronald_vanLoon
+178.	Mike BAI	@Mike_IMC
+179.	Chan Naseeb	@ChanNaseeb
+180.	Richard Branson	@richardbranson
+181.	Prof(Dr) Sanjay Kuma Rout (Futurist)	@ProfSanjayRout5
+182.	Toby Trevarthen	@tobinw
+183.	Peter F Gallagher	@peterfgallagher
+184.	Guy Kawasaki	@GuyKawasaki
+185.	Ben Horowitz	@bhorowitz
+186.	Chris Brogan	@chrisbrogan
+187.	Mari Smith	@MariSmith
+188.	Keith Keller	@KeithKeller
+189.	Elise Quevedo	@EliseQuevedo
+190.	Kirk Borne	@KirkDBorne
+191.	Dr. Ganapathi Pulipaka	@gp_pulipaka
+192.	Ronald van Loon	@Ronald_vanLoon
+193.	Harold Sinnott	@HaroldSinnott
+194.	Franco Ronconi	@FrRonconi
+195.	Dev Khanna	@CurieuxExplorer
+196.	Tansu YEńěEN	@TansuYegen
+197.	Mario Pawlowski	@PawlowskiMario
+198.	Harold Sinnott	@HaroldSinnott
+199.	Evan Kirstel	@EvanKirstel
+200.	Dr. Khulood Almani	@Khulood_Almani
+201.	Chidambara	@chidambara09
+202.	Dr. Marcell Vollmer	@mvollmer1
+203.	Jean-Baptiste	@jblefevre60
+204.	Jim Harris	@JimHarris
+205.	Pascal Bornet	@pascal_bornet
+206.	Lex Fridman	@lexfridman
+207.	Andrew Ng	@AndrewYNg
+208.	Philip Vollet	@philipvollet
+209.	Yann LeCun	@ylecun
+210.	Andrej Karpathy	@karpathy
+211.	Mark Tenenholtz	@marktenenholtz
+212.	Iain Brown	@IainLJBrown
+213.	Terence Mills	@terence_mills
+214.	Francesca Rossi	@frossi_t
+215.	Pinna Pierre	@pierrepinna
+216.	Rob McCargow	@RobMcCargow
+217.	Theodora (Theo) Lau	@psb_dc
+218.	Patrick Mineault	@neuromatch.social	@patrickmineault
+219.	Pieter Abbeel	@pabbeel
+220.	Rachel Thomas	@math_rachel
+221.	Kai-Fu Lee	@kaifulee
+222.	Vinod Khosla	@vkhosla
+223.	Michael Anti	@mranti
+224.	Reid Hoffman	@reidhoffman
+225.	Pedro Domingos	@pmddomingos
+226.	Gary Marcus	@GaryMarcus
+227.	Murat Durmus	@CEO_AISOMA
+228.	Oriol Vinyals	@OriolVinyalsML
+229.	Alvin Foo	@alvinfoo
+230.	Soumith Chintala	@soumithchintala
+231.	abhishek	@abhi1thakur
+232.	Mike Tamir	@MikeTamir
+233.	Iain Brown	@IainLJBrown
+234.	Sebastian Raschka	@rasbt
+235.	Cassie Kozyrkov	@quaesita
+236.	Greg Brockman	@gdb
+237.	Warren Buffett	@WarrenBuffett
+238.	Ray Kurzweil	@raykurzweil
 
 ORGANIZATIONS
-1. Future Today Institute @FTI
-2. World Economic Forum @wef
-3. Tech Crunch @TechCrunch
-4. GF2045 @2045Initiative
-5. Future Timeline @future_timeline
-6. Foresight Alliance @ForesightAlianz
-7. Humanity Plus @HumanityPlus
-8. APF @profuturists
-9. Nieman Lab @NiemanLab
-10. Museum of the Future @MOTF
-11. BBC Future @BBC_Future
-12. Future @future
-13. NASA @NASA
-14. Good Judgment Inc @superforecaster
-15. Digiworld-Institute @DigiworldInst
-16. Big Data Analytics AI Data Science @BigDataBRA
+1.	Future Today Institute	@FTI
+2.	World Economic Forum	@wef
+3.	Tech Crunch	@TechCrunch
+4.	GF2045	@2045Initiative
+5.	Future Timeline	@future_timeline
+6.	Foresight Alliance	@ForesightAlianz
+7.	Humanity Plus	@HumanityPlus
+8.	APF	@profuturists
+9.	Nieman Lab	@NiemanLab
+10.	Museum of the Future	@MOTF
+11.	BBC Future	@BBC_Future
+12.	Future	@future
+13.	NASA	@NASA
+14.	Good Judgment Inc	@superforecaster
+15.	Digiworld-Institute	@DigiworldInst
+16.	Big Data Analytics AI Data Science	@BigDataBRA
 
 
 
