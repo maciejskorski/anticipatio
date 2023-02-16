@@ -6,3 +6,14 @@ from January 2021 to January 2023.
 Tweets are stored in the `data` subdirectory, in individual `.csv` files.
 
 Generated with `generate.py` script.
+
+To work with data, do:
+```python
+import pandas as pd
+from pathlib import Path
+
+files = Path('./data').rglob('*csv')
+outs = map(pd.read_csv, files)
+outs = pd.concat(outs)
+outs.shape # (290226, 5)
+```
