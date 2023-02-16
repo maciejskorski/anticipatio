@@ -1,3 +1,3 @@
 # Datasets
 
-* [Futurist Influence Rankings](futurists.csv) by https://rossdawson.com
+* [Top Futurist from Ross Dawson's Influence Rankings](./futurists_rossdawson/)
