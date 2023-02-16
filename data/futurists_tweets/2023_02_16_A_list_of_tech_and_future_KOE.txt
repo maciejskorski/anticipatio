@@ -216,7 +216,7 @@
 215.	Pinna Pierre	@pierrepinna
 216.	Rob McCargow	@RobMcCargow
 217.	Theodora (Theo) Lau	@psb_dc
-218.	Patrick Mineault	@neuromatch.social	@patrickmineault
+218.	Patrick Mineault    @patrickmineault
 219.	Pieter Abbeel	@pabbeel
 220.	Rachel Thomas	@math_rachel
 221.	Kai-Fu Lee	@kaifulee
@@ -237,6 +237,7 @@
 236.	Greg Brockman	@gdb
 237.	Warren Buffett	@WarrenBuffett
 238.	Ray Kurzweil	@raykurzweil
+239.	Patrick Mineault    @neuromatch.social
 
 ORGANIZATIONS
 1.	Future Today Institute	@FTI
