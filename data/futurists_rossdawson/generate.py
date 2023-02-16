@@ -22,13 +22,13 @@ def get_tweets(username,n_tweets=None,attributes=attributes):
     tweets = itertools.islice(tweets,n_tweets) # stopped when the count reached
     tweets = itertools.takewhile(lambda t:t.date>=start_date, tweets) # stop when date passed
     tweets = map(lambda t: (username,)+tuple(getattr(t,a) for a in attributes),tweets) # keep only attributes needed
-    pd.DataFrame(tweets).to_csv(f'../data/futurists_rossdawson/data/{username}.csv')
+    pd.DataFrame(tweets).to_csv(f'futurists_rossdawson/data/{username}.csv')
     logger.info(username)
     return tweets
 
 
 # a list of accounts to scrape
-user_names = pd.read_csv('../data/futurists_rossdawson/futurists.txt')['Twitter'].to_list()
+user_names = pd.read_csv('futurists_rossdawson/futurists.txt')['Twitter'].to_list()
 
 # parallelise queries for speed ! 
 with mp.Pool(4) as p:
