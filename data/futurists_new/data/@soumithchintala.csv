@@ -1,0 +1,1249 @@
+,0,1,2,3
+0,@soumithchintala,2023-02-13 18:38:36+00:00,https://twitter.com/soumithchintala/status/1625202797628035075,"@keithmadams i think programmers are incompetent wrt parallel computing.
+Our ability to simulate and keep track of multiple parallel threads of logic (and interactions between these threads) imo is very limited.
+Restricted parallel computing is the only viable thing that scales to our brains."
+1,@soumithchintala,2023-02-10 19:28:41+00:00,https://twitter.com/soumithchintala/status/1624128236987842560,@jiayq it reminds me of trying to talk to a dog
+2,@soumithchintala,2023-02-10 17:20:29+00:00,https://twitter.com/soumithchintala/status/1624095977601736704,"Language models explicitly using APIs and tools.
+
+Pretty excited about this work from @MetaAI"
+3,@soumithchintala,2023-02-09 20:06:21+00:00,https://twitter.com/soumithchintala/status/1623775327523569668,"@maxbrudolph @PyTorch it is an affine layer, the historical naming is unfortunate but we live with it. It traces back to torch3/torch1
+
+https://t.co/NI1Y743a6W"
+4,@soumithchintala,2023-02-09 16:28:09+00:00,https://twitter.com/soumithchintala/status/1623720416341635073,"@pommedeterre33 @OpenAI memory pooling for CUDAGraphs is coming baked into PyTorch as well. You can get rid of your hack after this is landed :)
+ https://t.co/BxkqCDVXva"
+5,@soumithchintala,2023-02-09 02:02:52+00:00,https://twitter.com/soumithchintala/status/1623502661432614915,@karpathy congrats!!!
+6,@soumithchintala,2023-02-08 23:37:35+00:00,https://twitter.com/soumithchintala/status/1623466098355056640,"In modern research, glorification of ""ideas"" over execution is extremely disappointing and often disheartening.
+
+The root of this problem lies in individual glorification -- such as Nobel, Turing awards . Ideas can be attributable to individuals, while execution is a team effort."
+7,@soumithchintala,2023-02-08 17:49:10+00:00,https://twitter.com/soumithchintala/status/1623378417281339405,"Bing has the best shot ever at making a dent to Google's dominance.
+If Google defends this successfully, they are probably good for a while.
+
+Reminds me of Google Plus vs Facebook in 2011."
+8,@soumithchintala,2023-02-06 16:20:54+00:00,https://twitter.com/soumithchintala/status/1622631427920494597,"if not production quality, coming pretty close!"
+9,@soumithchintala,2023-02-06 16:19:54+00:00,https://twitter.com/soumithchintala/status/1622631176266477568,"The temporal consistency is crazy good.
+Finally, vid2vid that is production-quality!"
+10,@soumithchintala,2023-02-03 18:29:25+00:00,https://twitter.com/soumithchintala/status/1621576608975921155,"""What were the papers on the list Ilya Sutskever gave John Carmack?""
+https://t.co/wWWLHxplVR
+
+@ilyasut would love for you to share this list to the world 😃"
+11,@soumithchintala,2023-02-02 18:57:23+00:00,https://twitter.com/soumithchintala/status/1621221259051663369,@alisabets https://t.co/ZFCcdrN1DP
+12,@soumithchintala,2023-02-02 18:56:41+00:00,https://twitter.com/soumithchintala/status/1621221080823218184,"@denisyarats agree. the original tweet quoted RLHF, but while I was writing mine, I also had supervised fine-tuning in mind, in particular:
+https://t.co/K43Kv2TIlL"
+13,@soumithchintala,2023-02-02 04:48:17+00:00,https://twitter.com/soumithchintala/status/1621007574299467777,"@sytelus @lexfridman it reminded me of Cyc, but it is very very very different from Cyc."
+14,@soumithchintala,2023-02-02 03:40:55+00:00,https://twitter.com/soumithchintala/status/1620990622822989824,"@alexandr_wang If we are on the right path, compute $ will far exceed annotation $, even amortizing capex costs over time.
+
+If annotation $ is nearing compute $, maybe we are on the wrong path -- where we ended up creating a UI for a sweatshop instead of AGI."
+15,@soumithchintala,2023-02-02 03:37:27+00:00,https://twitter.com/soumithchintala/status/1620989750919274498,"If you would like some historical context on this path, the founder of Cyc, Douglas Lenat was on a recent @lexfridman podcast. You might enjoy listening to it whether you believe in the efficacy of Expert Systems or not.
+https://t.co/72GZC2ESP3"
+16,@soumithchintala,2023-02-02 03:37:27+00:00,https://twitter.com/soumithchintala/status/1620989749531131905,"Cyc goes down the path of Expert Systems -- a field of AI that got really popular in the 70s and 80s (with several people getting Turing awards for their work). 
+
+Expert systems are contrastive to neural networks -- maybe even diametrical opposites.
+https://t.co/fsBrtyMkJl"
+17,@soumithchintala,2023-02-02 03:37:26+00:00,https://twitter.com/soumithchintala/status/1620989746679021570,"LLMs + RLHF + Hiring annotators en-masse.
+
+This reminds me of Cyc, an AI project started in 1984 and still running. People were hired to encode what they knew -- common sense, facts, etc. into a special language.
+Cyc has 24.5+ million hand-written rules.
+
+https://t.co/KTEX9wWaoT"
+18,@soumithchintala,2023-01-24 19:14:02+00:00,https://twitter.com/soumithchintala/status/1617963956261486593,"This is amazing work from @AngCao3 and @jcjohnss!
+NeRF but with dynamic scenes."
+19,@soumithchintala,2023-01-23 04:13:57+00:00,https://twitter.com/soumithchintala/status/1617375054496468996,"@kaikim29 @ptrblck_de maybe we should start making some merchandise. that profile picture and ""ptrblck"" are legendary at this point!"
+20,@soumithchintala,2023-01-17 18:37:47+00:00,https://twitter.com/soumithchintala/status/1615418118217629696,"@vinodg @dylan522p for dynamic shapes, AOT works for 40+ models, Inductor works for 3 models.
+Active workstream, with updates posted at: https://t.co/yZjpd57YMs"
+21,@soumithchintala,2023-01-17 17:28:55+00:00,https://twitter.com/soumithchintala/status/1615400788771373057,@sasank51 @dylan522p data that the DSL is adapting well to various hardware-specific patterns and instructions without having to add a `if nvidia: triton.nvidia.instruction elif amd: triton.amd.instruction` etc.
+22,@soumithchintala,2023-01-17 17:03:18+00:00,https://twitter.com/soumithchintala/status/1615394342704758784,"@dylan522p there's also eager mode that we haven't touched or cracked with the Inductor-Triton path.
+We have an active workstream to support dynamic shapes + inductor + triton, and if that works out eager mode can be cracked too."
+23,@soumithchintala,2023-01-17 17:02:28+00:00,https://twitter.com/soumithchintala/status/1615394132314161167,"@dylan522p I think ""breaking"" is slightly stretched as well -- as I call out, there are many parts of an implied breaking that IMO are still in a high-risk phase, but actively being de-risked.
+It's not clear what the implications for the DSL of Triton are to generalize to wider hardware."
+24,@soumithchintala,2023-01-17 16:09:20+00:00,https://twitter.com/soumithchintala/status/1615380762060115972,I'd love for case law to be established on Generative AI sooner than later!
+25,@soumithchintala,2023-01-17 15:34:00+00:00,https://twitter.com/soumithchintala/status/1615371868290289670,At the moment its not clear if the Triton DSL can successfully be multi-vendor or it'll face the fate of OpenCL. Time will tell how it evolves and de-risks.
+26,@soumithchintala,2023-01-17 15:33:59+00:00,https://twitter.com/soumithchintala/status/1615371866503352321,"In my opinion, the article inflates reality -- the CUDA monopoly is nowhere close to being broken and CUDA will continue to be the key dependency for PyTorch.
+
+As a data point, Triton isn't the first rally -- multiple vendors use the XLA compiler as a rally point."
+27,@soumithchintala,2023-01-17 15:25:41+00:00,https://twitter.com/soumithchintala/status/1615369776918073344,"@sasank51 @PyTorch @nvidia @Arm good thread, but I want to set the record straight.
+
+PT2.0+Triton didn't happen linearly. Multiple people wanted it to happen around the same time.
+The causal work was ""Jason Ansel hacked up TorchInductor and showed outsized results.""
+Other work like yours was a strong influence."
+28,@soumithchintala,2023-01-12 02:05:10+00:00,https://twitter.com/soumithchintala/status/1613356380353712128,"Education should adopt to the fact that ChatGPT and other powerful AI tools exist and will continue to improve.
+
+WashU seems to be giving the right guidance to their faculty, kudos to them!"
+29,@soumithchintala,2023-01-11 03:53:15+00:00,https://twitter.com/soumithchintala/status/1613021191723163648,@_arohan_ https://t.co/HgAQoVBsoO
+30,@soumithchintala,2023-01-10 22:02:35+00:00,https://twitter.com/soumithchintala/status/1612932944028393474,@pfau curves go brrrrrr....
+31,@soumithchintala,2023-01-10 17:03:23+00:00,https://twitter.com/soumithchintala/status/1612857648814198797,"@bwasti @cHHillee it is not exposed, but I believe it is here: https://t.co/piICvoeM1o"
+32,@soumithchintala,2023-01-10 16:40:26+00:00,https://twitter.com/soumithchintala/status/1612851871198191616,"@bwasti you can likely hack something up via https://t.co/oH6MnvZpcR
+
+@cHHillee and natalia were hacking up some heuristics in Inductor that are based on bytes accessed as well."
+33,@soumithchintala,2023-01-10 04:54:27+00:00,https://twitter.com/soumithchintala/status/1612674206566879232,Been hearing rumors about this $10B @ $40B raise. Quite an interesting deal structure. I should write more thoughts about this...
+34,@soumithchintala,2023-01-05 02:50:56+00:00,https://twitter.com/soumithchintala/status/1610831181993459712,"good and quick clarification from ICML. No longer looks terrible, but it is very very conservative.
+
+Authors put their names (and reputations) on the papers. Authors using Google or LLMs don't get absolved for plagiarism, misuse or fraud by claiming ignorance."
+35,@soumithchintala,2023-01-04 16:53:22+00:00,https://twitter.com/soumithchintala/status/1610680801313841152,"I don't think this policy by @icmlconf will age well.
+
+Its not clear to me what the reservations are -- they can ban ""AI as a co-author"", but not allowing it as a tool is a bit of an overreach without obviously stated harms."
+36,@soumithchintala,2023-01-03 22:14:21+00:00,https://twitter.com/soumithchintala/status/1610399190466666502,@Si_Boehm @sasank51 https://t.co/64N8PrcclD
+37,@soumithchintala,2023-01-03 19:27:05+00:00,https://twitter.com/soumithchintala/status/1610357096305889281,"@jeffclune i think it's crazy because I believe more than 50% of economically valuable human work involves physical actions (and hence robotics).
+I do not expect robotics to get to human level by 2030."
+38,@soumithchintala,2023-01-01 16:12:40+00:00,https://twitter.com/soumithchintala/status/1609583393553149954,"@pommedeterre33 @ezyang if you've imported triton, then assume that the binary was run, and take precautions. if the command from the blog post says you were affected then it detected torchtriton"
+39,@soumithchintala,2022-12-31 23:48:47+00:00,https://twitter.com/soumithchintala/status/1609335791280349190,@tinito16 linux only
+40,@soumithchintala,2022-12-31 23:47:15+00:00,https://twitter.com/soumithchintala/status/1609335406696488960,"If you've installed PyTorch's nightly build on Linux via pip in the past week, please read the quoted post immediately!"
+41,@soumithchintala,2022-12-31 05:29:22+00:00,https://twitter.com/soumithchintala/status/1609059113643970560,@deliprao if the version says `1.13.0` that's not the nightly.
+42,@soumithchintala,2022-12-30 22:30:49+00:00,https://twitter.com/soumithchintala/status/1608953781307441156,"@NaveenGRao I think AI or deep learning research is as much science as say HPC research.
+Neither of them are close to what you would consider traditional (or fundamental) science."
+43,@soumithchintala,2022-12-30 15:12:27+00:00,https://twitter.com/soumithchintala/status/1608843466628554754,"@Alex_Gendelman it's not just a ""Google did the research, OpenAI productized it"". That would be blatantly false and trivialize the work of many researchers."
+44,@soumithchintala,2022-12-30 15:10:59+00:00,https://twitter.com/soumithchintala/status/1608843094296006659,"@Alex_Gendelman there's a lot of research that OpenAI did that pushed things a lot further ahead, leading up to the GPT3 moment. just to list a few obvious ones:
+1. high-performance computing research into optimal data ingress and accelerator parallelization
+2. AI &lt;-&gt; human alignment research"
+45,@soumithchintala,2022-12-30 08:09:29+00:00,https://twitter.com/soumithchintala/status/1608737022604345345,"this counter-take is also bad (but not ignorant bad, just a hot-take that I don't think I agree with):
+https://t.co/4IqGpmq5lA
+
+@FelixHill84 's excellent rebuttal of this is on-point."
+46,@soumithchintala,2022-12-30 08:05:55+00:00,https://twitter.com/soumithchintala/status/1608736122976501763,"this take is so bad, it's hard to comprehend where to start taking it apart!
+
+For one, it starts with academic peer-review pathology: ""paper too simple, so cant be innovative -- reject"".
+
+It equates ""fundamental innovations"" to ""architectural innovations"" which is like ughhh..."
+47,@soumithchintala,2022-12-28 07:10:21+00:00,https://twitter.com/soumithchintala/status/1607997365465612294,@typedfemale lets do it! https://t.co/TtDNcjWh5p
+48,@soumithchintala,2022-12-28 06:53:50+00:00,https://twitter.com/soumithchintala/status/1607993209724211205,@typedfemale keep going and we'll be back to Kernel SVMs
+49,@soumithchintala,2022-12-28 05:48:53+00:00,https://twitter.com/soumithchintala/status/1607976861761703937,"@untitled01ipynb @vinodg @karpathy it is, in its general form, but a DTensor in the context of PyTorch has a much much more simplified sharding and scheduling overall because the workloads are fairly homogeneous. So you don't need to do fancy things."
+50,@soumithchintala,2022-12-28 03:11:11+00:00,https://twitter.com/soumithchintala/status/1607937175508877314,@vinodg @karpathy i was referring to the DTensor stuff: https://t.co/L0OcaLeSYs
+51,@soumithchintala,2022-12-28 00:42:25+00:00,https://twitter.com/soumithchintala/status/1607899738539687937,"@karpathy 3. clean distributed Tensor Parallelism is something we're just about landing, would be good for us to take a crack at distributed minGPT that doesn't look ugly"
+52,@soumithchintala,2022-12-28 00:41:13+00:00,https://twitter.com/soumithchintala/status/1607899434721083392,"@karpathy Once you publish the ""optimized minGPT"" repo, we'll probably send some more patches in.
+
+1. with the latest nightlies, the xformers/flash-attention kernels are in PyTorch core now.
+2. we have a matmul autotuner that is about to land that gives significant boost in perf"
+53,@soumithchintala,2022-12-28 00:40:15+00:00,https://twitter.com/soumithchintala/status/1607899194018369536,"@karpathy this is fun!
+I was going to hack on minGPT to enable compilation, a bunch of other optimizations and eventually distributed -- looks like you're taking the lead here :D"
+54,@soumithchintala,2022-12-27 07:50:48+00:00,https://twitter.com/soumithchintala/status/1607645155963842561,@typedfemale define state in stateful
+55,@soumithchintala,2022-12-26 07:02:55+00:00,https://twitter.com/soumithchintala/status/1607270717338578944,"interesting move.
+wonder how this is going to play out..."
+56,@soumithchintala,2022-12-23 03:10:56+00:00,https://twitter.com/soumithchintala/status/1606125172477435906,"@typedfemale this is actually one of the common ways to devolve into crockpot research. a few iteration cycles deep without any external feedback can make you believe your ideas are genius when they might not be.
+broad critique is a very powerful regularizer."
+57,@soumithchintala,2022-12-21 09:34:28+00:00,https://twitter.com/soumithchintala/status/1605496919328927744,"Had a practical search today that Google totally failed to answer, https://t.co/yqt7ueGudW failed too, but ChatGPT gave an answer that sounds plausible.
+Now, the conundrum is that I don't know whether ChatGPT made stuff up or gave an accurate answer haha. https://t.co/1UTmEEXzwU"
+58,@soumithchintala,2022-12-20 20:50:59+00:00,https://twitter.com/soumithchintala/status/1605304780297211904,"@borisdayma @_arohan_ ""scan"" repetitive blocks is only faster if the loop is the bottleneck, which for any reasonable sized Transformer, it isn't.
+Either ways Compiled mode in pytorch will do horizontal fusion tricks the same as jax now."
+59,@soumithchintala,2022-12-18 02:26:14+00:00,https://twitter.com/soumithchintala/status/1604301984751751169,"@gabe_mrgl 's ball control policy competing with teleop, on @UnitreeRobotics Go1 robots!"
+60,@soumithchintala,2022-12-18 02:25:23+00:00,https://twitter.com/soumithchintala/status/1604301769982427137,"Messi or Mbappe?
+
+world cup fever hits the robots!
+(wait for the end...) https://t.co/VnhdlMZemI"
+61,@soumithchintala,2022-12-18 01:30:26+00:00,https://twitter.com/soumithchintala/status/1604287941223669760,"@sainingxie @giffmana if it traces back up to ResNet / GoogleNet papers, then it is definitely an established convention and not a bug or a pytorch problem"
+62,@soumithchintala,2022-12-17 21:35:21+00:00,https://twitter.com/soumithchintala/status/1604228782398636033,@giffmana https://t.co/e0LF1wotKx
+63,@soumithchintala,2022-12-17 21:33:08+00:00,https://twitter.com/soumithchintala/status/1604228222895345664,"@giffmana I've seen this once before where gmacs were accounted for as gflops due to a bug in the profiler code. and the factor is exactly 2x.
+probably thats whats happening."
+64,@soumithchintala,2022-12-17 06:30:49+00:00,https://twitter.com/soumithchintala/status/1604001148650033152,@qevni @huggingface haha yes you did :)
+65,@soumithchintala,2022-12-16 10:19:12+00:00,https://twitter.com/soumithchintala/status/1603696235344547840,"@huggingface Mastodon just seems a bit laggy, and the mobile apps have been sorta okay.
+Maybe I need to give it another shot, and just moved my account to sigmoid social, let's see."
+66,@soumithchintala,2022-12-16 08:47:14+00:00,https://twitter.com/soumithchintala/status/1603673091934244864,can @huggingface quickly start a Twitter clone for AI/ML folks 🤪
+67,@soumithchintala,2022-12-16 01:19:52+00:00,https://twitter.com/soumithchintala/status/1603560509756026880,"@hausman_k congrats, the data is the most valuable part IMO. Are you planning to release the data?"
+68,@soumithchintala,2022-12-15 21:28:25+00:00,https://twitter.com/soumithchintala/status/1603502263867441152,"We won the Outstanding Paper Award at the LangRob workshop @ CoRL 2022. (congrats @notmahi! )
+
+This is a starting point of NLP-powered spatial memory. Strictly better than using each pre-trained model separately.
+The framework makes it easy to add in more signals (like GraspNet)."
+69,@soumithchintala,2022-12-13 19:51:11+00:00,https://twitter.com/soumithchintala/status/1602753015181475840,"data2vec is a waayy faster pre-training method compared to baselines.
+check it out. code and models available."
+70,@soumithchintala,2022-12-12 19:00:59+00:00,https://twitter.com/soumithchintala/status/1602377994005549056,@bwasti @cHHillee tf 2.0 is imperative right
+71,@soumithchintala,2022-12-11 20:03:53+00:00,https://twitter.com/soumithchintala/status/1602031438383427584,"@ezyang mutable logic is such a pain. only if we got humans to think purely functionally, our compiler writing would be easier :D"
+72,@soumithchintala,2022-12-11 15:53:28+00:00,https://twitter.com/soumithchintala/status/1601968416797372416,"@DynamicWebPaige this is quite impressive.
+Now, @SingularMattrix and I need to record it live."
+73,@soumithchintala,2022-12-09 02:33:10+00:00,https://twitter.com/soumithchintala/status/1601042238955737088,"this was a really fun project to work on, using the @hellorobotinc!"
+74,@soumithchintala,2022-12-08 15:55:49+00:00,https://twitter.com/soumithchintala/status/1600881844995563520,@txhf thank you for the great work!!!
+75,@soumithchintala,2022-12-08 04:03:31+00:00,https://twitter.com/soumithchintala/status/1600702587392602113,"While minifiers aren't a new concept, they have been one of the most productive tools for us to do customer support.
+@marksaroufim writes a short thread about them."
+76,@soumithchintala,2022-12-07 18:16:16+00:00,https://twitter.com/soumithchintala/status/1600554800864956417,"IMO ChatGPT should just move in this direction, as I said here: https://t.co/W94YsYprqx"
+77,@soumithchintala,2022-12-07 18:15:35+00:00,https://twitter.com/soumithchintala/status/1600554630014025744,"This integrates GPT 3.5 with a Bing based retrieval system to verify / cite why it said what it said.
+
+At best: it says what ChatGPT says and also provides citations.
+On average: it won't be as detailed as ChatGPT but you can verify why it is saying what it is saying."
+78,@soumithchintala,2022-12-07 04:09:35+00:00,https://twitter.com/soumithchintala/status/1600341728569200641,torch.compile hard at work 🔥🔥🔥
+79,@soumithchintala,2022-12-07 00:45:00+00:00,https://twitter.com/soumithchintala/status/1600290243143311360,"@jmdagdelen @tomgoldsteincs you cache blank state queries. if the distribution looks like it would be helped by caching -- like an assumption ""the first few words that a lot of people chat with are the same"""
+80,@soumithchintala,2022-12-06 23:15:04+00:00,https://twitter.com/soumithchintala/status/1600267608309178373,Another great course from @rasbt adding to his long list of educational work!
+81,@soumithchintala,2022-12-06 20:23:38+00:00,https://twitter.com/soumithchintala/status/1600224469574123520,@rama_vedantam @tomgoldsteincs hardware flops utilization
+82,@soumithchintala,2022-12-06 19:01:11+00:00,https://twitter.com/soumithchintala/status/1600203719215284246,"@tomgoldsteincs i think your per query estimates are on the high end and your total volume estimate is on the lower end.
+i would expect they are shipping a 30B param mode or lesser, and doing some amount of caching, and they are getting 80 to 90% HFU."
+83,@soumithchintala,2022-12-06 17:07:00+00:00,https://twitter.com/soumithchintala/status/1600174981727412224,@francoisfleuret @cHHillee @SnchzPedro_ @PyTorch no way as in no way without computing the full hessian first. for certain kind of problems (like a specific subsets of convnets) you can compute the diaghessian directly without ever paying the cost of computing the hessian. but cant do it generally. @ylecun is an expert at this
+84,@soumithchintala,2022-12-05 21:46:56+00:00,https://twitter.com/soumithchintala/status/1599883041530212352,"@andrewgwils @rasbt @rctatman Counter-example: Have you heard of https://t.co/7pr19iuDVp
+There's lots of improvements (engineering and research) happening to image diffusion models here.
+It is one of the most active places of activity for diffusion models.
+All of this is driven by individuals."
+85,@soumithchintala,2022-12-05 21:35:29+00:00,https://twitter.com/soumithchintala/status/1599880163105570816,"@andrewgwils @rasbt @rctatman nope, that's a generalization that I think is not true.
+A lot of active AI-based products are built by startups, who are doing active AI research but are not prioritizing disseminating of that research (or doing it up to the standard of good science)."
+86,@soumithchintala,2022-12-05 21:08:13+00:00,https://twitter.com/soumithchintala/status/1599873301282971648,"AIGrant by @natfriedman and @danielgross seems to be a cool, much-needed initiative.
+
+Products using AI are quite behind, and we need a lot of active product exploration to get to a better place.
+
+https://t.co/6xjoxKoWVi"
+87,@soumithchintala,2022-12-05 21:04:38+00:00,https://twitter.com/soumithchintala/status/1599872396705796096,@andrewgwils @rasbt @rctatman people = people building active products on active  research and prioritizing the product quality improvements rather than disseminating **how** the improvement was achieved.
+88,@soumithchintala,2022-12-05 20:30:16+00:00,https://twitter.com/soumithchintala/status/1599863747946115072,"i think this directly leads to:
+competitive advantage in AI goes to those with the most customers -- because the customers start the iterative cycle driving the data engine."
+89,@soumithchintala,2022-12-05 18:56:30+00:00,https://twitter.com/soumithchintala/status/1599840152213684224,"i'm sure it's a small wrapper around DreamBooth, but the marketing copy is just 🐶🐶🐶"
+90,@soumithchintala,2022-12-05 18:53:58+00:00,https://twitter.com/soumithchintala/status/1599839515686113280,"""your dog can now be anything, anywhere, even anyone with the power of AI!"" - GoodBoAI
+
+Ummm, this is exactly what I wanted Generative AI for!
++1 for the perfect name.
+https://t.co/56STGxdr9c https://t.co/K0fNwcNGgo"
+91,@soumithchintala,2022-12-05 15:45:35+00:00,https://twitter.com/soumithchintala/status/1599792107027243009,"@1littlecoder @huggingface I did not, but this also seems like it does the same thing.
+Generative AI is moving so fast, hard to keep up with what exists :D"
+92,@soumithchintala,2022-12-05 15:34:40+00:00,https://twitter.com/soumithchintala/status/1599789358592057346,"@averma12 of my dog. see the video, pretty much like that ""my dog on the cover of TIME magazine"", ""my dog flying over New York City"" etc."
+93,@soumithchintala,2022-12-05 15:32:18+00:00,https://twitter.com/soumithchintala/status/1599788763218989057,"I've been wondering how to upload a few of my dog's and get a custom generative art. 
+This tool seems pretty on point for this.
+
+(I tried a few, like img2img, etc. but it didn't work as expected)"
+94,@soumithchintala,2022-12-04 21:52:30+00:00,https://twitter.com/soumithchintala/status/1599522054318878721,@woj_zaremba @johnschulman2 congrats @johnschulman2! it's a huge step in alignment from the status quo.
+95,@soumithchintala,2022-12-04 19:38:44+00:00,https://twitter.com/soumithchintala/status/1599488392768540672,"@HarveenChadha it's all made up. i didn't do half the things there, didn't go to iit Hyderabad or to Maryland or get a PhD"
+96,@soumithchintala,2022-12-04 19:04:39+00:00,https://twitter.com/soumithchintala/status/1599479816717144065,"@georgiagkioxari @deliprao caffe or the BSD license. it it's caffe, it got causal graph wrong (pytorch and caffe2 were parallel projects until they merged, pretty late). if its BSD, its just wrong."
+97,@soumithchintala,2022-12-04 16:12:21+00:00,https://twitter.com/soumithchintala/status/1599436456174309376,"Quanta is the best active science journalism we have in my humble opinion.
+
+The track record here is solid, and should be the focus than one article's headline not being up to everyone's satisfaction."
+98,@soumithchintala,2022-12-04 15:44:25+00:00,https://twitter.com/soumithchintala/status/1599429424289501184,@1littlecoder i dont have a phd. i was never involved with ElementAI. so still wrong 🤪
+99,@soumithchintala,2022-12-04 05:44:10+00:00,https://twitter.com/soumithchintala/status/1599278366552907776,"@xiao_ted maybe they have it fixed already (via browsing=True or another unreleased mode), but haven't released it yet..."
+100,@soumithchintala,2022-12-04 05:42:56+00:00,https://twitter.com/soumithchintala/status/1599278056559894528,"@sg1753 @AlexGDimakis I think verification by consensus is further along.
+Meta released this Wikipedia verification thing earlier this year that I thought was pretty impressive.
+https://t.co/WJQ0S02Qoq
+
+Verifying arithmetic, logic, code, physical embodiments etc. is pretty far out, I agree."
+101,@soumithchintala,2022-12-04 05:38:59+00:00,https://twitter.com/soumithchintala/status/1599277060656009216,@dileeplearning that's a funny but plausible take :D
+102,@soumithchintala,2022-12-04 05:24:06+00:00,https://twitter.com/soumithchintala/status/1599273319072530433,"@deliprao not really, the Berkeley reference doesn't check out (unless I don't know something :D )"
+103,@soumithchintala,2022-12-04 04:42:39+00:00,https://twitter.com/soumithchintala/status/1599262885095477248,hooking it up to verification systems shouldn’t even be that hard IMO
+104,@soumithchintala,2022-12-04 04:39:14+00:00,https://twitter.com/soumithchintala/status/1599262026987368448,"ChatGPT seems to be **really** good for creative work and a solid starting point for mundane work (similar to CoPilot).
+It is unlikely i will trust it with automation, where you need predictability.
+I wish in the next iterations, they hook it up to verification systems. https://t.co/NrnjMIqML4"
+105,@soumithchintala,2022-12-04 00:58:03+00:00,https://twitter.com/soumithchintala/status/1599206364978348032,this is quite interesting…
+106,@soumithchintala,2022-12-03 18:52:18+00:00,https://twitter.com/soumithchintala/status/1599114318657646593,"@1littlecoder its in the first or second screenshot. hint: colloquialism
+Answer: “laughing all the way to the bank”
+only one letter per word is revealed, and you (or the bot) has to guess the rest."
+107,@soumithchintala,2022-12-03 18:41:10+00:00,https://twitter.com/soumithchintala/status/1599111519505379328,@1littlecoder i think its working for single words but not filling in sentences. ive tried a few more things and couldn’t get it to work yet
+108,@soumithchintala,2022-12-03 18:08:31+00:00,https://twitter.com/soumithchintala/status/1599103299814273024,"gee, I think it's asking me to stop trying 😂 https://t.co/fa1AijkhHy"
+109,@soumithchintala,2022-12-03 18:04:31+00:00,https://twitter.com/soumithchintala/status/1599102294351495168,anyone figured out how to do crosswords or fill-in-the-blank type things with ChatGPT? Isn't working for me quite yet. https://t.co/KBgZA4ZbL7
+110,@soumithchintala,2022-12-03 16:13:31+00:00,https://twitter.com/soumithchintala/status/1599074358776848384,"@teoliphant @PyTorch @quansightai @openteamsinc couldn't have gotten to PyTorch 2.0 without the fantastic work from the @quansightai team of engineers. Thank you @teoliphant , Mario and team!"
+111,@soumithchintala,2022-12-03 07:46:43+00:00,https://twitter.com/soumithchintala/status/1598946821325598720,@b0noi @PyTorch we missed your presence at the Conference Slava!
+112,@soumithchintala,2022-12-03 07:23:58+00:00,https://twitter.com/soumithchintala/status/1598941094305140736,"@giffmana that IMO is distinctively different from ""bashed for having a compiled mode"""
+113,@soumithchintala,2022-12-03 07:23:23+00:00,https://twitter.com/soumithchintala/status/1598940947345133568,"@giffmana 2. It didn't have speedups proportional to these compile-times -- torch7 would often be the same speed with zero compile-time
+3. It didn't have a mode that didn't have long compile times -- it kinda did but wasn't actually usable."
+114,@soumithchintala,2022-12-03 07:23:10+00:00,https://twitter.com/soumithchintala/status/1598940892462972928,"@giffmana Please correct me if I am wrong.
+Having lived through the Theano and Torch-7 days (and likely to be biased because of my credentials), 
+Theano used to be bashed because:
+1. It had long compile-times (cold-start on a simple DCGAN code base was as long as ~1 hour)
+👇"
+115,@soumithchintala,2022-12-02 17:21:55+00:00,https://twitter.com/soumithchintala/status/1598729185588961280,"@francoisfleuret :D no LLMs (yet).
+
+https://t.co/apWOmMUXB0
+
+https://t.co/vAHqZMlGVT"
+116,@soumithchintala,2022-12-02 17:12:43+00:00,https://twitter.com/soumithchintala/status/1598726869917917184,"@francoisfleuret Yes, some blocks are made compilable and some blocks are not.
+It will compile blocks that are compilable and leave alone the rest. https://t.co/qqrBFWSLPa"
+117,@soumithchintala,2022-12-02 17:04:57+00:00,https://twitter.com/soumithchintala/status/1598724916194459648,"@francoisfleuret it ignores bytecode that is doesnt understand, so those parts wont be compiled. that’s fine right?"
+118,@soumithchintala,2022-12-02 16:02:16+00:00,https://twitter.com/soumithchintala/status/1598709139424911362,"so excited to introduce @PyTorch 2.0, a year in the works.
+Still early, be gentle :)"
+119,@soumithchintala,2022-12-01 17:53:13+00:00,https://twitter.com/soumithchintala/status/1598374673313632265,"Just landed in New Orleans.
+Pretty pumped for the #PyTorchConference tomorrow.
+Lots of good content lined up..."
+120,@soumithchintala,2022-12-01 17:40:54+00:00,https://twitter.com/soumithchintala/status/1598371574666907648,"want to try ChatGPT, but it looks like everyone else is using it right now :D"
+121,@soumithchintala,2022-11-30 15:46:24+00:00,https://twitter.com/soumithchintala/status/1597980373824114690,"@ID_AA_Carmack Both are specializations of LpPooling.
+Think of Average on one end and Max on the other end of LpPooling spectrum -- where p is the power.
+Average is L1, Max is Linf, L2 = Root-mean-square pooling, etc.
+References: 
+https://t.co/UZVhLvHMnJ
+https://t.co/4uBwUNclSw https://t.co/upypxuDrPw"
+122,@soumithchintala,2022-11-30 06:39:39+00:00,https://twitter.com/soumithchintala/status/1597842776921501697,this is a cool idea!
+123,@soumithchintala,2022-11-22 16:07:38+00:00,https://twitter.com/soumithchintala/status/1595086611565404166,"when i used to work on Starcraft, Diplomacy was one of the next grand challenges that looked unattainable and unimaginably challenging.
+
+Now we have human-level diplomacy.
+Congrats to @adamlerer @polynoamial and the team!"
+124,@soumithchintala,2022-11-20 22:39:43+00:00,https://twitter.com/soumithchintala/status/1594460509176320000,"@andrewgwils this, 1000x.
+But there is a certain threshold of evidence that the simple methods can cross after which they become very very convincing."
+125,@soumithchintala,2022-11-20 22:31:53+00:00,https://twitter.com/soumithchintala/status/1594458537702277120,"One of the tragedies of human nature is centrists can't peacefully argue with each other in public. 
+
+The argument gets taken over by the left or the right and they make the argument more extreme and less nuanced that it ever was -- and the centrists quietly disappear."
+126,@soumithchintala,2022-11-20 22:22:45+00:00,https://twitter.com/soumithchintala/status/1594456237814747136,"@moreisdifferent to be clear, I don't think I agree. This is my take:
+https://t.co/1UwPOKcxtT"
+127,@soumithchintala,2022-11-20 06:59:40+00:00,https://twitter.com/soumithchintala/status/1594223937109610502,"If you run a large organization, monitoring Goodhart's is critical to keeping it sane.
+
+Jascha's post was quite an enjoyable (and fun) read -- apply ML techniques (loosely) to counter the effects of measure overfitting in the real world."
+128,@soumithchintala,2022-11-18 01:01:23+00:00,https://twitter.com/soumithchintala/status/1593408996144254976,@vishakhhegde https://t.co/E4cAz9K39w
+129,@soumithchintala,2022-11-18 01:00:49+00:00,https://twitter.com/soumithchintala/status/1593408852610908160,@vishakhhegde https://t.co/d9IuOfNNwg
+130,@soumithchintala,2022-11-17 17:59:10+00:00,https://twitter.com/soumithchintala/status/1593302742881239057,The plan was to add guardrails like structured and restricted prompting before the model was put to tangible use -- still the plan and only gets better with the high-quality feedback so far!
+131,@soumithchintala,2022-11-17 17:59:10+00:00,https://twitter.com/soumithchintala/status/1593302741216108544,"After a lot of useful, critical feedback on Galactica, the language model demo has now been paused. There is more work to do."
+132,@soumithchintala,2022-11-15 18:25:08+00:00,https://twitter.com/soumithchintala/status/1592584500307185664,@cHHillee torch.funky
+133,@soumithchintala,2022-11-15 18:22:44+00:00,https://twitter.com/soumithchintala/status/1592583895576633344,"@prabhantsingh @paperswithcode it would be a solid starting point for writing sections of your literature, instead of starting from scratch"
+134,@soumithchintala,2022-11-15 17:12:48+00:00,https://twitter.com/soumithchintala/status/1592566298894270465,"Galactica is open!
+Model code and weights are available right here: https://t.co/76DByazYKp"
+135,@soumithchintala,2022-11-15 17:03:28+00:00,https://twitter.com/soumithchintala/status/1592563947282255873,"This is going to change how we consume and author scientific literature!
+
+from our @paperswithcode team!"
+136,@soumithchintala,2022-11-14 16:35:06+00:00,https://twitter.com/soumithchintala/status/1592194422158295040,"Here's the original AIT release tweet for context:
+https://t.co/2GHnZM9UDE"
+137,@soumithchintala,2022-11-14 16:34:18+00:00,https://twitter.com/soumithchintala/status/1592194221737484289,@pommedeterre33 @bing_xu_ @pommedeterre33 i think it's the Flash Attention paper: https://t.co/kdVrHkU96E
+138,@soumithchintala,2022-11-14 16:33:39+00:00,https://twitter.com/soumithchintala/status/1592194058126233600,"AITemplate v0.1.1 is 🔥🔥🔥
+On Stable Diffusion, it was already the fastest GPU inference engine, but now it is
++25% faster for single image sampling
++34% faster for sampling 16 images
+
+The next release (v0.2) will ship auto-conversion of PyTorch models via an FX2AIT plugin."
+139,@soumithchintala,2022-11-11 00:01:07+00:00,https://twitter.com/soumithchintala/status/1590857115882909696,is this Blue Verified thing a joke? someone please tell me it's a joke.
+140,@soumithchintala,2022-11-10 20:04:05+00:00,https://twitter.com/soumithchintala/status/1590797463535124482,"We are introducing a DTensor into @PyTorch . Worth a few more eye-balls on the RFC (drafted in August).
+The longer google-doc is at the bottom of the issue.
+https://t.co/L0OcaLeSYs
+
+Credited the inspirations appropriately: TF/XLA/JAX's GSPMD/DTensor and OneFlow's GlobalTensor"
+141,@soumithchintala,2022-11-10 19:22:19+00:00,https://twitter.com/soumithchintala/status/1590786950466011138,"@c_valenzuelab slow down, i cant keep up :)"
+142,@soumithchintala,2022-11-10 14:17:53+00:00,https://twitter.com/soumithchintala/status/1590710338991034368,"@IAmAdiFuchs when companies think they'll lose in a given cycle, they don't submit. it's all very marketing-optimized. ml perf always was like that from the start"
+143,@soumithchintala,2022-11-03 20:54:05+00:00,https://twitter.com/soumithchintala/status/1588273332016881665,Also find it fascinating that organizations and ideas have a resilient life of their own. They cannot be restricted by restricting the individuals who originated them or the individuals who have the most power in carrying them (like a CEO).
+144,@soumithchintala,2022-11-03 19:44:39+00:00,https://twitter.com/soumithchintala/status/1588255857191493633,"@c_valenzuelab while I'm using @runwayml, can music from your marketing videos be playing in the background?
+That'll get me over my artist-impostor syndrome."
+145,@soumithchintala,2022-11-03 15:03:07+00:00,https://twitter.com/soumithchintala/status/1588185006123646976,"This network solved 10 International Math Olympiad problems. That is 10 more than what I can solve 😁
+
+Apart from being ground-breaking, it's also quite accessible -- available as a VSCode plugin!
+
+Congrats @GuillaumeLample and team!"
+146,@soumithchintala,2022-11-01 18:12:07+00:00,https://twitter.com/soumithchintala/status/1587507794978144256,Spicy article with some comments from me.
+147,@soumithchintala,2022-11-01 16:01:53+00:00,https://twitter.com/soumithchintala/status/1587475021114613765,"This is the first large-scale characterization of metagenomic proteins (and ~3x larger than the recent database from Deepmind).
+Going to be practically super useful!
+
+The About page is a really good read, and the Limitations section is quite articulate: https://t.co/ySN4u2OCq1"
+148,@soumithchintala,2022-10-28 21:50:57+00:00,https://twitter.com/soumithchintala/status/1586113312957210624,"I'll be active on twitter, but also on Mastodon.
+
+Mastodon ID:
+@soumith@mastodon.online"
+149,@soumithchintala,2022-10-21 20:23:59+00:00,https://twitter.com/soumithchintala/status/1583554715157114882,"@karpathy @ID_AA_Carmack tl;dr: Mersienne-Twister RNGs.
+
+The motivation for adding in that recommendation is based on this article: https://t.co/2enZjITLCf
+Here's the original motivating comment (2019): https://t.co/cxRWU32DHG"
+150,@soumithchintala,2022-10-21 02:28:14+00:00,https://twitter.com/soumithchintala/status/1583283991582756864,Update from StabilityAI: https://t.co/asWeKbOWMX
+151,@soumithchintala,2022-10-20 22:58:07+00:00,https://twitter.com/soumithchintala/status/1583231115707305984,"@Ugo_alves reverting the request doesn't erase the original request. 
+It makes the problem go away in this particular instance, but shows that there was an intent to send the request to begin with.
+The intent itself is surprising."
+152,@soumithchintala,2022-10-20 22:57:02+00:00,https://twitter.com/soumithchintala/status/1583230842276818944,"This kinda makes it more like a traditional centralized play -- like maybe Unreal Engine. Release everything, but licensing makes it clear that if you become big enough, the lawyers will come after you for improper usage."
+153,@soumithchintala,2022-10-20 22:57:02+00:00,https://twitter.com/soumithchintala/status/1583230840733323264,"Today, RunwayML has a clear-cut argument on IP lineage, and so they are good.
+StableDiffusion was built upon Runway's work (and credited as such).
+
+But firing this shot makes it clear(?) that people can't risk building products on top of StabilityAI's work without licensing."
+154,@soumithchintala,2022-10-20 22:52:52+00:00,https://twitter.com/soumithchintala/status/1583229791901474818,"""Company StabilityAI has requested a takedown of this published model characterizing it as a leak of their IP""
+
+Interesting....I thought StabilityAI stood for a decentralized push for AI.
+So this move surprises me (even though they later retracted it).
+
+https://t.co/q4g7ZIsYGg"
+155,@soumithchintala,2022-10-13 16:15:30+00:00,https://twitter.com/soumithchintala/status/1580593076141449216,"Over the last year, I've been at NYU part-time, working closely with @LerrelPinto and group on robotics research.
+
+It's been a really exciting collaboration, and this is the first of many papers to come...
+
+Also, @pandian_sridhar is awesome and actively looking for jobs!"
+156,@soumithchintala,2022-10-12 17:56:21+00:00,https://twitter.com/soumithchintala/status/1580256068047089664,"Expert-human-level in no-press Diplomacy and Hanabi!
+
+Games that involve co-operation among players!
+
+Big news from my colleagues at @MetaAI !"
+157,@soumithchintala,2022-10-12 16:02:38+00:00,https://twitter.com/soumithchintala/status/1580227452466790400,"The website has a 3D demo where you can explore the point cloud based on some queries.
+https://t.co/f69TbTeihj https://t.co/1zRSdpUpP2"
+158,@soumithchintala,2022-10-12 15:58:06+00:00,https://twitter.com/soumithchintala/status/1580226313453195264,"It was wonderful advising @notmahi on this project during his internship, along with @chris_j_paxton , @LerrelPinto and Arthur Szlam!"
+159,@soumithchintala,2022-10-12 15:58:06+00:00,https://twitter.com/soumithchintala/status/1580226311691599872,"CLIP-Fields = 3D semantic point-clouds.
+
+Encoders trained purely from web {image, text} datasets via CLIP, Detic, BERT.
+
+Hook it up to a @hellorobotinc and ask:
+- ""warm up my lunch"" and it moves to the microwave
+- ""go pee"" and it will move to the bathroom 😂"
+160,@soumithchintala,2022-10-10 13:47:52+00:00,https://twitter.com/soumithchintala/status/1579468760410652673,"@rasbt use triton, stay in python!"
+161,@soumithchintala,2022-10-06 19:32:39+00:00,https://twitter.com/soumithchintala/status/1578105976107855872,"This post from Tencent on moving to PyTorch + TorchRec for some of their WeChat reading recommentation models was pretty interesting.
+
+They also got 12x speedup against whatever they were using before.
+
+https://t.co/izUpmR52PN
+(use Google Translate, the article is in Chinese)"
+162,@soumithchintala,2022-10-05 19:00:18+00:00,https://twitter.com/soumithchintala/status/1577735450231558146,"Generation gets crazy every week.
+Cool results!"
+163,@soumithchintala,2022-10-03 17:39:24+00:00,https://twitter.com/soumithchintala/status/1576990315462131712,@1littlecoder https://t.co/tvUspWralV
+164,@soumithchintala,2022-10-03 17:39:11+00:00,https://twitter.com/soumithchintala/status/1576990259140648962,Stable Diffusion code in AITemplate: https://t.co/tvUspWIdnV
+165,@soumithchintala,2022-10-03 17:37:32+00:00,https://twitter.com/soumithchintala/status/1576989842571165697,congrats to @bing_xu_ and team for this amazing release!
+166,@soumithchintala,2022-10-03 17:36:48+00:00,https://twitter.com/soumithchintala/status/1576989659074154496,"We just released AITemplate -- a high-performance Inference Engine -- similar to TensorRT but open-source.
+
+It is really fast!
+On StableDiffusion, it is 2.5x faster than the XLA based version released last week."
+167,@soumithchintala,2022-09-30 11:32:57+00:00,https://twitter.com/soumithchintala/status/1575810930314575872,"@dileeplearning @tallinzen @AndrewLampinen through the genes maybe?
+
+https://t.co/higX1rPPAi"
+168,@soumithchintala,2022-09-29 15:08:16+00:00,https://twitter.com/soumithchintala/status/1575502728272678913,Amazing video generation from my colleagues at @MetaAI !
+169,@soumithchintala,2022-09-29 00:42:00+00:00,https://twitter.com/soumithchintala/status/1575284726834798592,@natolambert @jachiam0 oh wow!
+170,@soumithchintala,2022-09-22 17:34:17+00:00,https://twitter.com/soumithchintala/status/1573002759019925506,"Went in to the podcast thinking it'd focus mainly on the @PyTorch Foundation announcement, but Mark turned it into something else that was more personal!"
+171,@soumithchintala,2022-09-22 17:34:17+00:00,https://twitter.com/soumithchintala/status/1573002757594050561,"Here's a 30-minute podcast digging into my personal journey -- how I got into AI, Open Source, eventually rabbit-holing  to my time in Hyderabad, Vellore, New York.
+
+(it incorrectly says I went to IIIT for Undergrad, but I went to VIT, and spent the last 6 months at IIIT)"
+172,@soumithchintala,2022-09-21 17:28:41+00:00,https://twitter.com/soumithchintala/status/1572638963923587072,"Such a great, valuable release!"
+173,@soumithchintala,2022-09-15 22:27:15+00:00,https://twitter.com/soumithchintala/status/1570539770497085443,"this is great.
+CLIP Embeddings trained from scratch on LAION!"
+174,@soumithchintala,2022-09-15 15:13:12+00:00,https://twitter.com/soumithchintala/status/1570430538539737088,the Status page is lying: https://t.co/N5XLdgPEAJ https://t.co/X4fQyQ3nyq
+175,@soumithchintala,2022-09-15 15:12:23+00:00,https://twitter.com/soumithchintala/status/1570430335971741696,"Yep, Zoom is down.
+Holidays!!!
+(also how many 911 calls are going out right now?)"
+176,@soumithchintala,2022-09-15 15:11:27+00:00,https://twitter.com/soumithchintala/status/1570430101006974976,Zoom is down -- i think!
+177,@soumithchintala,2022-09-15 15:00:05+00:00,https://twitter.com/soumithchintala/status/1570427238553890818,"Small perks of joining the Linux Foundation!
+We spoke about ML Accelerators and Linux driver-land issues :D"
+178,@soumithchintala,2022-09-13 17:57:05+00:00,https://twitter.com/soumithchintala/status/1569747008524525569,"Love the directions this work can enable if it translates to larger settings!
+
+Being able to merge two models (including weights) can scale ML model development, and likely plays a huge role in ""open source"" co-developed models."
+179,@soumithchintala,2022-09-12 15:24:50+00:00,https://twitter.com/soumithchintala/status/1569346304379162625,"Schrep has been one of the fiercest supporters and drivers of @PyTorch .
+Great thread from him with his perspective on why this is big and at the same time natural!"
+180,@soumithchintala,2022-09-12 15:17:44+00:00,https://twitter.com/soumithchintala/status/1569344516066316291,"I'm pretty excited that something that has been years in the making, and is super beneficial for PyTorch and every stakeholder of the project is finally happening!"
+181,@soumithchintala,2022-09-12 15:17:44+00:00,https://twitter.com/soumithchintala/status/1569344514887749634,"The PyTorch Foundation has been years in the making.
+We started as a band of developers from the Torch-7 community. Meta organized PyTorch into a healthy entity -- introducing CLAs, Branding Guidelines, and Trademark registration.
+This is the natural next step."
+182,@soumithchintala,2022-09-12 15:17:43+00:00,https://twitter.com/soumithchintala/status/1569344513742716931,"This move enables neutrality and unlocks more investment into PyTorch and benefits every stakeholder including Meta.
+We're super excited for this move at Meta and will continue to drive our contributions and investments into the project."
+183,@soumithchintala,2022-09-12 15:17:43+00:00,https://twitter.com/soumithchintala/status/1569344512308420608,"Big announcement: PyTorch Foundation!
+PyTorch has large core investments from many companies. So, we're creating a neutral foundation for securing assets and interests.
+
+Technical Governance is separate &amp; secure in a Maintainer model.
+Here's more context:
+https://t.co/HmzQ3DXYpP"
+184,@soumithchintala,2022-09-09 18:30:16+00:00,https://twitter.com/soumithchintala/status/1568305806373974018,"@georgiagkioxari @record3d yes, raw depth readings available from both the front IR-projector based camera (that is used for FaceID) and the back LiDAR based Depth estimation.
+
+Accessing is as simple as:
+https://t.co/XtfncyZjAU"
+185,@soumithchintala,2022-09-09 15:26:51+00:00,https://twitter.com/soumithchintala/status/1568259647794040834,"If navigating menus to find what you want isn't your idea of fun, you'll love this!
+Also, integrating the latest AI art stuff makes it 🔥🔥🔥"
+186,@soumithchintala,2022-09-09 15:16:01+00:00,https://twitter.com/soumithchintala/status/1568256922956038144,"Relevant tweet:
+https://t.co/8NYH50CK4d"
+187,@soumithchintala,2022-09-09 15:16:01+00:00,https://twitter.com/soumithchintala/status/1568256921203015683,"I went down this rabbit-hole with frustration around availability of free well-tuned out of the box SLAMs that run in realtime.
+
+Ran into this video https://t.co/RozKzghX8L 
+And then stumbled across @record3d that made the whole thing really easy to onboard people onto."
+188,@soumithchintala,2022-09-09 15:16:00+00:00,https://twitter.com/soumithchintala/status/1568256917889318914,"A magically easy way to get accurate RGBD-SLAM for your robot: use an iPhone + @record3d !
+
+The baseline: RealSense + 2D Lidar + bad open-source SLAM
+
+Record3D streams RGBD + Odometry from iPhone to robot (USB or WiFi). Nice Python API.
+
+iPhone Pro is sensor-rich: LiDAR, IR, RGB https://t.co/9BMFAOiS9I"
+189,@soumithchintala,2022-09-08 22:17:14+00:00,https://twitter.com/soumithchintala/status/1568000535902683136,"Having a PyTorch core team balanced among many stakeholders is fundamental to our success.
+I'm really happy to see a PyTorch team at @LightningAI, and I couldn't think of a better person to kick it off than Mike!"
+190,@soumithchintala,2022-09-07 05:14:17+00:00,https://twitter.com/soumithchintala/status/1567380716031279110,"A smell ""space"" similar to color spaces.
+This is pretty amazing!"
+191,@soumithchintala,2022-09-06 16:46:48+00:00,https://twitter.com/soumithchintala/status/1567192605829758976,"We're working on a restricted serializer just for state_dicts.
+Follow along new progress based on our renewed sense of urgency because of all the new activity: https://t.co/CfVlvixbmJ"
+192,@soumithchintala,2022-09-06 16:45:07+00:00,https://twitter.com/soumithchintala/status/1567192181986963456,"We can build a more restricted subset for just `state_dict`s, i.e. `Dict`, `string`, `int/float` and `Tensor` serialization.
+That solves the ""weights are safe and not malicious"" problem -- but only the weights, not the `forward` function."
+193,@soumithchintala,2022-09-06 16:45:07+00:00,https://twitter.com/soumithchintala/status/1567192180418318337,"Thanks to this, ""PyTorch = Models are Code"" is getting awareness.
+The Flexibility you get is also very Powerful!
+
+When you `torch.load` or `pickle.loads`, it's equivalent to downloading a `.py` file off internet and running it :)"
+194,@soumithchintala,2022-09-01 22:14:06+00:00,https://twitter.com/soumithchintala/status/1565463031353688069,"PyTorch M1 GPU support (still in alpha) already being put to good use:
+https://t.co/Q9pGbhskab"
+195,@soumithchintala,2022-09-01 16:43:47+00:00,https://twitter.com/soumithchintala/status/1565379905981923328,"I hope Google knows what their messaging story is.
+
+In the meanwhile, they wont migrate messages from Hangouts to Chat.
+All my chats with friends and family that I need to occasionally back-reference and search....is now going to be hard. https://t.co/2GfEiCBSSI"
+196,@soumithchintala,2022-08-26 22:23:45+00:00,https://twitter.com/soumithchintala/status/1563291134369349633,@ankurhandos @nikhilaravi @georgiagkioxari
+197,@soumithchintala,2022-08-21 03:02:38+00:00,https://twitter.com/soumithchintala/status/1561186990078300160,"Interesting work from the Tesla folks -- I really like the inference latency numbers for something as powerful.
+
+They have massive amounts of data to train this effectively. I wonder how well the methods work with less data and how much labeling they need."
+198,@soumithchintala,2022-08-20 04:45:26+00:00,https://twitter.com/soumithchintala/status/1560850470742249473,i should create an alt account for my inner thoughts
+199,@soumithchintala,2022-08-20 04:44:51+00:00,https://twitter.com/soumithchintala/status/1560850324453298177,"Another AGI company -- I value it like a tech biz -- I get anxious, the math doesn't work -- I value it like a therapeutics biz -- hmm the outcome is not well-defined -- why all the FOMO funding for AGI aaaghhh -- but sir, it's Carmack -- ohh, Carmack? Plzz can u take my money :D"
+200,@soumithchintala,2022-08-18 01:53:16+00:00,https://twitter.com/soumithchintala/status/1560082370102976513,"@chrmanning @tdietterich @roydanroy @karpathy @ylecun @percyliang @RishiBommasani As a counter-factual, I don't think the paper would be criticized as much (or at all) if the term wasn't so catchy and pervasive (and the paper coming from Stanford gave it a certain initial push) -- I think there would just be regular intellectual debate and that's it."
+201,@soumithchintala,2022-08-18 01:51:20+00:00,https://twitter.com/soumithchintala/status/1560081881504382976,"@chrmanning @tdietterich @roydanroy @karpathy @ylecun @percyliang @RishiBommasani The jazz analogy is quite good from a credit assignment view. Very deeply, i think the disagreements are around other academics thinking ""why do you get citations, credit and eventually prizes for consolidating other people's breakthroughs and putting a catchy term around it""."
+202,@soumithchintala,2022-08-18 00:36:50+00:00,https://twitter.com/soumithchintala/status/1560063134349631488,"@tdietterich @roydanroy @karpathy @chrmanning @ylecun @percyliang i think the fight pre-dates this particular twitter thread  by you @tdietterich :)
+I think I've seen the undercurrents exist at least for a few months."
+203,@soumithchintala,2022-08-18 00:26:41+00:00,https://twitter.com/soumithchintala/status/1560060582123937793,"@roydanroy @karpathy @chrmanning @tdietterich @ylecun @percyliang having seen this fight go back-and-forth, and having no stake here -- it's pretty clear to me that the fight is about claims of flag-planting by a powerful entity (Stanford AI) (and people feeling wronged by the flag-planting) -- rather than the term itself."
+204,@soumithchintala,2022-08-17 22:22:09+00:00,https://twitter.com/soumithchintala/status/1560029240967544833,@chrmanning @roydanroy @tdietterich @ylecun @percyliang is this the first public acknowledgment that Stanford's Foundation Model terminology was a marketing campaign?
+205,@soumithchintala,2022-08-16 04:01:40+00:00,https://twitter.com/soumithchintala/status/1559389907440861185,"@chris_j_paxton I think it might be more related to humanoids being perceived as more interpretable, and existing manufacturing envs build for humans."
+206,@soumithchintala,2022-08-15 23:43:28+00:00,https://twitter.com/soumithchintala/status/1559324927224066048,"Excited to give a keynote at the Ray Summit next week. I'll be at the conference in-person.
+I'll talk through my future projections for the ML Infrastructure world, including ML Frameworks.
+
+(also visiting the Bay Area for the week)"
+207,@soumithchintala,2022-08-14 01:17:00+00:00,https://twitter.com/soumithchintala/status/1558623693353394176,"This is brilliant, enabled by @StabilityAI's #stablediffusion , which was trained on @laion_ai datasets.
+The finesse enabled by StableDiffusion is as much a product focus as to use and build novel ML diffusion techniques.
+
+Respect!"
+208,@soumithchintala,2022-08-12 02:36:25+00:00,https://twitter.com/soumithchintala/status/1557918901228412928,"@ptrblck_de @karpathy @Suhail Perfection here is if every feature within PyTorch is hierarchical, composable, well-designed, accessible and performant — all at the same time.
+Performance has been one of the biggest causes of entropy, hence our work on primtorch and dynamo. 
+But there are others."
+209,@soumithchintala,2022-08-12 02:34:36+00:00,https://twitter.com/soumithchintala/status/1557918446381371392,@ptrblck_de @karpathy @Suhail i think the entropy discussion is quite complicated — its not just about “is the implementation written in python”. It’s drilled down to “why am i paying the cognitive cost for what i dont care about”.
+210,@soumithchintala,2022-08-05 19:25:18+00:00,https://twitter.com/soumithchintala/status/1555636081571373062,"@roydanroy 19 videos in the last year. Upper bound approximation of $2m / video = $38m.
+
+Google says the smallest GDP nation is $70m"
+211,@soumithchintala,2022-08-05 03:21:27+00:00,https://twitter.com/soumithchintala/status/1555393517677150208,so hilarious!
+212,@soumithchintala,2022-07-28 19:26:13+00:00,https://twitter.com/soumithchintala/status/1552737206929858560,"""people"" is an assumption. maybe it's robots..."
+213,@soumithchintala,2022-07-28 19:25:37+00:00,https://twitter.com/soumithchintala/status/1552737057587470339,Dedicated to all the meta-learning people!
+214,@soumithchintala,2022-07-22 17:56:06+00:00,https://twitter.com/soumithchintala/status/1550540203609444352,"234k RGB images
+3M oriented 3D boxes annotations
+Indoor and outdoor scenes
+Varying focal lengths and resolutions"
+215,@soumithchintala,2022-07-21 21:41:57+00:00,https://twitter.com/soumithchintala/status/1550234652081737728,"@cHHillee i used to give a damn about such comments, but now i can only muster up a ""lol"""
+216,@soumithchintala,2022-07-20 17:24:31+00:00,https://twitter.com/soumithchintala/status/1549807477524291584,Pretty excited to see this get out of the door.
+217,@soumithchintala,2022-07-12 14:28:42+00:00,https://twitter.com/soumithchintala/status/1546864127779475456,@ericjang11 add data augmentation to your training with various compression and aliasing artifacts
+218,@soumithchintala,2022-07-05 22:33:30+00:00,https://twitter.com/soumithchintala/status/1544449417129992193,@rasbt @omarsar0 @rosstaylor90 would know
+219,@soumithchintala,2022-07-05 22:32:15+00:00,https://twitter.com/soumithchintala/status/1544449102716588033,"@wightmanr looks like we need to bump it.
+
+@ezyang"
+220,@soumithchintala,2022-07-05 17:47:10+00:00,https://twitter.com/soumithchintala/status/1544377359582826496,"4/ Python has a package manager in reasonable shape that everyone uses
+
+Things are not perfect with the `pip/conda` story but the story ends there.
+With C++ packages, every distro / OS has it's own package manager, making it a nightmare (limited packages, naming difference, etc.)"
+221,@soumithchintala,2022-07-05 17:47:09+00:00,https://twitter.com/soumithchintala/status/1544377358035161088,"3/ Inserting a print stmt or breakpoint within a C++ dependency = often a huge cost barrier between installing the binary (from a package manager) vs compiling its dev version from source -- non-trivial exercise because of it's own dependencies, build-system, etc."
+222,@soumithchintala,2022-07-05 17:47:09+00:00,https://twitter.com/soumithchintala/status/1544377357020061696,"3/ Editing dependent Python packages doesn't need you to touch build systems
+
+If I need to find or patch a bug in an upstream Python package, I open the relevant file in site-packages and start editing (and once verified a patch, can craft a proper upstream patch)."
+223,@soumithchintala,2022-07-05 17:47:09+00:00,https://twitter.com/soumithchintala/status/1544377355862478851,"2/ Intuitive Python &lt;-&gt; C boundaries (also seen as Scripting / Library boundaries)
+
+Users expect short TTFE in Python.
+I think, it seems to instill good boundaries in Python libraries with C++ extensions and packages naturally."
+224,@soumithchintala,2022-07-05 17:47:08+00:00,https://twitter.com/soumithchintala/status/1544377353928835072,"Reasons why I like Python vs C++:
+
+1/ Time to first-error (TTFE) is negligible.
+
+Changing one line doesn't recompile for ages.
+The productivity boost from *not waiting* -- even for a few seconds -- is insane. I can focus and iterate way more."
+225,@soumithchintala,2022-07-04 20:23:38+00:00,https://twitter.com/soumithchintala/status/1544054350120730629,"@_arohan_ we used to get so excited when our Theano code started running, coming back from 30-minute compile-time breaks. More often, it didn't run and spit out an error message."
+226,@soumithchintala,2022-07-04 20:22:08+00:00,https://twitter.com/soumithchintala/status/1544053972130045953,@_arohan_ sounds like Theano :)
+227,@soumithchintala,2022-07-04 00:51:35+00:00,https://twitter.com/soumithchintala/status/1543759391807229952,"@xiao_ted I think it's closer to say ""1 sentence captures a distribution of 1000 pictures much better than a single picture can"""
+228,@soumithchintala,2022-07-03 16:07:23+00:00,https://twitter.com/soumithchintala/status/1543627473627320326,"@QEDanMazur everyone here obviously meant everyone in person at the conference.
+nothing i said takes away from the complementary benefits of streaming the talks etc. online"
+229,@soumithchintala,2022-07-02 22:45:56+00:00,https://twitter.com/soumithchintala/status/1543365384845381636,"People engage in online conferences piece-meal -- ""I'll go to this part, but I have another work meeting/family-time/other-commitment"" right after. Because of this piece-mealing, effective engagement is sparsified. The conference effect is heavily diluted."
+230,@soumithchintala,2022-07-02 22:45:56+00:00,https://twitter.com/soumithchintala/status/1543365383880671232,"* others are available to network and easy-to-find
+* Poster sessions have high entropy -- small time window and high commitment
+* You can slip in and out of conversations smoothly"
+231,@soumithchintala,2022-07-02 22:45:56+00:00,https://twitter.com/soumithchintala/status/1543365382743916546,"In-person conferences are amazing because people are co-ordinated in a way that online conferences aren't.
+
+Everyone clears out their calendar together and travel to the same location.
+
+Everyone wants this expensive investment to pay-off, so they are engaged."
+232,@soumithchintala,2022-07-02 06:25:28+00:00,https://twitter.com/soumithchintala/status/1543118641918623746,"@mattbeane I'm excited for the progress.
+It is not clear to me from seeing the dataset that real-world success would be guaranteed.
+Having the objects be fairly well-centered and well-lit seems like a short-coming I would run into if I tried to use it in real-world.
+Will give it a try."
+233,@soumithchintala,2022-06-27 20:23:43+00:00,https://twitter.com/soumithchintala/status/1541517656238456838,"TorchDim: first-class dimension types
+
+Int dims -&gt; String dims (named tensor) -&gt; dim types
+x[0, 1] -&gt; x[""B"", ""C""] -&gt; x[B, C]
+
+Powerful.
+Eg. write the inner code block of nested for-loops in Python but get C++-level performance.
+https://t.co/3HiHAAIZE9"
+234,@soumithchintala,2022-06-27 14:30:26+00:00,https://twitter.com/soumithchintala/status/1541428746036678656,"@edgarriba Open3D is good, has a bunch of 3D geometry implementations"
+235,@soumithchintala,2022-06-24 19:11:23+00:00,https://twitter.com/soumithchintala/status/1540412286291943424,@sasank51 @OpenAI we're doing a lot of work with Triton and nvFuser as the code-gens. Follow along here: https://t.co/HxmzNTckZv
+236,@soumithchintala,2022-06-24 14:26:30+00:00,https://twitter.com/soumithchintala/status/1540340593452208128,"@edgarriba the prims are traceable, so we can codegen from them for lib torch if we need to"
+237,@soumithchintala,2022-06-24 06:01:25+00:00,https://twitter.com/soumithchintala/status/1540213484394143745,"We're working hard on reducing the PyTorch codebase's entropy :D and moving stuff back into Python.
+
+If you're good at reading C++ and writing python / pytorch, and interested in helping out, see the linked post."
+238,@soumithchintala,2022-06-22 15:07:20+00:00,https://twitter.com/soumithchintala/status/1539626093606588419,"Oh man, the title of this article is soooooo cringe:
+https://t.co/hm93ZBiGfi"
+239,@soumithchintala,2022-06-22 15:02:34+00:00,https://twitter.com/soumithchintala/status/1539624896870883328,"@CerebrasSystems please report the throughput / performance of training a 12B or 20B GPT.
+It is mildly annoying that you never publish perf numbers"
+240,@soumithchintala,2022-06-19 21:33:06+00:00,https://twitter.com/soumithchintala/status/1538636010518728707,"@remiconnesson @panteramodern @naivebayesian there was a brief moment of larger enthusiasm to build Rust based auto-diff / deep learning libraries. Autumn-AI Lead, tch-rs, etc.
+
+There's always continued enthusiasm to build autodiff/DL in Julia
+
+There's other languages as well, Haskell, Lisp, etc.
+That was the context."
+241,@soumithchintala,2022-06-19 15:07:28+00:00,https://twitter.com/soumithchintala/status/1538538964960821254,@corny_stripes @ylecun yes but no need to talk down other projects' success or failure. it makes people need to take sides
+242,@soumithchintala,2022-06-19 15:06:24+00:00,https://twitter.com/soumithchintala/status/1538538694327640068,"A service to automatically detect whether your production model is becoming silently incorrect due to data drift.
+
+Presented to you by solid people who have experience in building many models for production in manufacturing, insurance, etc. (also @PyTorch devs :))"
+243,@soumithchintala,2022-06-19 14:57:49+00:00,https://twitter.com/soumithchintala/status/1538536535204708352,@ylecun i think we shouldn't post these things as they cause more bad conversation than healthy conversation  https://t.co/5e8ZR36Q6T
+244,@soumithchintala,2022-06-17 19:24:06+00:00,https://twitter.com/soumithchintala/status/1537878771629318144,"@HeinrichKuttler @StasBekman @BigScienceLLM We cant fork, CUDA doesn't work if you start the cuda context and then fork lol"
+245,@soumithchintala,2022-06-17 15:07:01+00:00,https://twitter.com/soumithchintala/status/1537814074637144069,"@HeinrichKuttler @StasBekman @BigScienceLLM what if you got `SIGTERM` after open, before unlink?
+
+The actual process is open, send fd / path to process 2. Then, process 2 unlinks. So there's some latency and a SIGTERM at the wrong time is disastrous."
+246,@soumithchintala,2022-06-17 13:34:26+00:00,https://twitter.com/soumithchintala/status/1537790775567732739,"@StasBekman @BigScienceLLM I wonder if we need to have a heartbeat mechanism, with a separate daemon process checking for aliveness.
+
+We do this for torch.multiprocessing already to be able to cleanup shm files on sigterm."
+247,@soumithchintala,2022-06-16 14:26:03+00:00,https://twitter.com/soumithchintala/status/1537441376161320966,@kchonyc you just wanted the oculus didn't you
+248,@soumithchintala,2022-06-14 23:51:28+00:00,https://twitter.com/soumithchintala/status/1536858894886215680,welcome move from Google. looking forward to more of this
+249,@soumithchintala,2022-06-10 23:12:21+00:00,https://twitter.com/soumithchintala/status/1535399499182616577,"@mmattamala @AjdDavison @joeaortiz nice wrt imap, thanks for the pointer, will check out that implementation. yea isdf is from our group, so been aware of that :))"
+250,@soumithchintala,2022-06-10 23:01:46+00:00,https://twitter.com/soumithchintala/status/1535396835476619264,"on that note, it would be a real catalyst to the field if @AjdDavison the code for these papers is open-source. Consider this a humble request. thanks :)"
+251,@soumithchintala,2022-06-10 23:00:44+00:00,https://twitter.com/soumithchintala/status/1535396573265420289,"Thinking a lot these days about
+
+Implicit models for Robotics use-cases, like NERFs and such.
+
+Work from @AjdDavison's lab here is really inspiring (iLabel, iMap, etc.)
+
+here's a great aggregate list of papers in this space:"
+252,@soumithchintala,2022-06-10 01:47:31+00:00,https://twitter.com/soumithchintala/status/1535076159356272640,"Packaging many algorithmic speedups in an easy to use API is quite a nice product.
+
+Valuable work from Jonathan &amp; team."
+253,@soumithchintala,2022-05-31 06:37:31+00:00,https://twitter.com/soumithchintala/status/1531525260495007745,and I dont mean OpenCyc / ResearchCyc which are 15+ years old
+254,@soumithchintala,2022-05-31 06:36:25+00:00,https://twitter.com/soumithchintala/status/1531524985390567424,"I wish Cyc was open-source:
+https://t.co/KTEX9wVCzl
+
+(I wished this enough times over many years that it warrants a tweet)"
+255,@soumithchintala,2022-05-31 06:34:06+00:00,https://twitter.com/soumithchintala/status/1531524400536866816,"@TaliaRinger @tdietterich As a mortal ML person, these both totally went over my head.
+
+Is there an explanation of Continuous Logic for folks like me who don't have the relevant mathematical context or training in category theory etc.?"
+256,@soumithchintala,2022-05-29 16:04:08+00:00,https://twitter.com/soumithchintala/status/1530943079435612160,"Twitter keeps it real 😂
+
+Responses to my earlier tweet made it clear that ""reasoning"" has quite a rich history that I have no exposure to.
+My intention was to compare LMs to PGMs, which makes my usage of ""reasoning"" more like ""probabilistic reasoning / probabilistic logic"""
+257,@soumithchintala,2022-05-29 15:43:00+00:00,https://twitter.com/soumithchintala/status/1530937759963160576,"@Grady_Booch my prior was that reasoning is fairly mathematical / abstract, but just reading the Wikipedia page shows how little i know about the history of defining what reasoning is"
+258,@soumithchintala,2022-05-29 15:41:52+00:00,https://twitter.com/soumithchintala/status/1530937475597746177,"@Grady_Booch that's a catchy response.
+
+i don't really think reasoning is as human-grounded and human-specific as loving, but I'm only just learning the history of the term ""reasoning"" after other responses to my tweet."
+259,@soumithchintala,2022-05-28 17:56:51+00:00,https://twitter.com/soumithchintala/status/1530609058012876800,@charleswangb @sd_marlow the particular insight I found interesting was to compare the reasoning ability of language models versus factor graph models
+260,@soumithchintala,2022-05-28 17:55:13+00:00,https://twitter.com/soumithchintala/status/1530608648841736194,"@charleswangb @sd_marlow maybe the misunderstanding was in using the word ""reasoning"".
+A reasoning engine can be purely abstract without ever having to be grounded in semantic spaces or modeling the ""world as we know and see it""."
+261,@soumithchintala,2022-05-28 17:49:59+00:00,https://twitter.com/soumithchintala/status/1530607330479734784,"@charleswangb I hear there are human languages that don't have powerful abstractions that most common languages have. And that has effects on the society of humans who speak those languages.
+
+For example 
+https://t.co/AxAQIgllHR"
+262,@soumithchintala,2022-05-28 17:47:54+00:00,https://twitter.com/soumithchintala/status/1530606805382234112,"@charleswangb So, there is a 1to1 mapping there.
+But if there's a non-human language, either synthetic or alien, then it's really hard to see how a 1to1 mapping even exists, unless we intentionally construct it in a small, limited sense. 2/"
+263,@soumithchintala,2022-05-28 17:46:26+00:00,https://twitter.com/soumithchintala/status/1530606436262477824,"@charleswangb I don't really get the 1to1 mapping part.
+Human Language does contain certain abstractions and vocabulary that help write out explanations of thought.
+If there's a different human language, it commonly is grounded in similar abstractions and vocabulary equivalents. 1/"
+264,@soumithchintala,2022-05-28 17:33:15+00:00,https://twitter.com/soumithchintala/status/1530603120308678657,"@charleswangb @sd_marlow idk if I used these words in a context that they aren't traditionally used in.
+I meant modeling 'interactions' between tokens, which a  multi-layer Transformer architecture does, and modeling dynamics of latent states in a time sequence, to then inform next token interactions"
+265,@soumithchintala,2022-05-28 17:28:34+00:00,https://twitter.com/soumithchintala/status/1530601941356912640,"@sd_marlow Two questions:
+
+1. is ""prompting"" not considered prior knowledge?
+I ask the LM to fill in a sentence like: ""I have 4 apples, I gave one to Tom. How many do I have? _____""
+
+2. Is beam search not considered lateral thinking?"
+266,@soumithchintala,2022-05-28 16:53:59+00:00,https://twitter.com/soumithchintala/status/1530593237777276929,"@sd_marlow I dont see how.
+Is the inference in a more traditional factor graph called ""reasoning"" or not? If it is ""reasoning"" then I'd argue that language models also reason."
+267,@soumithchintala,2022-05-28 16:33:24+00:00,https://twitter.com/soumithchintala/status/1530588057501847552,"Someone pointed me to Sagemaker StudioLab from @awscloud .
+It looks great, an alternative to Google Colab.
+Free, CPU and GPU tiers:
+https://t.co/k3qw6m5HZM"
+268,@soumithchintala,2022-05-28 09:32:52+00:00,https://twitter.com/soumithchintala/status/1530482225674096641,"@sd_marlow language models model non-linear interactions between tokens.
+So, they do model the dynamics in which reasoning tokens are used. This is implicit."
+269,@soumithchintala,2022-05-28 03:45:56+00:00,https://twitter.com/soumithchintala/status/1530394919470518272,"this is a tl;dr of a comment made by Leon Bottou on a post by @ylecun on Facebook. Since I read it, it's been stuck in my head as an eye-opener."
+270,@soumithchintala,2022-05-28 03:45:56+00:00,https://twitter.com/soumithchintala/status/1530394917662765057,"Language has powerful reasoning vocabulary.
+This gives Language Models the ability to reason.
+
+Probabilistic models have limited hand-crafted reasoning vocabulary but with stricter guarantees on the output being correct. But only if the estimate is accurate, which it rarely is."
+271,@soumithchintala,2022-05-27 04:24:31+00:00,https://twitter.com/soumithchintala/status/1530042238591303680,"I'm bullish on this, but also cognizant that humanoids (like Halodi) take it from a different angle and have a likelihood to win."
+272,@soumithchintala,2022-05-25 11:21:27+00:00,https://twitter.com/soumithchintala/status/1529422388370190336,"An eloquent post from Felix that explains ""compositionality"" as humans mean it, wrt Dall-E and more"
+273,@soumithchintala,2022-05-24 06:43:24+00:00,https://twitter.com/soumithchintala/status/1528990027505541120,"@giffmana @PyTorch we've always been about giving the appropriate credit. in the past we credited Chainer and torch-autograd with our design wherever we can, including in keynote talks.
+
+it's the right thing to do, and would be great if more people / companies / projects did it"
+274,@soumithchintala,2022-05-22 22:04:53+00:00,https://twitter.com/soumithchintala/status/1528497149700239360,this!
+275,@soumithchintala,2022-05-22 10:28:33+00:00,https://twitter.com/soumithchintala/status/1528321912211841025,@lxbrun @acheyer WeChat maybe?
+276,@soumithchintala,2022-05-21 18:24:11+00:00,https://twitter.com/soumithchintala/status/1528079219896381440,@chris_j_paxton afaik the competitors only work in limited pre-mapped cities / neighborhoods in limited weather. they're solving a different problem than Tesla maybe?
+277,@soumithchintala,2022-05-20 08:12:03+00:00,https://twitter.com/soumithchintala/status/1527562786850557953,@giffmana @rasbt not Xeon. Xeon is a server class cpu. i said the intel chips in Intel Macbooks
+278,@soumithchintala,2022-05-20 05:03:31+00:00,https://twitter.com/soumithchintala/status/1527515340111958018,"@giffmana @rasbt yes, Accelerate is the CPU library and it is really fast. MKL is not available on non-x86 CPUs. In my experience, Accelerate is as fast or faster than MKL on the intel macbooks I've played with"
+279,@soumithchintala,2022-05-20 04:59:46+00:00,https://twitter.com/soumithchintala/status/1527514398008365056,@giffmana @fhuszar the crappy macbook keyboards have been replaced starting with the M1 series.
+280,@soumithchintala,2022-05-18 15:48:34+00:00,https://twitter.com/soumithchintala/status/1526952898009174017,"Everyone's been waiting for it!
+Thanks to Apple, working in closing  collaboration with the core team for making this happen!"
+281,@soumithchintala,2022-05-16 04:17:43+00:00,https://twitter.com/soumithchintala/status/1526054264161898496,"@hardmaru this ran across my timeline about the same time 
+https://t.co/XYU2CsBrDl"
+282,@soumithchintala,2022-05-13 16:09:11+00:00,https://twitter.com/soumithchintala/status/1525146145462403073,"@pfau this was surprising to me. hence my excitement.
+maybe i didn't have a good mental model of transformers"
+283,@soumithchintala,2022-05-12 17:02:42+00:00,https://twitter.com/soumithchintala/status/1524797224382775296,"It can do a lot of somewhat different things at once! Very cool.
+
+Having the experiment infrastructure for this is a superpower once you built it (and probably was a lot of work)"
+284,@soumithchintala,2022-05-12 15:36:37+00:00,https://twitter.com/soumithchintala/status/1524775559636602881,"I like the TPU vs GPU competition, and MFU as a metric is pretty healthy.
+
+Congrats to Google and NVIDIA for hitting 50%+ MFUs on their large training runs:
+
+https://t.co/P5ywgxhP3o
+
+https://t.co/tOepgknGUV"
+285,@soumithchintala,2022-05-03 23:57:35+00:00,https://twitter.com/soumithchintala/status/1521640141793677312,I like the levels of release specified by Percy here. Nicely layered.
+286,@soumithchintala,2022-05-03 14:12:44+00:00,https://twitter.com/soumithchintala/status/1521492960688418816,"tangibly useful. 
+refreshing in the era of closed irreproducible LLMs
+
+(the day-to-day log book is pretty entertaining to read)
+
+congrats @suchenzang @stephenroller @NamanGoyal21 and team"
+287,@soumithchintala,2022-05-03 03:22:33+00:00,https://twitter.com/soumithchintala/status/1521329336783101952,"the mamba gods are helping with Python-in-the-browser as well, and in a big way!
+
+(wasm-forge sounds parfait)"
+288,@soumithchintala,2022-05-02 04:46:37+00:00,https://twitter.com/soumithchintala/status/1520988105049882624,"@_arohan_ @idavidrein Scientists selling their own version of history has always happened (in talks, editorials, reviews).
+I think the reality is somewhere close to this being the norm than the exception.
+The ""recent"" might just be my eyes noticing this more often."
+289,@soumithchintala,2022-05-02 03:51:02+00:00,https://twitter.com/soumithchintala/status/1520974119071739904,"I think this happens in other scientific disciplines all the time though.
+Wherever there's too much money at stake.
+Databases in the 80s/90s? CRISPR and related stuff?"
+290,@soumithchintala,2022-05-02 03:48:52+00:00,https://twitter.com/soumithchintala/status/1520973571585191937,"Rodney is calling out bad behavior, and that is fantastic.
+
+The amount of capital at stake in AI will unlikely change the situation -- sadly.
+The other sad (recent) pattern is casual attempts by some of the powerful figures (in AI) to rewrite history in their favor."
+291,@soumithchintala,2022-04-26 02:31:25+00:00,https://twitter.com/soumithchintala/status/1518779751892238338,@hakillha I'm hoping @elonmusk will re-prioritize things 😅
+292,@soumithchintala,2022-04-26 02:22:53+00:00,https://twitter.com/soumithchintala/status/1518777604878356481,"@thoward37 ""inverse frequency upranking"" is so much better than the comical description I gave it because I didn't know what it was called :)"
+293,@soumithchintala,2022-04-26 02:13:22+00:00,https://twitter.com/soumithchintala/status/1518775211449016325,"Twitter, if you're listening -- 
+1. get rid of the crypto bots
+2. a feed that does some kind of Tweet TF-IDF. If someone tweets once a month, I want to see that as visibly as someone who tweets 10 times a day.
+3. a feed API, so that we can build custom feeds again"
+294,@soumithchintala,2022-04-19 22:03:29+00:00,https://twitter.com/soumithchintala/status/1516537999433027586,"is there an iOS app or open-source project that streams ARKit's visual odometry over WiFi?
+
+(like with a REST or JSON ish API)?"
+295,@soumithchintala,2022-04-19 00:59:11+00:00,https://twitter.com/soumithchintala/status/1516219825537929227,"@ctabrizi_ i have no idea, looks like you're deeper in the rabbit-hole than i could fathom to be"
+296,@soumithchintala,2022-04-19 00:35:43+00:00,https://twitter.com/soumithchintala/status/1516213922059202560,@ctabrizi_ pay whatever is the minimum and gift whatever you feel like you want to -- making it an effective tax rate of whatever number you want it to be.
+297,@soumithchintala,2022-04-19 00:26:03+00:00,https://twitter.com/soumithchintala/status/1516211490696617998,@ctabrizi_ https://t.co/W1ALviMKXN if you want to make this easier
+298,@soumithchintala,2022-04-18 15:12:36+00:00,https://twitter.com/soumithchintala/status/1516072209474895881,@srush_nlp so much as_strided to be used...
+299,@soumithchintala,2022-04-18 02:53:15+00:00,https://twitter.com/soumithchintala/status/1515886145384718341,I sometimes day-dream about how awesome my life could be if I could think as clearly or type as fast as @ezyang about technical processes and details
+300,@soumithchintala,2022-04-18 02:49:31+00:00,https://twitter.com/soumithchintala/status/1515885207529926658,@ezyang @samxpatterson the factory and lambda look totally unnecessary and verbose. reminds me of Variable(...). gross.
+301,@soumithchintala,2022-04-18 02:48:27+00:00,https://twitter.com/soumithchintala/status/1515884938146549760,@ezyang the best architecture diagrams are ones which are dynamic. future projects come naturally and for free.
+302,@soumithchintala,2022-04-18 02:46:13+00:00,https://twitter.com/soumithchintala/status/1515884373622628352,"@difficultyang They could've rapidly innovated upon and potentially heavily extended C++, like @seanbax's Circle is doing"
+303,@soumithchintala,2022-04-14 02:13:23+00:00,https://twitter.com/soumithchintala/status/1514426560174043136,"@JeffDean if this is more of an editorialized view from your perspective (and with heavy Google-world biases), it seems reasonable -- but if the aim of this manuscript is to be historically accurate and representative then it fails."
+304,@soumithchintala,2022-04-13 18:09:03+00:00,https://twitter.com/soumithchintala/status/1514304674819629064,"@lucacarlone1 @RoboticsSciSys yes, would really love an open-source version!"
+305,@soumithchintala,2022-04-12 14:44:48+00:00,https://twitter.com/soumithchintala/status/1513890885502705672,"@ezyang Myia is one
+
+https://t.co/TlV6m71fC4"
+306,@soumithchintala,2022-04-11 04:34:26+00:00,https://twitter.com/soumithchintala/status/1513374891961360385,"@attention_by @russelljkaplan &gt; Like with code you’d really want a single model trained on everything, not language specific? Then it would still be pretty large
+
+it comes down to cost. If 90% of your users only use javascript, then you'd want to use cheaper API calls while prompting in javascript files"
+307,@soumithchintala,2022-04-11 04:32:13+00:00,https://twitter.com/soumithchintala/status/1513374334945042434,@attention_by @russelljkaplan any domain that has top-heavy applications and enough money will have enough viability to build specialized models that are more cost-efficient
+308,@soumithchintala,2022-04-11 04:18:19+00:00,https://twitter.com/soumithchintala/status/1513370837289689090,"@russelljkaplan this take somewhat invalidates your next tweet, because then the specialized models can be run more cheaply, more locally, or in ways that are more ""traditional"""
+309,@soumithchintala,2022-04-11 04:17:08+00:00,https://twitter.com/soumithchintala/status/1513370539666120705,"@russelljkaplan side take: in well-segmented markets with enough revenue (eg: code auto-complete), smaller equally performant models will be developed, making the licensing of this technology much cheaper (and probably more decentralized) than the ""fully general"" model"
+310,@soumithchintala,2022-04-08 23:34:31+00:00,https://twitter.com/soumithchintala/status/1512574642518700037,"So many AGI focused people striving to build the ultimate machine, fighting over approaches and debating about timelines...
+
+and I'm just content with building cool stuff, one project at a time, as long as it seems fun and has utility. https://t.co/AzxoDTbAYl"
+311,@soumithchintala,2022-04-08 21:53:12+00:00,https://twitter.com/soumithchintala/status/1512549144254107659,"@TaliaRinger GPUs aren't really GPUs anymore right?
+Hardware MatMul instructions, fp16 / fp8 instructions, high-bandwidth GPU-to-GPU connectors -- they're all signs of these accelerators being called GPUs but are actually not."
+312,@soumithchintala,2022-04-08 14:34:36+00:00,https://twitter.com/soumithchintala/status/1512438769240190976,"@hausman_k @peteflorence &gt; If that's not the case, they need to find a common ground independently
+
+yes, but its unclear if they need to ground in our language. for example see how unsupervised NMT is done -- you directly build a transformation in some implicit space (using a GAN in their case)"
+313,@soumithchintala,2022-04-08 14:30:55+00:00,https://twitter.com/soumithchintala/status/1512437839665025028,"@peteflorence @hausman_k &gt; Our paper doesn’t make any claim about “best”.
+
+Agree. this was just about the specific part of the tweet. Twitter being Twitter, hard to tease things apart.
+
+&gt; [...] Thoughts?
+
+Fully agree, i dont intend to contend that, in fact i champion it"
+314,@soumithchintala,2022-04-08 03:36:20+00:00,https://twitter.com/soumithchintala/status/1512273107976962048,"Agree with all three points.
+
+Especially on (1):
+Treat users as ""busy"" rather than ""idiots"".
+
+With this perspective, good API design falls into place:
+- a layered API with good defaults
+- short high-currency examples
+- paced introduction to more concepts"
+315,@soumithchintala,2022-04-08 02:59:00+00:00,https://twitter.com/soumithchintala/status/1512263715399294978,"@hausman_k @peteflorence I think ""the best language for AI to communicate with itself"" would be some implicit language using entropy efficiently. But once you bring HCI/HRI into play, the best language is probably what the human understands well -- spoken languages, familiar user-interfaces, etc."
+316,@soumithchintala,2022-04-08 02:02:21+00:00,https://twitter.com/soumithchintala/status/1512249457383194628,"@hausman_k @peteflorence &gt; Who would've thought that best language for AI to communicate with itself will be our language
+
+In my opinion, this jump to conclusion was a bit too much."
+317,@soumithchintala,2022-04-07 18:12:47+00:00,https://twitter.com/soumithchintala/status/1512131285925384200,"I find this work valuable, even if it might not hit everyone's ""novelty"" bar.
+Composing together a bunch of multi-modal models to work well is hard reusable work.
+We've been doing a bit of that on droidlet.
+
+Appreciate the colab releases (and looking forward to the future ones)."
+318,@soumithchintala,2022-04-07 14:35:04+00:00,https://twitter.com/soumithchintala/status/1512076496692678658,"Roboticists in New York, we're hiring!
+We do research using Mobile Robots in a Office / Home setting, currently focused on:
+- Unsupervised / Representation learning
+- Human-Robot Interaction (skill learning from demonstrations, NLP, etc.)
+
+Message me or email me at soumith@fb.com"
+319,@soumithchintala,2022-04-06 22:43:38+00:00,https://twitter.com/soumithchintala/status/1511837059773865989,@wightmanr @rasbt did you try with nvfuser or triton ?
+320,@soumithchintala,2022-04-06 14:50:23+00:00,https://twitter.com/soumithchintala/status/1511717965128949762,"Amazing results -- such rapid progress from DALL-E/CLIP
+Extremely powerful, a bit scary."
+321,@soumithchintala,2022-04-06 13:46:55+00:00,https://twitter.com/soumithchintala/status/1511701990841192449,"anyone else feel burned out by a new AI breakthrough every week? 🤯
+
+Trying to keep up but it goes by so fast
+most of it is not easily or locally reproducible which adds to the stress 😂😂😂"
+322,@soumithchintala,2022-04-05 02:50:49+00:00,https://twitter.com/soumithchintala/status/1511174490142777349,"@ezyang hdf5 is pretty efficient.
+can also encode it as a numpy/pytorch array and dump a single array.
+last option is `json.dumps` I guess"
+323,@soumithchintala,2022-04-03 16:57:15+00:00,https://twitter.com/soumithchintala/status/1510662726137303045,"@rasbt @kchonyc if an ""exodus"" were actually true, I wouldn't find it so hard to find conference rooms for meetings :)"
+324,@soumithchintala,2022-04-03 06:12:50+00:00,https://twitter.com/soumithchintala/status/1510500554656595970,"@Flomerboy @fwph @PyTorch pants on fire, being fixed by @_seemethere 
+Our root-cause was clearly not strong enough (and we'll do an internal postmortem after the mitigation)"
+325,@soumithchintala,2022-03-22 16:41:44+00:00,https://twitter.com/soumithchintala/status/1506310167633223693,"@averma12 what are good alternatives to University for this stuff, i.e. a dense congregation of same-aged individuals, allowed to explore a bunch of directions and can find consensus and expertise as they rapidly explore. The Internet is one, but detached from physical reality"
+326,@soumithchintala,2022-03-21 05:53:31+00:00,https://twitter.com/soumithchintala/status/1505784649477509120,"@johnschulman2 what about just raw exploration, debating, drama club, reading, socializing without purpose, just goofing off and learning life.
+
+it's implausible to me that in a sandwich between parents and independent living, hurrying people up with a series of internships is good for society"
+327,@soumithchintala,2022-03-21 05:40:27+00:00,https://twitter.com/soumithchintala/status/1505781360966963203,"@sama Young Soccer players have regulations around future-income protections against exploitation.
+The field of ""helping"" young soccer players by giving them good training and resources in exchange for future income also probably started with noble intentions"
+328,@soumithchintala,2022-03-21 05:38:44+00:00,https://twitter.com/soumithchintala/status/1505780930404827136,"@sama it also seems to put labor at the center. the more i read this tweet the more it seems to treat kids on a one-way track of some kind of structural servitude, even if the initial intention isn't that."
+329,@soumithchintala,2022-03-21 05:33:52+00:00,https://twitter.com/soumithchintala/status/1505779706351824899,"@sama this puts capitalism at the center of everything, which is a really weird thing to do to an 18-yo kid.
+Without offering evidence, I'd first-guess that implicit structural rewards in such a system are going to make people want to ignore a whole class of professions."
+330,@soumithchintala,2022-03-21 05:27:25+00:00,https://twitter.com/soumithchintala/status/1505778084414435330,"Going to University taught me autonomy, social and life skills in an incremental, semi-protected way. The technical education was somewhat irrelevant.
+I built a network of peers and friends my age which are a great support system.
+Whats a good alternative to uni for that stuff?"
+331,@soumithchintala,2022-03-18 00:28:10+00:00,https://twitter.com/soumithchintala/status/1504615608587010050,@francoisfleuret completely unclear
+332,@soumithchintala,2022-03-18 00:27:35+00:00,https://twitter.com/soumithchintala/status/1504615461228589061,@DrGroftehauge @IAmAdiFuchs the Anton series is one. What's the other?
+333,@soumithchintala,2022-03-17 05:28:36+00:00,https://twitter.com/soumithchintala/status/1504328829996838913,"Thomas Viehmann has had a tremendous impact on PyTorch -- the product, the community and the ecosystem. So greatful to have been his peer in this journey!"
+334,@soumithchintala,2022-03-17 05:19:59+00:00,https://twitter.com/soumithchintala/status/1504326659327016960,"@giffmana @gwern @IAmAdiFuchs nope, not an investor or advisor. i have no financial interest in Cerebras"
+335,@soumithchintala,2022-03-16 16:27:18+00:00,https://twitter.com/soumithchintala/status/1504132209254535173,"@gwern @IAmAdiFuchs A combination of it's extremely high cost, people being comfortable with the status-quo of dense algorithms and the ~2+ years of career investment to invest, program and run a variety of funky algorithms in hopes of disrupting makes that elusive Cerebras usecase hard to come by."
+336,@soumithchintala,2022-03-16 16:17:17+00:00,https://twitter.com/soumithchintala/status/1504129685302779907,"@evgeniyzhe @IAmAdiFuchs For chips that compete with GPUs on dense gemm-like workloads, I don't think one can do better than NVIDIA in the near future. NVIDIA is not a sleeping giant, they are an extremely competent fast-moving company.
+
+That's why I go look for the crazy chips."
+337,@soumithchintala,2022-03-16 15:56:42+00:00,https://twitter.com/soumithchintala/status/1504124506503266309,"There are many interesting DL accelerators being developed.
+
+@IAmAdiFuchs has a fantastic 5-post series that is a natural continuation to Horace's introductory post.
+
+Post-4 summarizes several DL accelerators in the industry and their design. Do read!
+https://t.co/h8AcH8I7Ga"
+338,@soumithchintala,2022-03-16 15:56:41+00:00,https://twitter.com/soumithchintala/status/1504124505052041217,"While you can program a Cerebras CS2 with PyTorch/TF -- I feel like it would be like driving a racecar in New York City.
+However, they do have a low-level API to program the chip more directly.
+
+5/"
+339,@soumithchintala,2022-03-16 15:56:41+00:00,https://twitter.com/soumithchintala/status/1504124503470837762,"The chip consumes a massive amount of power though, making your ~350W GPU feel cold and pleasant.
+
+The fact that they manage to cool this monster at all is ground-breaking.
+
+It is also not cheap I hear. I dont think it's arriving on Google Colab anytime soon :)
+
+4/"
+340,@soumithchintala,2022-03-16 15:56:41+00:00,https://twitter.com/soumithchintala/status/1504124501482745856,"At that bandwidth, arbitrarily sparse models likely run as fast as dense ones like standard ConvNets and Transformers.
+If you have a sparse model that will disrupt things and you just need to scale it up, the CS2 it is.
+
+https://t.co/bJDzFEzX2u 
+3/"
+341,@soumithchintala,2022-03-16 15:56:40+00:00,https://twitter.com/soumithchintala/status/1504124499704303618,"The Cerebras CS2 is a full-wafer engine. It has 40GB of sram @ 20PB/s bandwidth. Compare that to the A100 NVIDIA GPU which has 40GB of HBM2 memory at ~1.5TB/s.
+
+2/ https://t.co/ukGNJStlao"
+342,@soumithchintala,2022-03-16 15:56:39+00:00,https://twitter.com/soumithchintala/status/1504124494637674496,"Horace's essay makes high performance computing very accessible -- compute, bandwidth, overheads explained in simple terms
+A must read!
+
+In this context, I want to tell you about a batshit crazy ML chip: the Cerebras CS2
+ 
+1/"
+343,@soumithchintala,2022-03-15 22:00:38+00:00,https://twitter.com/soumithchintala/status/1503853705803804686,@ezyang let me know what magic process you find that works
+344,@soumithchintala,2022-03-15 18:00:37+00:00,https://twitter.com/soumithchintala/status/1503793305326346246,@ilyasut Lateral fields like NeuroBiology imo aren't like that and put tooling as equal footing for prestige and awards -- for example tools like Clarity from labs like Deisseroth Lab are given a huge amount of social credit
+345,@soumithchintala,2022-03-15 17:59:30+00:00,https://twitter.com/soumithchintala/status/1503793023947358217,"@ilyasut I think it is also under-rewarded from a social aspect.
+
+Architecture and formulation breakthroughs build a lot more individual credibility in the AI Scientific Community than engineering or tooling achievements. Awards, credits, etc."
+346,@soumithchintala,2022-03-15 07:29:36+00:00,https://twitter.com/soumithchintala/status/1503634502731640833,@ml_contests @kaggle @galileoeni @ZindiAfrica @drivendataorg @aicrowdHQ @PyTorch @numpy_team @PyData curious to know which entry used C++. That's pretty bold :)
+347,@soumithchintala,2022-03-11 03:08:52+00:00,https://twitter.com/soumithchintala/status/1502119336688951297,@TheGregYang @ChrSzegedy cc: @paperswithcode @rbstojnic @rosstaylor90
+348,@soumithchintala,2022-03-10 15:44:45+00:00,https://twitter.com/soumithchintala/status/1501947173990133771,Powering discovery every single day!
+349,@soumithchintala,2022-03-07 00:46:40+00:00,https://twitter.com/soumithchintala/status/1500634000750219270,Really interesting project from Robin Lobel ( @divideconcept ) . Give it a try and give him feedback!
+350,@soumithchintala,2022-03-05 19:24:26+00:00,https://twitter.com/soumithchintala/status/1500190517979762692,@roydanroy i would expect the ResNet paper to win the test of time award. it won the best paper award at cvpr
+351,@soumithchintala,2022-02-18 22:20:04+00:00,https://twitter.com/soumithchintala/status/1494798899348918275,"@kaixhin @carrigmat @_joaogui1 @huggingface wasn't a fork of Chainer either :)
+That was something James Bradbury tweeted at some point, but it wasn't true lol
+
+PyTorch codebase was a fork of Torch7 codebase"
+352,@soumithchintala,2022-02-18 03:44:07+00:00,https://twitter.com/soumithchintala/status/1494518060409049099,@OpenMMLab @YouTube the link to the repository is still private
+353,@soumithchintala,2022-02-17 18:17:56+00:00,https://twitter.com/soumithchintala/status/1494375575544336393,"Really excited about @VoltronData's new round of funding -- also, I've joined them as an Advisor
+
+Co-founded by @datametrician and @wesmckinn who have done wonders in the open-source data-science world -- Pandas, Apache Arrow and NVIDIA Rapids.
+
+(I am still full-time at @MetaAI)"
+354,@soumithchintala,2022-02-15 03:39:20+00:00,https://twitter.com/soumithchintala/status/1493429693147664387,"Julia? More like Cool-ia
+*ok i’ll show myself out*
+
+congrats to the julia community for staying as strong as ever!"
+355,@soumithchintala,2022-02-14 03:52:02+00:00,https://twitter.com/soumithchintala/status/1493070504785289218,the well-calibrated opinion
+356,@soumithchintala,2022-02-12 06:59:01+00:00,https://twitter.com/soumithchintala/status/1492392781649788930,"@_willfalcon @lantiga @tensorwerk @PyTorchLightnin @PyTorch congrats @lantiga  , @hhsecond and team!"
+357,@soumithchintala,2022-02-11 22:42:17+00:00,https://twitter.com/soumithchintala/status/1492267774995009538,@chris_j_paxton @hellorobotinc same. love @hellorobotinc 's design.
+358,@soumithchintala,2022-02-11 19:37:56+00:00,https://twitter.com/soumithchintala/status/1492221382284959746,@chris_j_paxton *non-significant -&gt; non-negligible
+359,@soumithchintala,2022-02-11 19:37:14+00:00,https://twitter.com/soumithchintala/status/1492221207831363584,"@chris_j_paxton if they show real, consistent utility, I think people will be willing to buy them in the $10k to $15k range in NA/EU regions.
+High-end kitchen appliances cost ~$3k to $5k each for example and a non-significant percentage of people dont mind spending that amount."
+360,@soumithchintala,2022-02-10 20:05:21+00:00,https://twitter.com/soumithchintala/status/1491865896549335045,@srush_nlp @SingularMattrix like masking + max-length to map seq2seq to XLA :)
+361,@soumithchintala,2022-02-10 19:34:40+00:00,https://twitter.com/soumithchintala/status/1491858174466568199,Really nice of @CoreWeave to donate massive amount of compute to the #EleutherAI project
+362,@soumithchintala,2022-02-09 19:24:09+00:00,https://twitter.com/soumithchintala/status/1491493137700855819,"@wightmanr @jbohnslav @karpathy my main bet on technical risk for distributed video preproc infra would be if there's a cloud-store (like S3) that would be cheap and have block/stream reading (instead of having to download a video and then load/stream).
+Not a lot of folks can afford a large-capacity SSD NFS"
+363,@soumithchintala,2022-02-09 19:22:03+00:00,https://twitter.com/soumithchintala/status/1491492609931501572,"@wightmanr @jbohnslav @karpathy I just want to throw a clear counter-example.
+FFCV which claims to do super-fast image preproc + loading is entirely Python except for one small function that binds to turbojpeg
+https://t.co/CgFQSQmIoV"
+364,@soumithchintala,2022-02-09 19:04:09+00:00,https://twitter.com/soumithchintala/status/1491488105714569219,"@wightmanr @jbohnslav @karpathy Agree with all you said for real-time streams and reacting to those streams quickly.
+But seems overkill for say offline neural-network training -- the nn fwd+bwd time will dominate and give a buffer to eat the naive Python loading."
+365,@soumithchintala,2022-02-09 19:02:03+00:00,https://twitter.com/soumithchintala/status/1491487578012499971,"@wightmanr @jbohnslav @karpathy agreed with Python for pre-proc -- I want to think of it differently though. I think either all pre-processing as libav filters, or all pre-processing as numba/halide/triton/xla graphs is nice. But I dont see a fundamental need for careful multithreading/streaming"
+366,@soumithchintala,2022-02-09 18:58:26+00:00,https://twitter.com/soumithchintala/status/1491486666183352323,"@wightmanr @jbohnslav @karpathy one clear dataset that's trying to break out of ""short clips"" paradigm is https://t.co/nw5FXFaXEM
+TBD to see what infra/libraries/models will be built on that."
+367,@soumithchintala,2022-02-09 18:51:46+00:00,https://twitter.com/soumithchintala/status/1491484988004573190,"@wightmanr @jbohnslav @karpathy If you want to do this at scale, the infra (storage/compute) becomes a bottleneck, as it's not as easy as using a free-tier compute anywhere.
+In terms of loading/preprocessing software, I think libav / pyav / ffmpeg is pretty great overall, for both loading and pre-processing."
+368,@soumithchintala,2022-02-07 20:32:34+00:00,https://twitter.com/soumithchintala/status/1490785579180736513,"@ericjang11 I'll assume Jony Ive without Steve Jobs' regularization stands for form over function.
+Tensorboard would have only two panes, one for a grid of plots, and another for a grid of images.
+You are forced to a grid size of 4 -- Jony believes anything larger is unnecessary function."
+369,@soumithchintala,2022-02-07 17:02:15+00:00,https://twitter.com/soumithchintala/status/1490732651245932551,"@srush_nlp what goes into the queue, a Tensor?"
+370,@soumithchintala,2022-02-05 06:23:01+00:00,https://twitter.com/soumithchintala/status/1489847007980228608,@tribbloid that's a really good question. I'd define them at the median. I would wager that Jeff Dean's coding skills and workflows are closer to a median engineer than a median ML scientist -- though Jeff Dean's engineering track-record is arguably nowhere near medians anyways.
+371,@soumithchintala,2022-02-04 19:06:11+00:00,https://twitter.com/soumithchintala/status/1489676676011339780,"Fun read on why MLOps is still somewhat broken -- the engineers who build them are not users.
+
+In ML Frameworks, the authors were ML scientists -- (Py)Torch, Theano, Caffe, MXNet, Keras, Chainer, TF, etc. and that helped in design requirements accurately being in your head."
+372,@soumithchintala,2022-02-03 17:40:56+00:00,https://twitter.com/soumithchintala/status/1489292837086707716,"This is not a research paper, this is a real-world product. Wow!
+
+Been following @runwayml from their early days (and visited their offices last year). Great set of people, strong creative and product sense. Watch out for them."
+373,@soumithchintala,2022-02-03 02:42:21+00:00,https://twitter.com/soumithchintala/status/1489066699370504196,"@3scorciav @CSProfKGD unfortunately, no, I don't have that one with comments.
+I only have mirrors of posts+comments for posts that I directly made (not reshares).
+As @ylecun is the original poster, he would have it in his Google+ takeout with comments. https://t.co/QZd6Sp0e9B"
+374,@soumithchintala,2022-02-02 23:43:32+00:00,https://twitter.com/soumithchintala/status/1489021701274877952,@lucacarlone1 @fdellaert this looks great. is the code going to be coming into Kimera?
+375,@soumithchintala,2022-02-02 20:25:07+00:00,https://twitter.com/soumithchintala/status/1488971766496174084,I am not deeply familiar with the literature of neural search / language models. This is probably not the first or last time someone use them this way -- but it's the first time I observed it in action.
+376,@soumithchintala,2022-02-02 20:23:12+00:00,https://twitter.com/soumithchintala/status/1488971282469298180,"It's interesting and creative how they attack the search space by sampling from a language model 
+-- and at that point I wonder if you need a more powerful term for the phrase ""language model"". https://t.co/gt0lIHhCzY"
+377,@soumithchintala,2022-01-31 17:45:41+00:00,https://twitter.com/soumithchintala/status/1488206868573040641,"DietGPU: fast specialized lossless compression on Nvidia GPUs
+
+If you have slow network fabric, this can speedup distributed training by a lot.
+
+Authored by Jeff Johnson (gh:wickedfoo) who wrote a lot of the PyTorch CUDA code and faiss-gpu.
+
+https://t.co/eNvAJ4CJez https://t.co/JRvJWVXhoq"
+378,@soumithchintala,2022-01-30 05:22:38+00:00,https://twitter.com/soumithchintala/status/1487657483476869123,"@GaelVaroquaux i thought joblib is super standard and popular in the Python ecosystem :).
+Also, I think open-source is done better outside of big companies anyways, so the bar is not that high :D"
+379,@soumithchintala,2022-01-29 16:35:17+00:00,https://twitter.com/soumithchintala/status/1487464377267675139,"@visarga it is mostly battle-tested on RL.
+But the underlying transport layer it uses (TensorPipe) is the same transport layer that PyTorch distributed uses. So it is on strong grounding."
+380,@soumithchintala,2022-01-29 05:36:55+00:00,https://twitter.com/soumithchintala/status/1487298691471974406,"@kevinleestone thanks for the reply.
+Do you plan to release weights in the near or far future?"
+381,@soumithchintala,2022-01-28 22:50:53+00:00,https://twitter.com/soumithchintala/status/1487196509296906241,"@kevinleestone this is really cool. Would love to use this in our own work. I have two questions:
+1. Have you tried running the model on Jetson Nano or Jetson Xavier, if so, what was the perf?
+2. Do you plan to open-source the models and/or code?"
+382,@soumithchintala,2022-01-28 20:18:04+00:00,https://twitter.com/soumithchintala/status/1487158053992550405,"Shiny new distributed Python library from FAIR.
+You can use it as 
+- a Python RPC (like Pyro, ZeroRPC, gRPC) but with a very high-performance Tensor transport layer
+- a joblib-like Batch-processing distribution
+- a Map-Reduce style processor
+- a neuralnet distributed trainer"
+383,@soumithchintala,2022-01-24 17:57:50+00:00,https://twitter.com/soumithchintala/status/1485673208447705090,"@JoakimRi you should follow our developer mailing list (which is mainly for core devs, but anyone can view / read ).
+torch::deploy is one other thing: https://t.co/woKwozAMei"
+384,@soumithchintala,2022-01-24 16:35:24+00:00,https://twitter.com/soumithchintala/status/1485652464305119232,"@JoakimRi yes, just separating it in it's internals, and yes there will be prod use-cases that will continue to be powered by it and so it will be maintained."
+385,@soumithchintala,2022-01-20 20:23:00+00:00,https://twitter.com/soumithchintala/status/1484260189675134986,"@yoavgo @cHHillee @dzhulgakov a Python Mode that lets you override the meaning of all operators, without needing to have a data dependent flow into the type in question
+
+https://t.co/eziPg5n8sn
+
+https://t.co/HTuJ4kDUNh"
+386,@soumithchintala,2022-01-20 18:09:52+00:00,https://twitter.com/soumithchintala/status/1484226687030153223,"@rasbt I expect NumPy pre 1.18 was indirectly leveraging some SIMD using gcc.
+if you write a simple for-loop without explicit SIMD instructions, usually the compiler adds in vectorization. The process is brittle, and any sufficiently complex for-loop or nesting will break this out."
+387,@soumithchintala,2022-01-20 17:02:36+00:00,https://twitter.com/soumithchintala/status/1484209757795856386,@AndrewYNg Thanks Andrew! Good to hear that from someone with your visibility.
+388,@soumithchintala,2022-01-20 16:58:47+00:00,https://twitter.com/soumithchintala/status/1484208798592028675,"At PyTorch's 5-year anniversary, a lovely conversation hosted by @schrep around ML Frameworks' past, present and future!
+Schrep has been one of the biggest pillars of support for @pytorch and a huge second-order reason behind it's funding and success."
+389,@soumithchintala,2022-01-20 04:51:09+00:00,https://twitter.com/soumithchintala/status/1484025685383520259,@JeffDean @iamknighton @PyTorch Thanks a lot Jeff!
+390,@soumithchintala,2022-01-19 20:24:42+00:00,https://twitter.com/soumithchintala/status/1483898230433845255,"I am really excited to see prototypes like dynamo, lazy, fx, functorch, nvfuser etc. and I’m pretty confident that they will consolidate into a disruptive next set of experiences. I’m proud that we’ve built prototypes like named-tensor, even though they didn’t work out."
+391,@soumithchintala,2022-01-19 20:24:29+00:00,https://twitter.com/soumithchintala/status/1483898177233240067,We are blessed to have the trust of the research and open-source community even as I made certain calls that were not ideal in their perspective (at that time). /
+392,@soumithchintala,2022-01-19 20:24:29+00:00,https://twitter.com/soumithchintala/status/1483898175261974529,"With the various threads tying up, I am pretty bullish that today, we have the right infra, the right set of leaders and maintainers, the right attitude and priorities to have PyTorch lead significant product disruption again (unless all our bets are uniformly bad by luck). /"
+393,@soumithchintala,2022-01-19 20:24:28+00:00,https://twitter.com/soumithchintala/status/1483898173890383872,"Product exploration and product design are generally handled the same way research is – we explore, and exploit what we find. /"
+394,@soumithchintala,2022-01-19 20:24:28+00:00,https://twitter.com/soumithchintala/status/1483898172284055559,But what researchers mean when they say “not much has changed” is that there hasn’t been a step-change in their day-to-day user-experience. /
+395,@soumithchintala,2022-01-19 20:24:27+00:00,https://twitter.com/soumithchintala/status/1483898170178478082,"With the additional funding due to the prod pivot, we made great improvements to distributed, perf, added  new layers and functions (some of them with bad design, sorry!), complex nb. This has been massive time+effort, and that makes people’s day-to-day usage easier and better /"
+396,@soumithchintala,2022-01-19 20:24:27+00:00,https://twitter.com/soumithchintala/status/1483898168509149192,"While we have seen massive success in research, it is heavily lifted by our core initial product + strong backward-compatibility guarantees.
+ /"
+397,@soumithchintala,2022-01-19 20:24:27+00:00,https://twitter.com/soumithchintala/status/1483898166755926020,"Anyways, none of this big production push helped researchers in a significant way, so many jokingly say that not much has changed since PyTorch 0.4, and in a simplistic, squinty view, they are somewhat right. /"
+398,@soumithchintala,2022-01-19 20:24:26+00:00,https://twitter.com/soumithchintala/status/1483898165245980677,"PyTorch's super-strong emphasis on backward-compatibility is universally appreciated till today, and I’m proud of that. /"
+399,@soumithchintala,2022-01-19 20:24:26+00:00,https://twitter.com/soumithchintala/status/1483898163597660162,"All of this had a massive impact: libtorch enabled us to enter many new markets as a result – self-driving, mobile apps, recommendation. We are running in prod in many of the top companies across the world. / https://t.co/ap7qsCwBIQ"
+400,@soumithchintala,2022-01-19 20:24:25+00:00,https://twitter.com/soumithchintala/status/1483898159713640453,"Also, our CPU perf was horrendous (but the researchers didn’t notice), and prod workloads cared about CPU a lot – we fixed it. /"
+401,@soumithchintala,2022-01-19 20:24:24+00:00,https://twitter.com/soumithchintala/status/1483898157658476546,"We also cleaned up internals which were bubble-gum wrapped house of cards, enabling PyTorch Mobile, enable hardware vendors to build out-of-tree backends, helped start a strong collab with @GoogleAI on TPUs, and many ongoing projects (fx, functorch, dynamo, dispatch, lazy). /"
+402,@soumithchintala,2022-01-19 20:24:24+00:00,https://twitter.com/soumithchintala/status/1483898156307951617,"For about two years, we pivoted our compiler stack to handle prod, silently seeing XLA and TVM breeze past. We also had to integrate two teams (PyTorch and Caffe2) – which was more of a social engineering problem than a technical problem. It took time – between 2018 and 2020. /"
+403,@soumithchintala,2022-01-19 20:24:24+00:00,https://twitter.com/soumithchintala/status/1483898154647011337,This is also where we baked in the “commits have to be landed by FB engineers” which was a huge trade-off. I made the call knowing that the downside was increased friction in open-source for a few years until we could streamline this aspect. Life is not perfect. /
+404,@soumithchintala,2022-01-19 20:24:23+00:00,https://twitter.com/soumithchintala/status/1483898152507920390,"So, around the time we were building our compiler, we got the opportunity to merge together with the Caffe2 project, for a significantly larger team and a much more sustained and growing funding. We took it, and I made the call. /"
+405,@soumithchintala,2022-01-19 20:24:23+00:00,https://twitter.com/soumithchintala/status/1483898150922465285,"We were bold, competent but very underfunded. For example, the first version of PyTorch-Distributed was built by @apaszke and three of his friends as a class project. Additionally, the biggest criticism (+demand) at that time was that PyTorch was a playtoy not ready for prod. /"
+406,@soumithchintala,2022-01-19 20:24:22+00:00,https://twitter.com/soumithchintala/status/1483898149060157442,"But we didn’t focus too much on performance, and focused instead on exporting PyTorch programs to C++ for productionisation. Here’s why: /"
+407,@soumithchintala,2022-01-19 20:24:22+00:00,https://twitter.com/soumithchintala/status/1483898147508301827,"We tried that minimally with optimizing small RNNs, but the world had moved on by the time we got there. That would’ve given people strong incentives to port to TorchScript. /"
+408,@soumithchintala,2022-01-19 20:24:22+00:00,https://twitter.com/soumithchintala/status/1483898145859854337,"We could’ve made TorchScript more appealing if we focused it on performance, shown 10x better perf than in eager mode – taken a Numba-like approach – limited but powerful subset. /"
+409,@soumithchintala,2022-01-19 20:24:21+00:00,https://twitter.com/soumithchintala/status/1483898143762788354,"So, we bet on TorchScript (more specifically jit.script). This has been a rough ride, because Python is large and people like using most or all of Python. It wasn’t obvious then, though it is somewhat obvious in retrospect. We’re unbundling it. /"
+410,@soumithchintala,2022-01-19 20:24:21+00:00,https://twitter.com/soumithchintala/status/1483898142114385921,"Building an ML compiler was and is a research problem, for two reasons:
+1. We didn’t know how to codegen efficient code for dynamic shapes
+2. It's hard to slice Python in the right way to make it small, yet be good for all the flexibility that users expect from Python / PyTorch"
+411,@soumithchintala,2022-01-19 20:24:20+00:00,https://twitter.com/soumithchintala/status/1483898140071796740,"After the 0.3 release, we knew that at the rate at which the hardware was getting faster, we absolutely needed a compiler to be able to drive hardware optimally. Fun fact, @colesbury (who built the Python nogil work) opposed that view :-) /"
+412,@soumithchintala,2022-01-19 20:24:20+00:00,https://twitter.com/soumithchintala/status/1483898138695974912,"I remember at that time, we still had hope that we close all github issues -- we tried hard. When we had the 150th open issue, I remember sitting with @zou3519 and @TongzhouWang saying if we worked faster and smarter, we could go back to Inbox Zero. Oh, how naive we were! /"
+413,@soumithchintala,2022-01-19 20:24:20+00:00,https://twitter.com/soumithchintala/status/1483898137051860994,"We were extremely blessed to add in folks like @ptrblck, @ezyang, @t-vi early on, and countless others that joined in on the PyTorch party and have completely changed the way we build things! /"
+414,@soumithchintala,2022-01-19 20:24:19+00:00,https://twitter.com/soumithchintala/status/1483898135302885391,"In the first year, we started small, focused on researchers — and we did that focused and well. We had a good product, strong support structure that we carefully curated and a twitter account that we set on fire. It worked a little too well :)
+/"
+415,@soumithchintala,2022-01-19 20:24:19+00:00,https://twitter.com/soumithchintala/status/1483898133679591437,"It’s been 5 years since we launched @pytorch. It’s much bigger than we expected -- usage, contributors, funding. We’re blessed with success, but not perfect. A thread (mirrored at https://t.co/MmccyHehaw ) about some of the interesting decisions and pivots we’ve had to make 👇"
+416,@soumithchintala,2022-01-14 17:53:51+00:00,https://twitter.com/soumithchintala/status/1482048327420198915,"@hen_str @srush_nlp it's not a bad idea to use TF.js, it's pretty good. But it is very optimized, complex and not like MiniTorch.
+
+If the aim is to make students create their own ML framework over the course (in JS), then you'd want to create MiniTorch.js, just like MiniTorch"
+417,@soumithchintala,2022-01-14 17:01:30+00:00,https://twitter.com/soumithchintala/status/1482035155816665088,@srush_nlp interested!
+418,@soumithchintala,2022-01-13 21:29:42+00:00,https://twitter.com/soumithchintala/status/1481740263106170891,"@hardmaru if outspending is all it takes to compete, then AMD wont be eating Intel's lunch today in the CPU business."
+419,@soumithchintala,2022-01-13 16:18:20+00:00,https://twitter.com/soumithchintala/status/1481661905710243843,"@ezyang Wordle 208 5/6
+
+⬜🟨🟨⬜🟩
+⬜⬜⬜🟩🟩
+⬜🟨⬜🟩🟩
+🟩⬜⬜🟩🟩
+🟩🟩🟩🟩🟩"
+420,@soumithchintala,2022-01-12 13:47:35+00:00,https://twitter.com/soumithchintala/status/1481261577047269379,@giffmana seems fair!
+421,@soumithchintala,2022-01-11 16:37:15+00:00,https://twitter.com/soumithchintala/status/1480941887703896067,My colleagues at FAIR keeping up the good ConvNet fight!
+422,@soumithchintala,2022-01-10 12:26:30+00:00,https://twitter.com/soumithchintala/status/1480516398568902658,"@erwincoumans @BartWronsk one cannot ""re-upload"" a pypi release. They have the ability to upload a new release version with a bumped version number, or delete a release.
+
+So, if dependencies are encoded with hard version numbers (and not &gt;=), pypi atmost fails to find the dependency"
+423,@soumithchintala,2021-12-30 09:08:47+00:00,https://twitter.com/soumithchintala/status/1476480373747974145,@_joaogui1 @PyTorch https://t.co/fMuEn7n5lV
+424,@soumithchintala,2021-12-30 09:06:29+00:00,https://twitter.com/soumithchintala/status/1476479795395383296,@_joaogui1 @PyTorch https://t.co/bsOq0PF4ZE
+425,@soumithchintala,2021-12-25 11:26:31+00:00,https://twitter.com/soumithchintala/status/1474703096609525760,@mistervickster https://t.co/xdPjW6scQw
+426,@soumithchintala,2021-12-09 04:56:21+00:00,https://twitter.com/soumithchintala/status/1468806702971637768,"@TacoCohen congratulations Taco, to you and your team!"
+427,@soumithchintala,2021-12-09 04:53:15+00:00,https://twitter.com/soumithchintala/status/1468805921602215936,An interesting set of thoughts and a great direction to treat models as collaborative open-source style library development!
+428,@soumithchintala,2021-12-03 17:30:35+00:00,https://twitter.com/soumithchintala/status/1466822185050415115,Strong Visual Representations + kNN are a pretty good baseline for robot tasks!
+429,@soumithchintala,2021-12-01 22:46:45+00:00,https://twitter.com/soumithchintala/status/1466176972430716938,@PyTorch @ylecun i think there's only one pioneer in the picture :)
+430,@soumithchintala,2021-11-24 05:32:24+00:00,https://twitter.com/soumithchintala/status/1463379956805812224,@gstsdn maybe both? i think your brain improves representations of sensors that are most active? (ex.: https://t.co/xgQse0LXRB. )
+431,@soumithchintala,2021-11-20 03:27:44+00:00,https://twitter.com/soumithchintala/status/1461899031056166923,@ezyang @dzhulgakov and I whiteboard sometimes. I use my ipad pro and zoom
+432,@soumithchintala,2021-11-19 18:38:56+00:00,https://twitter.com/soumithchintala/status/1461765952991907841,"This is very cool from Alphabet!
+
+The everyday robot is similar to what I'm building towards, and it's working today -- in Google offices!
+
+When can I buy one :-)"
+433,@soumithchintala,2021-11-16 22:57:40+00:00,https://twitter.com/soumithchintala/status/1460743902324047883,"I'll be there hosting @ylecun for a chat around the rich history of DL frameworks, hardware and systems, where the field is headed to, and fun personal topics!"
+434,@soumithchintala,2021-11-16 22:55:57+00:00,https://twitter.com/soumithchintala/status/1460743470298148871,"Stoked for the keynotes from @DougalMaclaurin (autograd, dex, jax) and Philippe Tillet (@OpenAI Triton).
+
+Dougal set ML framework trends multiple times. Wonder where his ideas are headed next!
+
+Philippe disrupted ML compilers with his PhD thesis. He'll talk more on Triton."
+435,@soumithchintala,2021-11-15 06:27:13+00:00,https://twitter.com/soumithchintala/status/1460132259114192897,"I've been using RoboStack, and it is 10x nicer to deal with than messing with system packages and/or docker.
+
+Glad to see their work published and citeable!"
+436,@soumithchintala,2021-11-14 16:32:59+00:00,https://twitter.com/soumithchintala/status/1459922317182652420,"@ericjang11 Checkout the humanoids used at RoboCup every year for the last ~20 years, playing Robot soccer.
+
+https://t.co/Xf9tIzYKGn
+https://t.co/XxvasfP0Qq
+
+I trained on Nao Qi: https://t.co/OlKzHp7aBz"
+437,@soumithchintala,2021-11-09 22:11:52+00:00,https://twitter.com/soumithchintala/status/1458195660285652996,@wightmanr sounds about right :D
+438,@soumithchintala,2021-11-09 21:28:39+00:00,https://twitter.com/soumithchintala/status/1458184784551755782,"IMO AMD GPUs haven't made as much impact because they aren't significantly cheaper to buy retail than NVIDIA, despite having to compensate for the beta-experience ROCm stack.
+They aren't cheaper probably because gaming and crypto drive their demand pretty well."
+439,@soumithchintala,2021-11-08 16:37:58+00:00,https://twitter.com/soumithchintala/status/1457749247089168385,@rasbt @gridai_ congratulations!
+440,@soumithchintala,2021-11-04 19:02:24+00:00,https://twitter.com/soumithchintala/status/1456336040726253571,"This is so cool / crazy / scary, all at the same time!"
+441,@soumithchintala,2021-11-04 15:57:17+00:00,https://twitter.com/soumithchintala/status/1456289455577485327,"Want to visually compare two language models quickly? 
+Maybe as a visual A/B test after you fine-tune / distill?
+
+@hen_str and team release a really cool tool https://t.co/22C4JAaGed to help with that.
+
+I just tried it out, and it was pretty intuitive / easy. https://t.co/KhdmcER59C"
+442,@soumithchintala,2021-11-01 20:45:04+00:00,https://twitter.com/soumithchintala/status/1455274714633486341,@jackyliang42 @RCalandra do you know when/where Gelsight Inc will have them for open / online orders?
+443,@soumithchintala,2021-11-01 16:01:50+00:00,https://twitter.com/soumithchintala/status/1455203435704422405,PapersWithCode go brrrrrrr....
+444,@soumithchintala,2021-11-01 15:45:32+00:00,https://twitter.com/soumithchintala/status/1455199335159943180,"For example, ReSkin here is put as dog ""socks"", to collect fine-grained contact data as the dog runs around:
+
+https://t.co/q2wjtYo4jR"
+445,@soumithchintala,2021-11-01 15:43:44+00:00,https://twitter.com/soumithchintala/status/1455198883420778506,"I'm pretty excited, especially to make end-effector development data-driven, and to collect data from humans doing manipulations and tasks really quickly, and at scale."
+446,@soumithchintala,2021-11-01 15:43:44+00:00,https://twitter.com/soumithchintala/status/1455198881172631562,"ReSkin: a deformable elastomer with embedded magnetic particles. When it deforms, local magnetic signal changes
+
+- Robots wear it for touch sensing
+- Humans wear it for data-collection -- to help teach the robot
+- Cheap: &lt; $6 per unit @ 100 units
+
+https://t.co/hkENbBKRK9 https://t.co/6v3kUTfKb3"
+447,@soumithchintala,2021-11-01 15:43:28+00:00,https://twitter.com/soumithchintala/status/1455198814600564740,"Two exciting news from our robotics research today. 1/
+
+DIGIT: a vision-based touch-sensor
+Projects light into a gel in the ""finger-tip"".
+A camera + model rapidly estimates the changes in image to compute localized pressure
+
+Announcement that it is commercially available now! https://t.co/t2r25EmXgZ"
+448,@soumithchintala,2021-10-25 21:43:57+00:00,https://twitter.com/soumithchintala/status/1452752818591387655,"I hate writing type-annotations.
+Profile-directed typing is 👌👌👌"
+449,@soumithchintala,2021-10-24 19:34:32+00:00,https://twitter.com/soumithchintala/status/1452357861619769348,"@StasBekman @aCraigPfeifer the dark arts of just the precise weight initialization have been weighing on us for decades.
+Here's a thread (from Google+): a certain way to initialize classic ConvNets (not ResNets) gave fast convergence, but was not put in any published paper: https://t.co/BHh0FyfcIM"
+450,@soumithchintala,2021-10-21 17:23:58+00:00,https://twitter.com/soumithchintala/status/1451237842215133185,"@xhluu this is a really unfortunate situation!
+
+opening an issue with well-researched, clean, minimal reproduction is beyond a gift, it's a jackpot for the maintainers."
+451,@soumithchintala,2021-10-21 15:55:22+00:00,https://twitter.com/soumithchintala/status/1451215545077047303,"@liuliu for internal projects, whole-heartedly agree. Open-source feedback is a gift. Internal feedback is a given, other teams feel empowered to shout at you because that's your team's job. So, with those dynamics, declaring bankrupcty / constant forceful reset is not bad."
+452,@soumithchintala,2021-10-21 15:53:16+00:00,https://twitter.com/soumithchintala/status/1451215016196251649,"@stephenroller i can see the benefits of auto-bumps, like a nagger -- until the nagger is normalized and everyone subconsciously ignores the nagger :D"
+453,@soumithchintala,2021-10-21 15:48:13+00:00,https://twitter.com/soumithchintala/status/1451213742256099330,"Love this work. The most exciting thing here is that it's completely open in the raw-est form of openness.
+
+@BigscienceW and EleutherAI are super cool!"
+454,@soumithchintala,2021-10-19 14:03:11+00:00,https://twitter.com/soumithchintala/status/1450462537577816067,@wuoulf @packagingcon @cziscience totally well-deserved! you all do gods work
+455,@soumithchintala,2021-10-18 18:52:33+00:00,https://twitter.com/soumithchintala/status/1450172971365117957,"@AbrahamStarosta @ClementDelangue @sama That's pretty much what I was saying. The linked page doesn't have any of that information.
+If the article linked to the paper, instead of the model page (which has none of this text), it would atleast justify the title."
+456,@soumithchintala,2021-10-18 18:51:06+00:00,https://twitter.com/soumithchintala/status/1450172605156237325,"@simonramstedt @zaidalyafeai @ClementDelangue @sama &gt; HN is great but more people need to be aware that they frequently manipulate votes / what goes on the front page based YC and friends' interests
+
+I didn't know this. Is this common knowledge?"
+457,@soumithchintala,2021-10-18 18:45:16+00:00,https://twitter.com/soumithchintala/status/1450171137279897603,"@zaidalyafeai @ClementDelangue @sama yes, I believe that's an option that many people exploit"
+458,@soumithchintala,2021-10-18 18:40:04+00:00,https://twitter.com/soumithchintala/status/1450169826723434503,"@AbrahamStarosta @ClementDelangue @sama As a purely fun exercise, as a casual reader who has no context in this area, I read the page, I read the first title, I read the page again, I don't know where or how it is a ""matter-of-fact"". Do I have to read a different URL or paper to conclude the fact?"
+459,@soumithchintala,2021-10-18 18:34:49+00:00,https://twitter.com/soumithchintala/status/1450168507677782021,"@zaidalyafeai @ClementDelangue @sama General HackerNews guidelines say that one has to use the original title of the page: https://t.co/CGpDq72dcC
+
+I've seen it be enforced many times.
+I've also seen article links swapped out for other more informed ones when appropriate."
+460,@soumithchintala,2021-10-18 18:26:36+00:00,https://twitter.com/soumithchintala/status/1450166437084078089,@ClementDelangue @sama HackerNews moderators constantly reword click-bait titles to more reasonable forms.
+461,@soumithchintala,2021-10-18 15:39:17+00:00,https://twitter.com/soumithchintala/status/1450124334404710410,Great news. Looking forward to the full open-sourcing.
+462,@soumithchintala,2021-10-16 03:53:30+00:00,https://twitter.com/soumithchintala/status/1449221941055954944,"PyTorch co-author Sam Gross (@colesbury) has been working on removing the GIL from Python.
+
+Like...we can start using threads again instead of multiprocessing hacks!
+
+This was a multi-year project by Sam.
+
+Great article summarizing it:
+https://t.co/SXxPYa0Rse"
+463,@soumithchintala,2021-10-15 15:12:09+00:00,https://twitter.com/soumithchintala/status/1449030341063319553,"@fractalfoxnode It's a completely open open dataset, in direct collaboration with lots of universities (the author list reflects this).
+It is built to push the state of art in AI"
+464,@soumithchintala,2021-10-14 20:06:52+00:00,https://twitter.com/soumithchintala/status/1448742118630072328,Really excited about this dataset. It is going to greatly help move Robotics and Embodied intelligence forward!
+465,@soumithchintala,2021-10-01 15:27:59+00:00,https://twitter.com/soumithchintala/status/1443960895097524232,"@ericjang11 keeping systems locally dumb, simple and well-specified is very under-rated"
+466,@soumithchintala,2021-09-30 03:47:27+00:00,https://twitter.com/soumithchintala/status/1443422212925579265,"@ryanmhickman @MediaPipe really cool.
+Do you know of any MediaPipe team members to follow on twitter?"
+467,@soumithchintala,2021-09-30 03:37:25+00:00,https://twitter.com/soumithchintala/status/1443419688948703232,"Low-latency gesture-based communication is as essential to communicate with robots as it is with other humans.
+
+Cool set of posts from @Google on using MediaPipe to help enable this."
+468,@soumithchintala,2021-09-28 03:31:34+00:00,https://twitter.com/soumithchintala/status/1442693439926190082,"@ezyang depends on the size of the document, and how urgently you need to parallelize the editing. i've certainly had to write papers (in sharelatex) where we were rushing and had to edit collaboratively."
+469,@soumithchintala,2021-09-27 21:15:15+00:00,https://twitter.com/soumithchintala/status/1442598734265790465,@cHHillee @marksaroufim @ezyang yea the lack of inline-commenting really breaks it down for anything high-traffic
+470,@soumithchintala,2021-09-27 21:14:04+00:00,https://twitter.com/soumithchintala/status/1442598436151386112,"What do other large open-source projects use to review, comment-on and edit design docs -- publicly viewable (and maybe commentable), membership-gated editing?
+
+We're contemplating what to do for @PyTorch"
+471,@soumithchintala,2021-09-24 03:14:20+00:00,https://twitter.com/soumithchintala/status/1441239552308310021,"@gdb ""book cover artwork: DALL-E""
+
+nice!"
+472,@soumithchintala,2021-09-13 17:08:46+00:00,https://twitter.com/soumithchintala/status/1437463275269238784,"A current summary of projects happening in PyTorch core.
+
+(special thanks to Edward who groks an overload of information and makes it comprehensible!)"
+473,@soumithchintala,2021-09-10 20:11:26+00:00,https://twitter.com/soumithchintala/status/1436422083911815169,The annual funathon continues -- still virtual!
+474,@soumithchintala,2021-09-10 19:31:53+00:00,https://twitter.com/soumithchintala/status/1436412127900848129,"As a dog-lover, this is one of my favorite uses of PyTorch so far.
+Also, my doggo ""Idly"" is featured in there :D"
+475,@soumithchintala,2021-09-01 23:14:29+00:00,https://twitter.com/soumithchintala/status/1433206656662450183,@ericjang11 important: has to be normalized per capita
+476,@soumithchintala,2021-08-18 01:00:11+00:00,https://twitter.com/soumithchintala/status/1427797441382912004,"@AggieInCA I didn't consider it for it's visualization capabilities -- yet, so thanks will give it a try"
+477,@soumithchintala,2021-08-18 00:59:34+00:00,https://twitter.com/soumithchintala/status/1427797282586513421,"@peetak_mitra Thanks, that's a classic, didn't think of it mostly because I wanted something jupyter-friendly / web based. The motivation there is that there are other visualizations and tools I also want to use simultaneously.
+Will try use it if the other options don't work out."
+478,@soumithchintala,2021-08-17 21:59:28+00:00,https://twitter.com/soumithchintala/status/1427751960392970247,"@jbohnslav good point, it uses Plotly, i should give plotly a try."
+479,@soumithchintala,2021-08-17 21:57:43+00:00,https://twitter.com/soumithchintala/status/1427751520955731968,"@kevin_zakka offscreen, pyrender just does the rendering. if you see the example, they project it as a 2D image and display it via matplotlib
+
+it's viewer is not supported for headless or remote environments"
+480,@soumithchintala,2021-08-17 21:42:43+00:00,https://twitter.com/soumithchintala/status/1427747746677678084,"what's a good high-performance 3D mesh viewer with a Python API and remote rendering / streaming (i.e. not viewing on a physical display connected to the program)?
+- [optional] that integrates with Jupyter Notebooks?"
+481,@soumithchintala,2021-08-13 18:41:53+00:00,https://twitter.com/soumithchintala/status/1426252686714933255,"@0x00B1 @rita_strack @finkd when that becomes a serious thought, DM me :)"
+482,@soumithchintala,2021-08-13 02:59:39+00:00,https://twitter.com/soumithchintala/status/1426015565299294212,"@mpetrov @OpenAI thanks for that. i caught a bit of it later in the day in between meetings, it was pretty fun"
+483,@soumithchintala,2021-08-12 17:46:32+00:00,https://twitter.com/soumithchintala/status/1425876370782031878,"@OpenAI Waited for a while. Peacing out now.
+Hope you run this again, or have a way for the public to try out Codex casually.
+(signed up for the beta waitlist a while ago, but haven't got in yet)"
+484,@soumithchintala,2021-08-11 21:29:32+00:00,https://twitter.com/soumithchintala/status/1425570101772836869,"@xmpierinix i can live with that, as long as the code is getting written for me :-)"
+485,@soumithchintala,2021-08-11 17:55:47+00:00,https://twitter.com/soumithchintala/status/1425516309010321408,This is when a smarter assistant helps. I can see Codex as a better stackoverflow with reduced friction.
+486,@soumithchintala,2021-08-11 17:55:47+00:00,https://twitter.com/soumithchintala/status/1425516307458441224,"tbc It's not a Matplotlib problem.
+Matplotlib has a powerful and wide API surface.
+I plot once every 2 months, and I forget everything that I did the last time -- both the syntax and the concepts (how to do collages, how to place things relative to other things)."
+487,@soumithchintala,2021-08-11 17:53:24+00:00,https://twitter.com/soumithchintala/status/1425515707375181826,"@matplotlib @andrewwhite01 It's not a Matplotlib problem.
+Matplotlib has a powerful and wide API surface.
+I plot once every 2 months, and I forget everything that I did the last time. Both the syntax and the concepts (how to do collages, how to place things relative to other things)."
+488,@soumithchintala,2021-08-11 16:01:21+00:00,https://twitter.com/soumithchintala/status/1425487510650638341,Maybe I can finally use matplotlib now without spending half a day googling the exact syntax and options!
+489,@soumithchintala,2021-08-06 17:55:02+00:00,https://twitter.com/soumithchintala/status/1423704180456411136,@GuggerSylvain @wightmanr @ezyang i think more like cc: @mikeruberry
+490,@soumithchintala,2021-08-06 03:24:25+00:00,https://twitter.com/soumithchintala/status/1423485082321436676,"@tqchenml thanks, coming from you, that's a very valuable compliment.
+Some day, I'd love to read about your journey through XGBoost, DMLC's origins, MXNet and now TVM. One can learn a lot from your journey. If you don't find time to write something down, I'd love to interview you."
+491,@soumithchintala,2021-08-04 02:03:54+00:00,https://twitter.com/soumithchintala/status/1422740045853863937,"@maxforbes We thought of releasing it, but realized very few projects have the scale that we have, so it wouldn't be worth the maintenance burden."
+492,@soumithchintala,2021-08-04 02:03:49+00:00,https://twitter.com/soumithchintala/status/1422740021585530886,"@maxforbes For github notifications, initially, I hacked up my gmail with lots of keyboard shortcuts and filters.
+After a point, we hacked up an alternative Github issue/PR viewer, had very fine filters, was keyboard navigated and allowed one to reply to threads really quickly in-line."
+493,@soumithchintala,2021-08-02 20:06:09+00:00,https://twitter.com/soumithchintala/status/1422287627663859716,"A blog post outlining my JuliaCon Keynote from Friday:
+""Growing open-source: from Torch to PyTorch""
+https://t.co/OxgaAa2ltv
+
+Some anecdotes and stories from my journey in open-source tied around four dimensions:
+principles, scope &amp; risk, measurement, scaling"
+494,@soumithchintala,2021-07-30 21:05:49+00:00,https://twitter.com/soumithchintala/status/1421215476860981248,"@ranjan_ananth @JuliaConOrg thanks for organizing the event, and the invite.
+I'll try to publish the transcript at some point soon!"
+495,@soumithchintala,2021-07-30 21:01:00+00:00,https://twitter.com/soumithchintala/status/1421214263755083776,@RahelJhirad thank you!
+496,@soumithchintala,2021-07-30 13:27:33+00:00,https://twitter.com/soumithchintala/status/1421100152090157063,"Honored to be invited by the Julia community.
+Looking forward to speaking in ~1 hour!"
+497,@soumithchintala,2021-07-29 20:53:54+00:00,https://twitter.com/soumithchintala/status/1420850090416250883,"@srush_nlp @_Will_Rice Cutlass is another option, but the examples via cutlass aren't concise or trivial to work with: https://t.co/SfNT3OvbOD"
+498,@soumithchintala,2021-07-29 20:52:33+00:00,https://twitter.com/soumithchintala/status/1420849749914267650,"@srush_nlp @_Will_Rice Something like the Matmul example + fused ReLU is not easy to write in CUDA with as good (or better perf) than CuBLAS. The concise implementation + auto-tuning is where you probably gain significant productivity.
+
+https://t.co/Lp3kv2pZCd"
+499,@soumithchintala,2021-07-28 18:25:31+00:00,https://twitter.com/soumithchintala/status/1420450363455455232,"This is great. Been following Philippe Tillet's work for a while, and it's great to see OpenAI funding Triton.
+
+Making GPU programming easier and lowering the barrier is practically really useful."
+500,@soumithchintala,2021-07-19 20:41:42+00:00,https://twitter.com/soumithchintala/status/1417223142716620806,@deliprao relevant tweet: https://t.co/g3fJTrDnaz
+501,@soumithchintala,2021-07-19 20:41:02+00:00,https://twitter.com/soumithchintala/status/1417222976244797446,"@deliprao People see something and they think  that's the mean of the distribution (because they don't know better).
+The people creating such demos / videos cherry-pick to put their best foot forward.
+There in itself is the root of all hype."
+502,@soumithchintala,2021-07-19 16:22:09+00:00,https://twitter.com/soumithchintala/status/1417157822673002501,"@Viral_B_Shah @JuliaComputing if anyone deserves a big series A, that's Julia. congrats!"
+503,@soumithchintala,2021-07-18 19:28:00+00:00,https://twitter.com/soumithchintala/status/1416842208586706944,"Deep Learning is not yet enough to be the singular solution to most real-world automation. You need significant prior-injection, post-processing and other engineering in addition.
+
+Hence, companies selling DL models as an API have slowly turned into consulting shops."
+504,@soumithchintala,2021-06-29 13:06:16+00:00,https://twitter.com/soumithchintala/status/1409860770033250309,"@egrefen i think that's perfectly reasonable, to scold them for being a large well-funded lab that is publishing blog-post quality results and not finishing the manuscript.
+Let the twitter free-market battles begin :)"
+505,@soumithchintala,2021-06-29 13:01:20+00:00,https://twitter.com/soumithchintala/status/1409859531845234696,@egrefen haha yea peer-review is definitely buckling under the pressure of our fast-expanding field :)
+506,@soumithchintala,2021-06-29 12:59:52+00:00,https://twitter.com/soumithchintala/status/1409859159470882817,"@egrefen And imo there is nothing we should do to change that for Arxiv because our perspective is not perfect at all. IMO, we need a venue that has that allows uncomfortable things, and has high variance.
+
+We can / should implement standards when peer-reviewing."
+507,@soumithchintala,2021-06-29 12:53:49+00:00,https://twitter.com/soumithchintala/status/1409857638331002883,"@egrefen arxiv has a history of people publishing partial work, work that is heavily revised in v2, v3, v4, etc., work that is just humor / joke / parody, work to quickly flag-plant.
+
+Ex:
+https://t.co/cwnDbvPHlj
+
+IMO the value of arxiv is to not gate-keep and let stochasticity win."
+508,@soumithchintala,2021-06-29 12:47:20+00:00,https://twitter.com/soumithchintala/status/1409856006646026241,"@egrefen like, why is throwing something on Arxiv that shocking? Arxiv has a lot of random stuff."
+509,@soumithchintala,2021-06-29 12:46:18+00:00,https://twitter.com/soumithchintala/status/1409855747102552067,"@egrefen I don't find it very shocking or unreasonable.
+
+They were transparent on what they are doing. They are explicitly stating that it is not peer-review quality work.
+
+Would a Github readme be somehow acceptable in your perspective? Or maybe a blog post without an arxiv paper?"
+510,@soumithchintala,2021-06-28 16:13:30+00:00,https://twitter.com/soumithchintala/status/1409545503008772100,"More robotics-sauce from FAIR  (@yixin_lin_, Austin Wang)
+- Write high-freq. controllers in PyTorch @ 1kHz
+- Hot-load on hardware (Franka Panda)
+- Stream target positions at 100Hz+ (see video)
+- Integrates with PyBullet, MuJoCo, [soon] droidlet, habitat
+https://t.co/gZqGCTpOhi https://t.co/lbVy9eE3C4"
+511,@soumithchintala,2021-06-23 19:11:02+00:00,https://twitter.com/soumithchintala/status/1407778239238619141,"""The Affective Growth of Computer Vision"" by @normsu and D. Crandall
+
+A work of art. It captures the emotions, stories and thoughts of the Vision community so beautifully! So relatable...
+
+“Remember, we are neural network technicians, not scientists.”
+
+https://t.co/WTHq5ZUNmO"
+512,@soumithchintala,2021-06-22 18:42:44+00:00,https://twitter.com/soumithchintala/status/1407408730476617730,"@amuellerml oh nevermind, re-reading it, i think you're asking for the opposite which is to actually have the layout algorithm from graphviz in python/js"
+513,@soumithchintala,2021-06-22 18:40:37+00:00,https://twitter.com/soumithchintala/status/1407408198659842050,"@amuellerml would something like this be of interest?
+https://t.co/kX4WUZA34f
+
+demo: https://t.co/Xm6TORnrNT"
+514,@soumithchintala,2021-06-22 00:55:33+00:00,https://twitter.com/soumithchintala/status/1407140165341134851,@petewarden missed a naming chance: TF Lite Lite
+515,@soumithchintala,2021-06-21 19:14:42+00:00,https://twitter.com/soumithchintala/status/1407054388099751937,"what seems to be clearly evident and gladly so, is that there are no pure rule-based / knowledge-base systems like https://t.co/KTEX9wVCzl in contention anymore :)"
+516,@soumithchintala,2021-06-21 19:13:48+00:00,https://twitter.com/soumithchintala/status/1407054162530029569,"Various approaches by self-driving car researchers, very interesting (8h video, i only caught parts).
+
+On one end, Tesla with pure end-to-end data-driven DL, and on the other end, various weighted DL+Prior-injected/Rule-based hybrid approaches such as from @RaquelUrtasun and team"
+517,@soumithchintala,2021-06-16 19:33:19+00:00,https://twitter.com/soumithchintala/status/1405247132513226760,"@marksaroufim @roboticwrestler ""the design of everyday things"" seems like a really fun read!"
+518,@soumithchintala,2021-06-16 19:25:05+00:00,https://twitter.com/soumithchintala/status/1405245063517589509,"Today, @roboticwrestler pointed me to Neilsen's 10 general principles for UI design.
+
+They seem great, semi-formalized versions, easy to consume and onboard to a larger team (than using ""intuition"")
+
+I need to go read some UI/UX design basics.
+https://t.co/2IKYSbnnpQ"
+519,@soumithchintala,2021-06-15 17:01:06+00:00,https://twitter.com/soumithchintala/status/1404846440543932429,"Nice to see the Video Classification addition to the PyTorch iOS / Android demo apps. The demo apps include Q&amp;A, NMT, SpeechRec, Object Detection, etc. running on mobile
+https://t.co/U27059SIYY
+https://t.co/Gae6MP3VtR"
+520,@soumithchintala,2021-06-15 06:22:51+00:00,https://twitter.com/soumithchintala/status/1404685819529601027,@austinvhuang @ezyang might i suggest HaskTorch as a topic
+521,@soumithchintala,2021-06-06 15:34:22+00:00,https://twitter.com/soumithchintala/status/1401563120674422789,@johnschulman2 i've recently started setting up a monorepo setup in this spirit. Conda is fantastic for this.
+522,@soumithchintala,2021-06-03 18:16:48+00:00,https://twitter.com/soumithchintala/status/1400516834764410880,"@0x00B1 you should write some letters of these stories to your nephew, now, and make them public so that we can all read :)"
+523,@soumithchintala,2021-06-03 04:30:00+00:00,https://twitter.com/soumithchintala/status/1400308764020989959,"@ThugDebugger @datametrician there are many many other archetypes, the domain specialist, the oh-so-productive-how-is-it-possible, etc."
+524,@soumithchintala,2021-06-03 04:28:24+00:00,https://twitter.com/soumithchintala/status/1400308361288093696,"@ThugDebugger @datametrician **Reductive Tweet Warning**
+The most common archetype I've seen is the ""meta"".
+- Senior leads projects and guide people. 
+- Staff generates projects and guide senior
+- Principal generates mega-projects (or projects of projects) and guide staff
+- VP manages to genererate orgs"
+525,@soumithchintala,2021-05-31 21:35:44+00:00,https://twitter.com/soumithchintala/status/1399479734707363847,"This....and C++ dependencies. Conda saves you from C++ dependency hell, but no saving one from compile-time..."
+526,@soumithchintala,2021-05-28 02:50:13+00:00,https://twitter.com/soumithchintala/status/1398109326607331330,@rasbt Graph-PyTorch-Transformers-4 = GPT4
+527,@soumithchintala,2021-05-27 14:45:17+00:00,https://twitter.com/soumithchintala/status/1397926891667873807,"@ThomasViehmann @satyanadella @lantiga so subtle, almost like an video game easter egg :)"
+528,@soumithchintala,2021-05-26 18:55:59+00:00,https://twitter.com/soumithchintala/status/1397627591616520194,"@srvmshr Someone who I admire and respect, who I partly feel connected to because they went to my high school, is talking about something I helped build.
+
+If there is anything else I implied that you misunderstood as something negative, my bad."
+529,@soumithchintala,2021-05-25 20:45:32+00:00,https://twitter.com/soumithchintala/status/1397292773670330368,"@Haokok_ @humourbot @satyanadella While you are not wrong, it wasn't exclusively for rich and influential. I was pretty middle-class, lived in Begumpet and walked to school next door. The school had tons of economic diversity in where the students came from."
+530,@soumithchintala,2021-05-25 16:43:59+00:00,https://twitter.com/soumithchintala/status/1397231986847145985,@tpbollu @satyanadella ...generalization....where?
+531,@soumithchintala,2021-05-25 16:19:31+00:00,https://twitter.com/soumithchintala/status/1397225828300230657,"Getting @satyanadella to talk about PyTorch...✅
+.
+.
+(Satya and I went to the same high school, Hyderabad Public School) https://t.co/gh1PJgpKjy"
+532,@soumithchintala,2021-05-25 16:03:14+00:00,https://twitter.com/soumithchintala/status/1397221730679246857,"PyTorch goes enterprise-grade...
+( tell your CTO/BD/Exec person :D )"
+533,@soumithchintala,2021-05-21 18:53:13+00:00,https://twitter.com/soumithchintala/status/1395814955870474242,"Unsupervised Training getting sooo good!
+Code / models available in fairseq!
+https://t.co/DA7Pi9PAcq"
+534,@soumithchintala,2021-05-17 15:03:37+00:00,https://twitter.com/soumithchintala/status/1394307624359931904,"@sedielem @bilal2vec @nicvadivelu because of a recent github issue confusing PyTorch's default init for Kaiming init, and having to give context, I reproduced this full Google Plus thread here:
+https://t.co/oxY0gXRdv9"
+535,@soumithchintala,2021-05-07 18:02:25+00:00,https://twitter.com/soumithchintala/status/1390728744659193862,70+ interesting posters from various people in the PyTorch community. Check them out!
+536,@soumithchintala,2021-05-03 21:04:45+00:00,https://twitter.com/soumithchintala/status/1389325078979035136,"@shahrukh_athar @jon_barron @thomasahle @torch after warm-up, it should be as fast as the soft-plus function. Both softplus and squareplus are memory-bandwidth bound on the GPU or a modern vectorized CPU I think, so it really doesn't matter which you use. But it would matter on something like a raspberry-pi"
+537,@soumithchintala,2021-05-03 21:02:57+00:00,https://twitter.com/soumithchintala/status/1389324626124316681,"@shahrukh_athar @jon_barron @thomasahle in pytorch, you can JIT compile your handwritten square-plus function by adding a `@torch.jit.script` to the function call. Ex. see https://t.co/25Qfi66C2Q"
+538,@soumithchintala,2021-04-23 20:40:41+00:00,https://twitter.com/soumithchintala/status/1385695141437001728,"A subtle but deep post about building composable compilers with passes written in Julia itself, which makes it much more powerful, accessible and democratic.
+A small but growing trend..."
+539,@soumithchintala,2021-04-20 22:28:14+00:00,https://twitter.com/soumithchintala/status/1384635043352662017,"@0x00B1 which figure?
+I don't think their ISA is open."
+540,@soumithchintala,2021-04-20 22:07:04+00:00,https://twitter.com/soumithchintala/status/1384629718239039491,"to be noted: the 2x GTX 580 used for AlexNet for ~$1000. Cerebras WSE2 is ""several million dollars"" each :D"
+541,@soumithchintala,2021-04-20 22:05:26+00:00,https://twitter.com/soumithchintala/status/1384629305540501505,"I wonder how much PyTorch or TensorFlow limit Cerebras rather than enabling it.
+Programming it directly must be bonkers."
+542,@soumithchintala,2021-04-20 22:02:25+00:00,https://twitter.com/soumithchintala/status/1384628545889177602,"Cerebras WSE2 looks as exciting as the first.
+It is such a radically different chip to everything else, it always evokes excitement in me!
+It has the potential to do to another new or obscure ML method, what GPUs did to ConvNets/AlexNet.
+https://t.co/q2hsptZINM"
+543,@soumithchintala,2021-04-15 15:45:58+00:00,https://twitter.com/soumithchintala/status/1382721870793998339,"@HamelHusain @srush_nlp @_joaogui1 @apaszke Doing that project broke our back, @adamlerer and @colesbury were on it. Debugging was crazy hard.
+It did inform a lot of our directions for PyTorch because we wrote it not too long before we started developing PyTorch"
+544,@soumithchintala,2021-04-15 15:45:00+00:00,https://twitter.com/soumithchintala/status/1382721626270228486,@HamelHusain @srush_nlp @_joaogui1 @apaszke here's an example of a large complex repo we did for COCO object detection in Torch7. It involves a lot of stack and meta-manipulation to encode dependencies and interactions at a distance: https://t.co/TBX7zXPPIv
+545,@soumithchintala,2021-04-15 15:35:04+00:00,https://twitter.com/soumithchintala/status/1382719129564680195,"@HamelHusain @srush_nlp @_joaogui1 @apaszke I'm not a fan of these stack semantics tricks, because it is meta-programming that given sufficient complexity of the program becomes extremely hairy and hard to debug (because it's now it's own language).
+It seems easier to write the same logic explicitly in Python."
+546,@soumithchintala,2021-04-15 15:33:02+00:00,https://twitter.com/soumithchintala/status/1382718615846322176,"@HamelHusain @srush_nlp @_joaogui1 @apaszke reminds me of Torch7's ParallelTable, ConcatTable, etc. etc.
+https://t.co/9dQ7lUftxi"
+547,@soumithchintala,2021-04-14 16:22:50+00:00,https://twitter.com/soumithchintala/status/1382368763148918786,"@apaszke finally! :) Congrats.
+
+y'all gotta explain this notation though... https://t.co/Xgz4GP5nsD"
+548,@soumithchintala,2021-04-08 18:44:07+00:00,https://twitter.com/soumithchintala/status/1380229988121776128,"@ThomasViehmann Dustin Franklin https://t.co/gMZ7I9U3TB used to maintain PyTorch wheels for Jetson btw, but looks like they aren't updated anymore: https://t.co/Z43lIIP0DM
+He's active on linkedin."
+549,@soumithchintala,2021-04-08 18:42:17+00:00,https://twitter.com/soumithchintala/status/1380229528493113344,"@ThomasViehmann i once tried to compile PyTorch on a Jetson Nano 2GB. It did not feel good, and obviously ended with an OOM error."
+550,@soumithchintala,2021-04-07 05:01:37+00:00,https://twitter.com/soumithchintala/status/1379660612993757188,"@gmravi2003 Also, simulating talking with humans, dialog and all that stuff isn't there either. If anything, I think 5 year olds are at an advantage here because of all the human priors sitting in their brains"
+551,@soumithchintala,2021-04-07 05:00:53+00:00,https://twitter.com/soumithchintala/status/1379660427962019841,"@gmravi2003 i dont think there are any good simulation environments that capture critical real-world things. Contact simulation with arbitrary end-effectors + materials, simulating light/sound, whole-env collisions and macro object interactions, etc. just aren't there."
+552,@soumithchintala,2021-04-06 16:29:43+00:00,https://twitter.com/soumithchintala/status/1379471391972544512,"my experience with 5-year olds comes from dealing with my nephews and nieces, so ymmv"
+553,@soumithchintala,2021-04-06 16:28:36+00:00,https://twitter.com/soumithchintala/status/1379471108655751171,I'm also pretty sure I am neither the first or the last person to come up with roughly such a proxy in robotics and aim towards it.
+554,@soumithchintala,2021-04-06 16:28:36+00:00,https://twitter.com/soumithchintala/status/1379471107833626629,"the proxy I've been using for my robotics goals is:
+
+""The equivalent of a 5-year-old child: imperfect communication and language, not-great motor skills, need way more human context than adults.""
+
+It isn't perfect, but so far people haven't cringed -- better than I expected."
+555,@soumithchintala,2021-04-02 18:33:01+00:00,https://twitter.com/soumithchintala/status/1378052869795020800,"@shoddy_robots we are working mostly with physical robots.
+LoCoBot, Franka arms, DJI Robomaster, Hello Robot so far..."
+556,@soumithchintala,2021-04-02 17:04:11+00:00,https://twitter.com/soumithchintala/status/1378030514507026439,@SoseliaDavit software is the primary one to start being useful in basic ways
+557,@soumithchintala,2021-04-02 17:01:40+00:00,https://twitter.com/soumithchintala/status/1378029878625308683,"@amit_js_ definitely, especially if you have been working on robots!"
+558,@soumithchintala,2021-04-02 16:13:25+00:00,https://twitter.com/soumithchintala/status/1378017738061385733,"We have a small and growing team. We are hiring engineers with a passion for robotics, interested?
+Email resumes to stuarta@fb.com
+More info:
+https://t.co/u9JhVouaYn"
+559,@soumithchintala,2021-04-02 16:12:37+00:00,https://twitter.com/soumithchintala/status/1378017535036112906,"You will likely see more robotics content from me going forward :)
+(4/x)
+*thank you for listening*"
+560,@soumithchintala,2021-04-02 16:12:37+00:00,https://twitter.com/soumithchintala/status/1378017534058885125,"One of the first projects I've been working on is droidlet: a framework to interface the robots with dialog, memory, human-in-the-loop and UI: https://t.co/QpQH17iG9r
+(3/x)"
+561,@soumithchintala,2021-04-02 16:12:36+00:00,https://twitter.com/soumithchintala/status/1378017533182275586,"There are so many problems to tackle on the way. Manipulation, perception, end-effector design, HCI are a few.
+I'm really interested in the human-robot interaction right now -- the best way to interact with and teach the robot new things quickly in an online fashion.
+(2/x)"
+562,@soumithchintala,2021-04-02 16:12:36+00:00,https://twitter.com/soumithchintala/status/1378017532376973314,"Over the past year, I've been doing robotics at FAIR. It's been lots of fun.
+My personal research goal is to build home robots: cooking, cleaning, etc.
+(1/x)"
+563,@soumithchintala,2021-01-11 18:32:11+00:00,https://twitter.com/soumithchintala/status/1348699239757586441,https://t.co/fMuEn75uun
+564,@soumithchintala,2021-01-05 21:54:19+00:00,https://twitter.com/soumithchintala/status/1346575781384904706,"Impressive results from @OpenAI on text2image generation.
+The images are diverse and seem to capture semantics like text and shape/texture separation really well.
+Cant wait to play with it!
+https://t.co/pZVdk11JxN https://t.co/Xfj9bJd3dd"

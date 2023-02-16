@@ -1,0 +1,392 @@
+,0,1,2,3
+0,@sirajraval,2023-02-16 01:03:58+00:00,https://twitter.com/sirajraval/status/1626024555075743744,"Let's build a simple version of ChatGPT that runs inside a single Python notebook! We'll use Numpy for generative pre-training, HuggingFace for supervised fine-tuning, and TextRL to control the generative outputs of our language model.
+
+https://t.co/0bgNAZgsV8"
+1,@sirajraval,2023-02-08 15:35:21+00:00,https://twitter.com/sirajraval/status/1623344740828844032,"@moebio It was trained on my data, including apology video, so it should be able to address it. It’s still not perfect, needs more data"
+2,@sirajraval,2023-02-07 19:51:44+00:00,https://twitter.com/sirajraval/status/1623046875069952000,"I Built a ChatGPT clone of myself! I trained it on all of my Youtube videos and tweets so that it embodies my personality. How do you build one of yourself? The results were pretty surprising, find out in this video: 
+
+https://t.co/UfWAZTNBxE https://t.co/vQSLhsBi79"
+3,@sirajraval,2023-02-03 21:25:21+00:00,https://twitter.com/sirajraval/status/1621620882400763904,"ChatGPT is everyone's favorite new AI assistant, but how does it work? Join me live as I build a simple version in Python at @fdotinc using 3 key techniques: Deep Learning, Reinforcement Learning from Human Feedback, and Proximal Policy Optimization.
+
+https://t.co/JGpoFTZIfS"
+4,@sirajraval,2023-02-03 00:19:33+00:00,https://twitter.com/sirajraval/status/1621302335468351491,@vikasofvikas @elonmusk @AOC ChatGPT wins for that too https://t.co/H9XRZqb2Iq
+5,@sirajraval,2023-02-03 00:08:39+00:00,https://twitter.com/sirajraval/status/1621299592460636160,@claud_fuen @elonmusk @AOC I like ChatGPT better for now. It’s much less restrictive with the prompt format and less prone to bugs. I’ve had to restart LaMDA a few times.
+6,@sirajraval,2023-02-02 23:56:54+00:00,https://twitter.com/sirajraval/status/1621296634624897025,"I just got access to Google’s answer to ChatGPT, LaMDA. Apparently LaMDA thinks @elonmusk and @AOC should be at my house party. I’m down! 😂 https://t.co/DsKNLBuccn"
+7,@sirajraval,2023-02-02 23:52:29+00:00,https://twitter.com/sirajraval/status/1621295522509381632,"Great work! Neural interfaces will replace keyboards someday, this demo was tested on my Tesla ⚡️"
+8,@sirajraval,2023-01-28 01:24:59+00:00,https://twitter.com/sirajraval/status/1619144475502329856,@omarwasm @SarvasvKulpati @BerkeleyML Definitely!
+9,@sirajraval,2023-01-28 01:17:24+00:00,https://twitter.com/sirajraval/status/1619142563801485313,"It was a pleasure to speak on @thedockpod ! We talked about the future of AI, getting cancelled, entrepreneurship, content creation, and lots more! Check it out here:
+
+https://t.co/mT5HDx8j8H https://t.co/jciYTH6iPZ"
+10,@sirajraval,2023-01-26 16:57:24+00:00,https://twitter.com/sirajraval/status/1618654350284570624,@mureed512 Thanks doing good
+11,@sirajraval,2023-01-24 22:56:07+00:00,https://twitter.com/sirajraval/status/1618019848440909824,"I built a sports betting bot with ChatGPT &amp; it gave it $2000 to bet on NBA games for 24 hours. It uses Twitter for Sentiment Analysis, PyTorch for Deep Learning, &amp; GPT-3 for text summarization. Did it lose $2K or win up to $9K? Find out in this video!
+
+https://t.co/xHcqH3naW0 https://t.co/pCmJ8WGvs3"
+12,@sirajraval,2023-01-21 20:57:59+00:00,https://twitter.com/sirajraval/status/1616902955055329281,Statistics and Probability are powerful tools we can use in automated sports betting. Can ChatGPT help us use these tools to make money? Find out in my next video. Teaser clip: https://t.co/qsYcyb20Nh
+13,@sirajraval,2023-01-16 17:59:46+00:00,https://twitter.com/sirajraval/status/1615046163773943811,"I built a trading bot with ChatGPT &amp; gave it $2000 to invest in the stock market for 24 hours! It uses Deep Reinforcement Learning to optimize its trading strategy. I'll explain how I built it and my results in this video: 
+
+https://t.co/mB7nMBks4a https://t.co/KXADMNZV0A"
+14,@sirajraval,2023-01-10 21:03:43+00:00,https://twitter.com/sirajraval/status/1612918132057997316,"@hdt94 @DataTalksClub 3 months is the shortest amount of time you can complete this i.e full time learning. If you learn part time, it can take longer."
+15,@sirajraval,2023-01-10 19:50:05+00:00,https://twitter.com/sirajraval/status/1612899599446077441,@EngMuhammadAsad Both this repo: https://t.co/zuG6ZO3J3v and this recent video of mine https://t.co/81Q2EdBcUI will help you better understand full self driving software for the final project
+16,@sirajraval,2023-01-10 16:51:19+00:00,https://twitter.com/sirajraval/status/1612854613551755265,@simonFraaa A beginner in this case is someone who is new to python and machine learning.
+17,@sirajraval,2023-01-10 16:48:23+00:00,https://twitter.com/sirajraval/status/1612853872044945408,@pipfon 3 hours per day minimum
+18,@sirajraval,2023-01-10 00:13:15+00:00,https://twitter.com/sirajraval/status/1612603439468646401,"That's all! Here is the link to the full curriculum: https://t.co/uwtNvu7yBv
+
+If you found this helpful, follow me @sirajraval for more educational AI/ML tweets."
+19,@sirajraval,2023-01-10 00:13:14+00:00,https://twitter.com/sirajraval/status/1612603437623152643,"In the final project, you will:
+• Collect simple image frames 
+• Collect User inputs
+• Train a deep learning model to learn the mapping between image frames &amp; steering directions.
+
+Once fully trained, the car can drive by itself. It'll look really snazzy on in your portfolio. https://t.co/dZBSlTkCGg"
+20,@sirajraval,2023-01-10 00:13:14+00:00,https://twitter.com/sirajraval/status/1612603435312087040,"Week 4: Data Engineering
+
+Resource (ZoomCamp 2): https://t.co/T51eQ8BXAo
+
+You will learn:
+• Airflow and GCP for data ingestion
+• Kafka for streaming
+• Spark for batch processing
+
+The final project is to deploy your own self-driving car simulation web app!"
+21,@sirajraval,2023-01-10 00:13:13+00:00,https://twitter.com/sirajraval/status/1612603433512759299,"Week 3: Production
+
+Resource (ZoomCamp): https://t.co/kolS15vSL2
+
+You will learn:
+• Containerization with Kubernetes
+• Monitoring web services 
+- Prometheus 
+- Evidently AI
+- Grafana Labs
+- MongoDB
+- Terraform
+
+Assignment:
+Deploy a pre-trained model for Traffic Prediction"
+22,@sirajraval,2023-01-10 00:13:13+00:00,https://twitter.com/sirajraval/status/1612603432497709057,"Week 2: Development
+
+Resource (Full Stack DL): https://t.co/939H6w3tSv 
+
+You will learn:
+- Continuous integration principles
+- Scaling tools like PyTorch Lightning, and w&amp;b
+- Deployment tools like Docker AWS, Lambda, Gradio &amp; Streamlit.
+
+Assignment: Deploy a text recognizer https://t.co/XKLK71Jqxi"
+23,@sirajraval,2023-01-10 00:13:13+00:00,https://twitter.com/sirajraval/status/1612603431457542145,"Onto the last Month: Machine Learning Operations!
+
+Resource (made with ML): https://t.co/iJKJ9YtJn8
+
+You will learn:
+- Design
+- Web Frameworks
+- Cloud Computing
+- Project Management
+
+Assignment:
+Build a Medical Imaging classifier for Doctors"
+24,@sirajraval,2023-01-10 00:13:13+00:00,https://twitter.com/sirajraval/status/1612603430400589824,"Week 4: Deep Reinforcement Learning
+
+Resource (Thomas Simonini Course): https://t.co/1ttjU2lsYj
+
+You will learn:
+• RL baselines
+• Unity 
+• Techniques like Q learning and 
+• Proximal Policy Optimization
+
+Assignment:
+Train a humanoid robot to walk in simulation for 10 secs https://t.co/zxyzxJT5xq"
+25,@sirajraval,2023-01-10 00:13:12+00:00,https://twitter.com/sirajraval/status/1612603428794163200,"Week 3: Diffusers
+
+Resource (FastAI course): https://t.co/waEjwZvjS2
+
+You will learn:
+- Generative Modeling
+- Interpretability
+- Multimodal Data
+
+Assignment:
+Build a design generator for Architects using HuggingFace"
+26,@sirajraval,2023-01-10 00:13:12+00:00,https://twitter.com/sirajraval/status/1612603427649118209,"Week 2: Transformers
+
+Resource (HuggingFace): https://t.co/1D8muQnj2q
+
+You will learn: 
+- Transformers
+- Attention
+- Transfer Learning
+
+Assignment:
+Build a conversational transformer for Mental Health Therapy https://t.co/qaWMh5vw0p"
+27,@sirajraval,2023-01-10 00:13:12+00:00,https://twitter.com/sirajraval/status/1612603426411773952,"Ok moving along, onto Month 2: Deep Learning!
+
+Resource (Dive into DL book): https://t.co/silTNjor5T 
+
+You will learn: 
+- Neural Networks
+- Optimization
+- Hardware
+
+Assignment: Build a simple feedforward neural network for Retail stores to predict customer churn. https://t.co/UnB6TEk5Z9"
+28,@sirajraval,2023-01-10 00:13:11+00:00,https://twitter.com/sirajraval/status/1612603425220628481,"Week 4: Machine Learning Techniques
+
+Resource (iPython Cookbook): https://t.co/vmETPpgU1v
+
+You will learn:
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement learning
+
+Assignment: Build a Random Forest Regression model for Real Estate. https://t.co/k3TjhZ6i7t"
+29,@sirajraval,2023-01-10 00:13:11+00:00,https://twitter.com/sirajraval/status/1612603424226562049,"Week 3: Data Analysis
+
+Resource (Kaggle): https://t.co/9lNahNq8GW 
+
+You will learn:
+• Data computation with NumPy 
+• Data manipulation with Pandas.
+• Data visualization with Seaborn
+• Big data tools like SQL and Big Query
+
+Assignment: Build a visual notebook for Farmers https://t.co/rgWy2na5Lp"
+30,@sirajraval,2023-01-10 00:13:11+00:00,https://twitter.com/sirajraval/status/1612603423249301505,"Week 2: Mathematics of Machine Learning
+
+Resource (Xaktly): https://t.co/STkWJcHWk5
+
+You will learn:
+• Linear Algebra
+• Calculus 
+• Statistics 
+• Probability Theory
+
+Assignment: Solve one of the Bayesian probability problems for Supply Chain using pencil &amp; paper."
+31,@sirajraval,2023-01-10 00:13:11+00:00,https://twitter.com/sirajraval/status/1612603421831606272,"So let's start with Week 1: Python Fundamentals.
+
+Resource (Intro to Python): https://t.co/VDWf87FynC
+
+You will learn:
+- Basic Python Syntax
+- Essential Frameworks &amp; Libraries
+- Data Structures &amp; Algorithms
+
+Assignment: Build a simple search function. https://t.co/IkIOvgWxFp"
+32,@sirajraval,2023-01-10 00:13:10+00:00,https://twitter.com/sirajraval/status/1612603420392976385,"This is how it's organized -  
+
+Month 1: Machine Learning
+
+Month 2: Deep Learning
+
+Month 3: Machine Learning Operations
+
+And for the final project, you'll build a self-driving car, which will integrate everything you've learned into one data pipeline.
+
+It looks like this: https://t.co/3EVA4jL29o"
+33,@sirajraval,2023-01-10 00:13:10+00:00,https://twitter.com/sirajraval/status/1612603419411509248,"Want to Learn Machine Learning in 3 months in 2023?
+
+I've compiled 10 of the best FREE resources available into a detailed study guide for beginners ✨
+
+A Thread 👇🧵"
+34,@sirajraval,2023-01-09 05:24:13+00:00,https://twitter.com/sirajraval/status/1612319311292690433,"Introducing Animusica, AI that generates Anime Videos! It uses
+
+1. React for web dev
+2. Firebase for user auth
+3. Vercel &amp; HF for hosting
+4. PyTorch for Deep Learning
+5. Stripe + EthersJS for payments
+
+I'll explain the code, demo, &amp; results in this video: 
+https://t.co/GAriOaL9W4 https://t.co/CAw00oZCCe"
+35,@sirajraval,2023-01-06 01:37:51+00:00,https://twitter.com/sirajraval/status/1611175180763598848,@OfficialLoganK @jashshapiro @OpenAI I would love to help
+36,@sirajraval,2023-01-02 02:46:47+00:00,https://twitter.com/sirajraval/status/1609742973750607872,"I built an AI Accountant with ChatGPT by integrating 3 tools!
+
+1.  Flutter for iOS/Android Deployment
+2. Plaid for Bank Transactions
+3. Firebase for User Authentication.
+
+I’ll explain the code &amp; results in this video so you can build it yourself:  
+https://t.co/dD4Ew8WKUF https://t.co/qP6jwT6Xmo"
+37,@sirajraval,2022-12-26 21:50:28+00:00,https://twitter.com/sirajraval/status/1607494077758722049,Is #AI the “Universal Constructor”? https://t.co/PinCxLoeev
+38,@sirajraval,2022-12-25 03:05:21+00:00,https://twitter.com/sirajraval/status/1606848542710325248,"I built an AI dating coach with ChatGPT by wiring together a few simple components like Twilio for SMS, Stripe for payments, and React for a web interface. I'll explain the code &amp; results in this video so you can build it yourself: https://t.co/uh8UpYdTwD https://t.co/PNYoDjRQWl"
+39,@sirajraval,2022-12-21 01:13:13+00:00,https://twitter.com/sirajraval/status/1605370774948220928,"@RobertEder sounds like a job for transfer learning with huggingface! Create a dataset of those poses, then train a classifier on them."
+40,@sirajraval,2022-12-19 18:58:49+00:00,https://twitter.com/sirajraval/status/1604914165423800320,I'm doing weekly coding challenges again! Current challenge? Modify this neural net &amp; have the cars still drive with no collisions autonomously: https://t.co/xdxfhd5M8O Due Date is Dec 24 at 12 PM PST. Winner gets a shoutout the next day in my video!
+41,@sirajraval,2022-12-18 01:34:25+00:00,https://twitter.com/sirajraval/status/1604288947323998208,Let's build a simple version of Tesla's Full Self Driving software in a simulation to understand how it works: https://t.co/9cotGD76wr
+42,@sirajraval,2022-12-11 16:38:40+00:00,https://twitter.com/sirajraval/status/1601979793729155072,@joricz_mx I did! In the video.
+43,@sirajraval,2022-12-10 20:28:24+00:00,https://twitter.com/sirajraval/status/1601675218057318400,"@Huffaburger yes!  I love my now 80 average sleep score every night, thanks @ouraring for helping me get really healthy"
+44,@sirajraval,2022-12-10 17:21:52+00:00,https://twitter.com/sirajraval/status/1601628277390864385,"If you want to learn Machine Learning in 2023, there's a dizzying amount of new tools &amp; concepts to learn. I designed this free 3 month study guide to cover everything you need in 8 minutes:   https://t.co/JRwxgRVne6"
+45,@sirajraval,2022-12-08 18:23:14+00:00,https://twitter.com/sirajraval/status/1600918945359220736,"@realGeorgeHotz @0x_emperor @rivatez @titsconference @NeurIPSConf @elonmusk It was lit AF, I got to interview George! https://t.co/3WWaQsvbnH"
+46,@sirajraval,2022-11-27 17:25:13+00:00,https://twitter.com/sirajraval/status/1596918076519243776,"1. Humans solve AI (Scaled next word predictor aka Transformer trained on internet text)
+2. AI solves AI (Predictor prompted to self-improve Scientific ability 1000x w/ multimodal data)
+3. AI solves human (Biotech ends suffering) 
+4. Human 2.0 begins (Humans Merge Consciousness)"
+47,@sirajraval,2022-11-22 15:34:53+00:00,https://twitter.com/sirajraval/status/1595078371213729792,"Studying Machine Learning has become a lot easier these 4 new AI tools:
+
+1. Elicit to find research (https://t.co/zJMTz0XUSz) 
+2. ExplainPaper to understand (https://t.co/yHePclmY3e)
+3. Summari for articles (https://t.co/CIPYRurC7b)
+4. Spaces for demos (https://t.co/iZJFnC5l1J)"
+48,@sirajraval,2022-11-14 16:36:30+00:00,https://twitter.com/sirajraval/status/1592194776254017536,"Transformers are neural networks that transform data into predictions. Unlike recurrent nets, the learned state doesn't recur. Unlike convolutional nets, they don't use kernels, padding, or strides. Transformers proved one thing: that attention is all you need."
+49,@sirajraval,2022-11-11 03:40:03+00:00,https://twitter.com/sirajraval/status/1590912210960023553,@bryan_johnson I’d be thrilled to attend
+50,@sirajraval,2022-11-10 17:35:10+00:00,https://twitter.com/sirajraval/status/1590759986787127297,"@Yofinks I agree, but i'm very convinced by progress at @OpenAI that we'll have a chatbot that deserves all the hype next year."
+51,@sirajraval,2022-11-10 03:02:13+00:00,https://twitter.com/sirajraval/status/1590540300388560896,"Can a machine make you feel loved? Yes (https://t.co/X63Bi8gOUe)
+Can a human love a machine? Yes, because humans are themselves machines.
+Can a machine love a human? Yes, because love is an emergent process of a sufficiently complex neural network.
+Why does it emerge? 
+Survival."
+52,@sirajraval,2022-10-27 22:29:31+00:00,https://twitter.com/sirajraval/status/1585760633618067456,@Randhee75977344 @bryan_johnson Hmm. Get a local blood test then upload to https://t.co/hBAaqxWvdt or wait for this saliva test for a more affordable option : https://t.co/rrdEaZT8gW
+53,@sirajraval,2022-10-27 22:27:07+00:00,https://twitter.com/sirajraval/status/1585760029747318784,@zzwitz @bryan_johnson https://t.co/r3LAgYLkeB
+54,@sirajraval,2022-10-27 17:35:23+00:00,https://twitter.com/sirajraval/status/1585686611467304960,"I’ve reversed my epigenetic age by 7.6 years in 11 months. That’s .69 years/month! @bryan_johnson still holds the world record in age reversal (.65 years/mo). I vow to achieve my optimal epi-age (18) by Jan 1 2023 (currently it's 23.7). The Rejuvenation Olympics is on, join us! https://t.co/vL2NMMHEY0"
+55,@sirajraval,2022-10-25 16:25:46+00:00,https://twitter.com/sirajraval/status/1584944317621481473,"@soaiworld @xamat Lex deleted the interview he did of me &amp; blocked me. What hurt most was that he said he wanted to reconcile, but never did. That being said, i still love his podcast and listen to it daily! Life is absurd."
+56,@sirajraval,2022-10-20 20:40:05+00:00,https://twitter.com/sirajraval/status/1583196376074440704,@balajis best diwali gift ever
+57,@sirajraval,2022-10-17 02:33:16+00:00,https://twitter.com/sirajraval/status/1581835705877004288,@aqeel_aliani A video is a series of image frames. Meta Make a Video is more impressive than all of those single image output models you mentioned
+58,@sirajraval,2022-10-16 17:51:21+00:00,https://twitter.com/sirajraval/status/1581704363575169024,"The 8 Most Impressive AIs of 2022 Ranked:
+
+1. Tesla FSD Beta (Real-World Driving) 
+2. Google Search (Knowledge Synthesis)
+3. OpenAI GPT3 (Avatar Creation) 
+4. Meta Make-a-Video (Content)
+5. Microsoft CoPilot (Code) 
+6. TikTok (Addiction)
+7. Amazon (Logistics)
+8. Airbnb (Housing)"
+59,@sirajraval,2022-10-07 16:24:21+00:00,https://twitter.com/sirajraval/status/1578420977893273600,"Neural Interfaces will enable developers to access the human brain API, w/ primitives &amp; functions for movement, vision, speech, mood, hunger, memory, &amp; focus. Productivity apps for the brain will include on-demand sleep, nirvana, drugs, motivation, &amp; skill acquisition."
+60,@sirajraval,2022-09-16 17:14:21+00:00,https://twitter.com/sirajraval/status/1570823415019479041,"@OccupyingM Absolutely. the paper i shared demonstrated that superposition of n features in neural networks on classical computers is a real, observed phenomenon. Imagine if we ran it on a QPU w/ a sufficient number of qubits to more accurately simulate that preexisting superposition?"
+61,@sirajraval,2022-09-16 17:06:59+00:00,https://twitter.com/sirajraval/status/1570821560264695809,We are beginning to understand the geometry of how neural networks store information across space and time. This is going to lead to more explainable predictions and and more robust security against adversarial training data. Epic! https://t.co/T31G0HgaPG
+62,@sirajraval,2022-08-30 02:58:47+00:00,https://twitter.com/sirajraval/status/1564447512228163584,"We are going to see many new AI educators, neural nets that use attention, memory, &amp; storage to create photorealistic animatronic personalities on every social platform, outputting everything from short form video to tweet storms, for every topic https://t.co/uLhWTe8K6C"
+63,@sirajraval,2022-08-19 16:18:31+00:00,https://twitter.com/sirajraval/status/1560662506133082112,"I was just diagnosed with Type 2 Bipolar Disorder for the first time. At 31 years old, i'm finally regularly taking a mood stabilizer (valproic acid) to be stable! I want to avoid my periodic manic states where i'm irrational, risky, high energy, &amp; make self-destructive decisions"
+64,@sirajraval,2022-08-14 17:24:06+00:00,https://twitter.com/sirajraval/status/1558867068149108736,@chamath Andrej would be an amazing guest
+65,@sirajraval,2022-07-29 16:12:58+00:00,https://twitter.com/sirajraval/status/1553050961026891777,"This is pretty awesome. @RedemptionDAO is crowdfunding a land preservation movement internationally, instantly, and with full transparency of every single transaction by using a blockchain."
+66,@sirajraval,2022-07-23 18:14:09+00:00,https://twitter.com/sirajraval/status/1550907132115050497,I’ve open-sourced a $10 running shoe that uses the energy generated by my footsteps to mine bitcoin. Let me show you how you can build your own bitcoin miner using renewable energy at home: https://t.co/gca47jSV1I
+67,@sirajraval,2022-07-18 17:29:24+00:00,https://twitter.com/sirajraval/status/1549083931328139265,"As an Ethereum token looking to scale universal basic income to 8 billion people, you should be using @0xPolygon . Please let us know how we can help!"
+68,@sirajraval,2022-07-11 23:33:42+00:00,https://twitter.com/sirajraval/status/1546638897052008453,@phan2187 They had r2 say mold at they end!!  Lmao
+69,@sirajraval,2022-07-10 16:31:56+00:00,https://twitter.com/sirajraval/status/1546170365717643266,@ricburton Yessssss 🙌🏽
+70,@sirajraval,2022-07-10 16:30:48+00:00,https://twitter.com/sirajraval/status/1546170079557058561,"This book helped me build a better mental model of how civilization will progress the next decade. @balajis masterfully ties together so many technological, geopolitical, socioeconomic, and cultural trends. Long live the Network!"
+71,@sirajraval,2022-06-28 19:48:53+00:00,https://twitter.com/sirajraval/status/1541871275622154240,"We need global basic income to help end wage slavery for all humans, a crucial technology that will move us closer to achieving Type 1 civilization status on the Kardashev scale. Built on Polygon."
+72,@sirajraval,2022-06-23 16:14:03+00:00,https://twitter.com/sirajraval/status/1540005271279472641,I've built a running shoe that mines bitcoin using a $5 computer powered by my footsteps. I'll open source it next week
+73,@sirajraval,2022-06-22 21:11:22+00:00,https://twitter.com/sirajraval/status/1539717706462666757,"@EdoardoPona I will be a game between deep learning models trying to anonymize vs de-anonymize data. Once they sell ownership, they can no longer take the data down. NFTs give users a unique way of earning royalties upon every re-sell."
+74,@sirajraval,2022-06-22 20:39:25+00:00,https://twitter.com/sirajraval/status/1539709664572702721,"Idea - An NFT marketplace for health data. All users are anonymous, own their anonymized health data NFTs &amp; make a monthly passive income from it in their currency of choice. Data Science teams can then buy this health data directly for research and enterprise applications."
+75,@sirajraval,2022-05-24 18:22:30+00:00,https://twitter.com/sirajraval/status/1529165963366522880,"Crypto has been a decade long attempt to answer the question “what happens when you give a sovereign AI the ability the own, spend, and earn its own money?” Smarter AI will mean smarter spending towards its objective. Think self driving cars that pay for their own maintenance"
+76,@sirajraval,2022-05-21 02:41:37+00:00,https://twitter.com/sirajraval/status/1527842015890767872,"I got cancelled before all of you. Eventually, everyone will get cancelled. It will pass, but it’s up to you to learn and grow from it."
+77,@sirajraval,2022-05-09 13:26:06+00:00,https://twitter.com/sirajraval/status/1523655551543963649,"@singhk_uttam @0xPolygon @muskan_kalra24 @dtyagi @ChainCrusader @0xSushiKev @0xAkashShukla @Rahatcodes @SandipanKundu42 @developerayo @adidshaft Thank you for everything, you are always reliable and intelligent, best of luck"
+78,@sirajraval,2022-04-30 21:48:17+00:00,https://twitter.com/sirajraval/status/1520520441814822914,"Since I first learned of Bitcoin, I’ve been dreaming of a working implementation of a crypto universal basic income for all humans so that no one is forced to work a job they hate to survive. Staking, mining, and play to earn games are one step in this direction. More to come!"
+79,@sirajraval,2022-04-30 21:38:09+00:00,https://twitter.com/sirajraval/status/1520517891170443264,Make Money Irrelevant
+80,@sirajraval,2022-04-24 23:14:04+00:00,https://twitter.com/sirajraval/status/1518367701068140544,"@pmddomingos No - spacetime is the software, consciousness is the hardware"
+81,@sirajraval,2022-04-18 17:26:08+00:00,https://twitter.com/sirajraval/status/1516105814464999427,"Freedom of speech was designed for humans, not machines. A troll farm can spin up a million fake Twitter accounts and use AI to spread any ideology very convincingly at scale. Generative personalities &amp; fake detection will improve simultaneously."
+82,@sirajraval,2022-04-18 16:52:29+00:00,https://twitter.com/sirajraval/status/1516097346043527171,"Space-time is a projection of consciousness. Neurons only exist when observed. The amplituhedron and cosmological polytope are two primitive examples of this paradigm shift in Physics. Ultimately, it will also have major implications for the substrate used for AI computations."
+83,@sirajraval,2022-03-23 16:56:30+00:00,https://twitter.com/sirajraval/status/1506676271585140739,Join the Polygon community! Lots of interesting topics to learn about in ZK rollups and Solidity
+84,@sirajraval,2022-03-09 06:08:49+00:00,https://twitter.com/sirajraval/status/1501439845087985668,Bitcoin will one day become the World’s reserve currency. It will become the most valuable asset of all time.
+85,@sirajraval,2022-03-08 14:51:27+00:00,https://twitter.com/sirajraval/status/1501208984413425671,There are thousands of people earning a full-time income by playing online games. Join me for my workshop at South by Southwest on March 15 to learn about the different ways of structuring incentives in a modern play to earn game:  https://t.co/yoXsLoKIhY
+86,@sirajraval,2022-02-12 18:26:48+00:00,https://twitter.com/sirajraval/status/1492565867921436675,"@davecraige Thank you! Not sure, at least a few days"
+87,@sirajraval,2022-02-09 21:32:14+00:00,https://twitter.com/sirajraval/status/1491525371916808195,"Cryptocurrencies will help us build a world in which money becomes irrelevant. Money is just a technology we invented to transfer value. If we automate enough, we’ll have an abundance of goods and services at zero cost for everyone."
+88,@sirajraval,2022-02-08 03:53:36+00:00,https://twitter.com/sirajraval/status/1490896568400367619,@joerogan use @OxPolygonHQ to build your own decentralized podcast app. Let me know if you would like my help
+89,@sirajraval,2022-01-21 18:48:36+00:00,https://twitter.com/sirajraval/status/1484598823234293760,@hosseeb @naval @sgoldfed @gluk64 @EliBenSasson @karl_dot_tech Add polygon to that list! Please let me know and we’ll make it happen
+90,@sirajraval,2022-01-16 22:01:48+00:00,https://twitter.com/sirajraval/status/1482835504139849732,@elonmusk hire me to work on crypto @ Tesla? https://t.co/fzkNSmKqhe
+91,@sirajraval,2022-01-04 14:45:33+00:00,https://twitter.com/sirajraval/status/1478377063648276491,If you are interested in web3 and want to build a community around it - DM Muskan! Polygon will support you anywhere in the world.
+92,@sirajraval,2021-12-21 20:46:34+00:00,https://twitter.com/sirajraval/status/1473394487581986827,"@naval Beginning of Infinity is the most joy I’ve had reading a book in years, thank you for the recommendation! I now understand why that book means so much to you. It deserves slow reading and several re-reads, so many important ideas"
+93,@sirajraval,2021-12-20 18:07:50+00:00,https://twitter.com/sirajraval/status/1472992152003043329,"And that’s it! If you’re interested in contributing to the Polygon Ecosystem and learning more, sign up to become an official Polygon Advocate here: https://t.co/VhzDCmOU8D"
+94,@sirajraval,2021-12-20 18:07:36+00:00,https://twitter.com/sirajraval/status/1472992094427906050,"Polymarket is a decentralized information market, harnessing the power of free markets to demystify the real-world events that matter most. You can create a full-stack dApp where events/markets are created, and a UI where users can predict outcomes. https://t.co/B9v8xUBy3g"
+95,@sirajraval,2021-12-20 18:06:58+00:00,https://twitter.com/sirajraval/status/1472991932309643265,"There are also other types of marketplaces you can build. This example creates a decentralized lending exchange, including the requisite lending assets, repayments, and collateral infrastructure, enabling third parties to build applications for lending. https://t.co/akJCPXvoAk"
+96,@sirajraval,2021-12-20 18:06:27+00:00,https://twitter.com/sirajraval/status/1472991804018495488,"You’ll probably want to start building some actual dapps now. Let’s start with a full stack NFT marketplace. Nader Dabit has a great tutorial on how to build this using Polygon, Next.js, Tailwind, Solidity, Hardhat, Ethers.js, and IPFS. Find it here: https://t.co/kuGHgJSJAr"
+97,@sirajraval,2021-12-20 18:06:04+00:00,https://twitter.com/sirajraval/status/1472991706928742400,Then you’ll want a basic web dapp to build off of. This starter kit is a boilerplate with all necessary dependencies that let's you worry less about installation and more on building Polygon dapps: https://t.co/QDMDQqWT0V
+98,@sirajraval,2021-12-20 18:05:39+00:00,https://twitter.com/sirajraval/status/1472991603635589123,"With an idea of what to build in mind, you’ll want to setup your developer environment and install all the necessary dependencies. This Figment web app can be run in the browser using gitpods, it will lead you through the entire process easily: https://t.co/dd7FX688Rz"
+99,@sirajraval,2021-12-20 18:04:34+00:00,https://twitter.com/sirajraval/status/1472991329919459332,"With an idea of what to build in mind, you’ll want to setup your developer environment and install all the necessary dependencies. This Figment app can be run in the browser using gitpods, it will lead you through the entire process easily: https://t.co/dd7FX688Rz"
+100,@sirajraval,2021-12-20 18:04:09+00:00,https://twitter.com/sirajraval/status/1472991223535128577,"Now, let’s take your understanding of Polygon to the next level, shall we? Check out the official Polygon documentation to learn intricate details of the network, architecture, and the Ethereum bridge: https://t.co/59q8cfTpew"
+101,@sirajraval,2021-12-20 18:03:59+00:00,https://twitter.com/sirajraval/status/1472991183416619008,"But there’s more! Eat The Blocks offer a suite of courses on both Ethereum and Polygon development, they’re a highly rated educational resource with live coding examples: https://t.co/tra2kDoEUw"
+102,@sirajraval,2021-12-20 18:03:35+00:00,https://twitter.com/sirajraval/status/1472991081692217346,"Once you’ve got a basic understanding of Ethereum, you’ll want to learn the basics of Polygon. Blockchain school is currently offering a free course for beginners and enrollment is now open: https://t.co/NS0SsYKQa8"
+103,@sirajraval,2021-12-20 18:03:17+00:00,https://twitter.com/sirajraval/status/1472991008178663433,"Polygon is Ethereum's Internet of Blockchains, so it's important to start learning Ethereum first. Questbook is a Decentralized University where learning is always free. if you want to learn the basics of Ethereum, Questbook is a great place to start: https://t.co/8gFSzDkbwk"
+104,@sirajraval,2021-12-20 18:02:15+00:00,https://twitter.com/sirajraval/status/1472990746252754946,"If you're a beginner to the space and looking to get started in Web3, this 🧵will show you step by step the most important learning resources on building scalable Decentralized Applications with Polygon:"
+105,@sirajraval,2021-12-17 18:15:50+00:00,https://twitter.com/sirajraval/status/1471907000913068039,@Therealbjergsen Our species and its ability to accumulate knowledge in order to build ever better tools is part of the natural order. The ultimate purpose of technology is to eliminate mortality. @balajis explains this better than I. https://t.co/Tri72uVKmn
+106,@sirajraval,2021-12-16 17:54:54+00:00,https://twitter.com/sirajraval/status/1471539344653619201,@FarzaTV Polygon!
+107,@sirajraval,2021-12-16 16:12:29+00:00,https://twitter.com/sirajraval/status/1471513572786200579,"@PeterDiamandis “I believe, if you zoom out into the future, and you look back, and you ask the question, 'What was Apple's greatest contribution to mankind?' it will be about health” - Tim Cook"
+108,@sirajraval,2021-12-10 04:27:34+00:00,https://twitter.com/sirajraval/status/1469161846343180288,@elonmusk Don’t do it you’ll get cancelled and burnt out so fast
+109,@sirajraval,2021-12-09 20:21:51+00:00,https://twitter.com/sirajraval/status/1469039610319851524,"The metaverse is not a place, it’s a time. When our digital life matters more than our physical life, we’ve entered into it. (Work, relationships, entertainment, hobbies, experiences). Technologies that are accelerating this transition include Web3, AR, and VR."
+110,@sirajraval,2021-12-09 18:11:18+00:00,https://twitter.com/sirajraval/status/1469006758794383361,WAGMI #polygonzkday https://t.co/90l1uirpU5
+111,@sirajraval,2021-12-09 00:22:30+00:00,https://twitter.com/sirajraval/status/1468737785813155852,@Not_Elm0 7 AM PST
+112,@sirajraval,2021-12-09 00:19:59+00:00,https://twitter.com/sirajraval/status/1468737151668002817,"I’m hosting my first Twitter space this December 10th, come join! https://t.co/TFQp1oVXcS"
+113,@sirajraval,2021-12-07 15:58:26+00:00,https://twitter.com/sirajraval/status/1468248543647391747,"A simple lending dapp lets users deposit Ether as collateral and get a stablecoin loan. Polygon let's anyone build this with very low transaction fees, in this tutorial i'll show you how: https://t.co/JSwnfHl9E7"
+114,@sirajraval,2021-11-29 13:58:27+00:00,https://twitter.com/sirajraval/status/1465319249010827266,"@hopbpatrick Arbitrary decision - ""withdrawals need to be delayed to give time for someone to publish a fraud proof and cancel the withdrawal if it is fraudulent"" - Vitalik https://t.co/p0j7jfpWYu"
+115,@sirajraval,2021-11-29 04:37:16+00:00,https://twitter.com/sirajraval/status/1465178021564850177,"2 types of rollups; Optimistic &amp; Zero Knowledge. Optimistic rolls up many tx into one hash &amp; submits to L1. It’s correct unless a user submits a fraud proof. This takes 1 week to confirm. ZK rollups submit a validity proof within the rolled up tx, so instant confirmation time."
+116,@sirajraval,2021-11-29 04:31:14+00:00,https://twitter.com/sirajraval/status/1465176502207606786,"A blockchain can only pick 2 of 3 features; decentralized, secure, or scalable. Ethereum is decentralized &amp; secure, but not scalable. 3 solutions to this are state channels, plasma chains, and Zero Knowledge rollups. ZK rollups are the best. Polygon is the #1 ZK Rollup solution. https://t.co/gaQdIflxSr"
+117,@sirajraval,2021-11-27 04:27:41+00:00,https://twitter.com/sirajraval/status/1464450833316151297,Food is weaponized to addict you. Porn is weaponized to addict you. Social media is weaponized to addict you. Games are weaponized to addict you. Pharmaceutical drugs are weaponized to addict you. Resist!
+118,@sirajraval,2021-11-25 03:18:30+00:00,https://twitter.com/sirajraval/status/1463708645577793541,Sign up for the Polygon Hackathon at: https://t.co/h0B1qbv9O4 today! https://t.co/051CUzqvAG
+119,@sirajraval,2021-11-23 23:48:50+00:00,https://twitter.com/sirajraval/status/1463293493284012034,"Web4 will involve a set of security, storage, and data communication protocols for connecting human brains via neural interfaces. It’ll be a neural Internet and we’ll need a whole new software stack for it."
+120,@sirajraval,2021-11-19 10:18:57+00:00,https://twitter.com/sirajraval/status/1461640128326246413,"I just released my limited time NFT collection, available for 3 days https://t.co/HGWByu7Fml"
+121,@sirajraval,2021-11-15 14:50:58+00:00,https://twitter.com/sirajraval/status/1460259031637843971,Lex Fridman Interviews Siraj Raval: https://t.co/CpP5Kgm5Pq
+122,@sirajraval,2021-11-10 15:15:14+00:00,https://twitter.com/sirajraval/status/1458453200416088073,"If this tweet gets 50 RTs, I’ll upload my deleted Lex Fridman Interview"
+123,@sirajraval,2021-11-08 21:45:08+00:00,https://twitter.com/sirajraval/status/1457826548438867969,"A decentralized marketplace for health data could let users earn a passive income by selling their anonymized biomarkers to research orgs. We'll build a demo of this idea in this episode using Solidity, Javascript, &amp; GitHub's CoPilot Beta. https://t.co/I7i8LFG7gf"
+124,@sirajraval,2021-10-31 17:31:22+00:00,https://twitter.com/sirajraval/status/1454863582949113858,"Happy Birthday Bitcoin! On this day 13 years ago, an anonymous contributor released a paper &amp; code detailing a system titled Bitcoin. Embedded in the genesis block was a message ""The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"".  WAGMI"
+125,@sirajraval,2021-10-31 17:28:36+00:00,https://twitter.com/sirajraval/status/1454862884433850368,@jadeusreign gm
+126,@sirajraval,2021-10-30 20:11:13+00:00,https://twitter.com/sirajraval/status/1454541420237234176,@hubermanlab @davidasinclair I just minted my genome as an NFT and someone bought it within 30 minutes of listing: https://t.co/WYloWsrxiF
+127,@sirajraval,2021-10-25 19:53:38+00:00,https://twitter.com/sirajraval/status/1452725056308604931,I just minted my genome as an NFT using Ethereum and Polygon. NFTs will enable patients to earn money and retain ownership of their health data across organizations. https://t.co/WYloWsrxiF
+128,@sirajraval,2021-10-20 17:35:27+00:00,https://twitter.com/sirajraval/status/1450878342672969731,@SupaFoundation Polygon for sure
+129,@sirajraval,2021-10-15 21:46:47+00:00,https://twitter.com/sirajraval/status/1449129651209650179,"Multiomics Data Science will unlock the secrets to human longevity. In this episode of the AlphaCare series, we'll look at 4 different open source examples of how combining different molecular bio datasets can assist with cancer prevention https://t.co/lzg0lWA2wu"
+130,@sirajraval,2021-10-08 20:32:17+00:00,https://twitter.com/sirajraval/status/1446574189805142021,"1. Genomics - study of entire genome (DNA data)
+2. Epigenomics - study of how &amp; why DNA data changes. 
+3. Transcriptomics - study of DNA data extraction (RNA)
+4. Proteomics - study of  proteins/applications
+5. Metabolomics - Finally, proteins degrade &gt; metabolites (system state)"
+131,@sirajraval,2021-10-01 20:28:22+00:00,https://twitter.com/sirajraval/status/1444036487868260354,"DeepMind's new Perceiver IO neural network was able to achieve state of the art accuracy across multiple data types (text, images, &amp; more). Let's learn how it works and apply it to cardiac video data to predict heart disease! https://t.co/RJHVRzJQ1t"
+132,@sirajraval,2021-09-30 21:49:46+00:00,https://twitter.com/sirajraval/status/1443694584232546304,"@babeoleary @ricburton Solana is ~100 bros in a telegram group with big computers validating transactions. It’s not decentralized, high TPS doesn’t equate to security either."
+133,@sirajraval,2021-09-24 18:42:42+00:00,https://twitter.com/sirajraval/status/1441473181739483136,"@ipvkyte BitTorrent was decentralized, but not profitable. BTC enabled the community to share equity &amp; governance through its token. HashCash was not scalable enough to be truly global, BTC requires more computing power than 500 fastest supercomputers combined to double spend."
+134,@sirajraval,2021-09-24 17:57:38+00:00,https://twitter.com/sirajraval/status/1441461840685502477,"10) So let’s get to building! Learn Solidity to build Dapps on Ethereum, Go to understand the fundamentals of the Interplanetary File System, and about all the ways we can improve scalability of these systems (ZK-rollups, sharding, and various layer 2 solutions. /end"
+135,@sirajraval,2021-09-24 17:54:21+00:00,https://twitter.com/sirajraval/status/1441461015502331905,"9) Ultimately, brain interfaces will enable us to merge ourselves with the Internet; an independent, sentient, autonomous digital organism far more intelligent than all of us combined. This will be the next stage of human evolution."
+136,@sirajraval,2021-09-24 17:52:22+00:00,https://twitter.com/sirajraval/status/1441460513657872384,"8) The Internet itself will start to behave like one intelligent digital organism. We won’t use individual services like Uber to book rides, or AWS to store files, we’ll just use “the Internet”. Our requests will intelligently be routed by this decentralized nervous system."
+137,@sirajraval,2021-09-24 17:51:08+00:00,https://twitter.com/sirajraval/status/1441460202880995344,"7) Giant Language Models like GPT-3 are digital brains without limbs or organs, but when combined with decentralized tech stacks, they will become fully autonomous entities in the meta-verse, learning, making decisions, acting on them, and maintaining themselves without humans"
+138,@sirajraval,2021-09-24 17:50:13+00:00,https://twitter.com/sirajraval/status/1441459975042252802,"6) NFTs aka Non fungible Tokens are a peer to peer way of assigning ownership to data, be it an image, book, or video. As the Web matures into a meta-verse, digital scarcity &amp; digital property rights will only become more relevant to all humans, and so will NFTs."
+139,@sirajraval,2021-09-24 17:48:29+00:00,https://twitter.com/sirajraval/status/1441459537005907969,"5) We’ve seen many successful Dapps in the Finance industry thus far (DeFi). Compound, Aave, and UniSwap are examples of community owned financial platforms that allow users to perform actions peer to peer for the first time, including staking, lending, borrowing, and farming."
+140,@sirajraval,2021-09-24 17:47:58+00:00,https://twitter.com/sirajraval/status/1441459407506792450,"4) Each decentralized application allows any user to be a shareholder, to own equity in the network. The value of this equity depends on the success of the community. Competitors can fork a dapps source code, but they can’t fork a community’s loyalty."
+141,@sirajraval,2021-09-24 17:46:16+00:00,https://twitter.com/sirajraval/status/1441458979150852102,"2) BTC 1st demoed p2p online money transfer. We can also use its tech to create online p2p computing, domain name registrars, file storage services, energy nets, social networks, etc. We can re-design every app to be uncensorable, open-source, owned by users, &amp; still profitable"
+142,@sirajraval,2021-09-24 17:43:57+00:00,https://twitter.com/sirajraval/status/1441458398948732929,"1) Bitcoin is the world’s first Decentralized Application. It’s an uncensorable Internet co-operative governed &amp; owned by its users, with no central point of failure. It enables 2 computers to transmit value to each other, w/o a clearing house. What else can we do with this tech?"
+143,@sirajraval,2021-09-24 17:42:36+00:00,https://twitter.com/sirajraval/status/1441458058580791313,"8 years ago, I wrote a book titled Decentralized Applications for O’Reilly. The DeFi revolution is still just the beginning, a first of many culminations. This tweet-storm summarizes the 10 main ideas from the book to describe the past, present, and future of the World Wide Web."
+144,@sirajraval,2021-09-17 17:20:37+00:00,https://twitter.com/sirajraval/status/1438915811801018370,"@sandeepsign Because Bitcoin helps people of every country, not just one, escape Monetary slavery. Its the blueprint for a global revolution  for human liberty"
+145,@sirajraval,2021-09-17 17:18:29+00:00,https://twitter.com/sirajraval/status/1438915273180975111,@Dr_ZENKY I didn’t forget to credit your mom though lmao
+146,@sirajraval,2021-09-17 15:24:47+00:00,https://twitter.com/sirajraval/status/1438886660784148487,@Dr___Nefario Haha nice one
+147,@sirajraval,2021-09-16 21:55:05+00:00,https://twitter.com/sirajraval/status/1438622495486132231,"If I could have dinner with only one person, living or dead, it would undoubtably be Satoshi Nakamoto. Who would yours be?"
+148,@sirajraval,2021-09-16 02:07:07+00:00,https://twitter.com/sirajraval/status/1438323532350492675,"The world needs affordable health insurance. If it was built on Ethereum and used deep learning to make preventative recommendations, I bet we could make make it cheap and incentivize good lifestyle choices"
+149,@sirajraval,2021-09-15 01:12:07+00:00,https://twitter.com/sirajraval/status/1437947304913215488,@iamMinHan The growth of synbio tools. See the “built with biology” podcast on Spotify
+150,@sirajraval,2021-09-15 01:00:06+00:00,https://twitter.com/sirajraval/status/1437944280547356673,"The company that will someday disrupt Apple will be built with the tools of Synthetic Biology. Wearables like smart contact lenses and brain interfaces will replace phones, and they’ll use bio-energy, bio-computing, bio-storage, and bio-sensors."
+151,@sirajraval,2021-08-30 15:22:59+00:00,https://twitter.com/sirajraval/status/1432363224347906048,Love is the process of optimizing someone else’s reward function
+152,@sirajraval,2021-08-19 18:58:24+00:00,https://twitter.com/sirajraval/status/1428431168966430728,"AlphaCare is an open source project that aims to treat major diseases using Deep Learning. In this 1st vid of the AlphaCare series, I explain how to use Convolutional Neural Networks to predict a heart condition (Arrhythmia) as a tool for Cardiologists https://t.co/xBA0qW569W"
+153,@sirajraval,2021-08-17 21:45:28+00:00,https://twitter.com/sirajraval/status/1427748437383057408,"@ricburton Fully anonymous, cross border transactions between machines that clear at the millisecond scale and involve amounts smaller than $0.01."
+154,@sirajraval,2021-08-11 02:48:53+00:00,https://twitter.com/sirajraval/status/1425288078260908034,"@iamvazu Bro I released the code and MV just like I said, see my channel"
+155,@sirajraval,2021-08-10 04:31:53+00:00,https://twitter.com/sirajraval/status/1424951612158713856,"@Sumanth42597155 That’s not a software problem, it’s an energy sourcing problem. Bitcoin can run on renewable energy"
+156,@sirajraval,2021-08-09 22:57:46+00:00,https://twitter.com/sirajraval/status/1424867528023683074,"Bitcoin is a digital super-organism that cannot be destroyed by any known technology. Even if every government in the world colluded to destroy BTC, they still wouldn’t have enough computing power. BTC would survive a global thermonuclear war, it will outlast all of us."
+157,@sirajraval,2021-08-06 20:03:55+00:00,https://twitter.com/sirajraval/status/1423736614602240003,@Austen @kanyewest He’s done miracles on me
+158,@sirajraval,2021-08-06 16:10:06+00:00,https://twitter.com/sirajraval/status/1423677773105623045,"Blockchains are not trustless systems. Instead of trusting banks &amp; nation states, we trust miners to secure the network, developers to improve the codebase, &amp; users to adopt tokens. There is no such thing as a trustless system, the need to trust is an inherent part of being human"
+159,@sirajraval,2021-08-05 02:51:55+00:00,https://twitter.com/sirajraval/status/1423114514132660228,@ricburton From crypto high priest @balajis
+160,@sirajraval,2021-08-05 02:51:01+00:00,https://twitter.com/sirajraval/status/1423114288747614209,@ricburton https://t.co/O59ct4Edzy
+161,@sirajraval,2021-08-02 00:38:51+00:00,https://twitter.com/sirajraval/status/1421993866731802627,This is the combo I’ve been waiting for - when practical neuroscience meets practical molecular biology
+162,@sirajraval,2021-07-28 16:16:45+00:00,https://twitter.com/sirajraval/status/1420417956496887812,Awesome! Can’t wait to test this out
+163,@sirajraval,2021-07-26 13:08:54+00:00,https://twitter.com/sirajraval/status/1419645906387836931,"Deep Learning architectures are getting more complex. We continually add new information pathways - attention, recurrence, replay, multi-agent, etc. And yet - Biology is 100x steps ahead in its complexity. This subway map of human metabolism maps biochemical info flow in the body https://t.co/bDyY5WVPSc"
+164,@sirajraval,2021-07-15 15:06:00+00:00,https://twitter.com/sirajraval/status/1415689107913670660,"We're starting to understand the fundamental, molecular basis of our health. Modern IT helps extract TBs of data across 5 fields - 
+
+1. Genomics (Hard disk)
+2. Epigenomics (Disk reader) 
+3. Transcriptomics (Interpretor) 
+4. Metabolomics (Process Monitor) 
+5. Proteomics (Apps)"
+165,@sirajraval,2021-07-14 21:38:57+00:00,https://twitter.com/sirajraval/status/1415425608587218947,Thanks Sarah for the interview! I wish you all the success in the world. https://t.co/1stfLEmzDZ
+166,@sirajraval,2021-07-13 20:20:30+00:00,https://twitter.com/sirajraval/status/1415043477927120897,@davidasinclair @Nature Started taking reservatrol and im feeling very energetic
+167,@sirajraval,2021-07-08 14:14:05+00:00,https://twitter.com/sirajraval/status/1413139329644302336,"@robertskmiles In the book Hacking Darwin, Jamie Metal describes the process towards 1000 IQ, a combination of IVF and the Gurdon-Yamanka process. Summary here: https://t.co/sanRFgcoA9"
+168,@sirajraval,2021-07-07 14:54:23+00:00,https://twitter.com/sirajraval/status/1412787084780134402,@5percentrule genomelink
+169,@sirajraval,2021-07-07 14:51:49+00:00,https://twitter.com/sirajraval/status/1412786434931531776,"Here's a snippet from my genome. As you can see, so much of our personalities is quantifiable. https://t.co/V8JF644aWV"
+170,@sirajraval,2021-07-07 14:46:56+00:00,https://twitter.com/sirajraval/status/1412785209523675139,"If we could someday engineer human embryos to be super-intelligent with CRISPR (prodigy in STEM &amp; liberal arts, IQ &gt; 1000), super-athletic (endurance, agility, recovery) , &amp; super-empathetic (high EQ), should we?"
+171,@sirajraval,2021-07-06 04:43:10+00:00,https://twitter.com/sirajraval/status/1412270878130245632,"Evolution is the design, manufacturing, and distribution of intelligence over time. Nature designed us, but now we’re the designers - through bytes, genes, and atoms. The cost curve for this process is fast approaching zero."
+172,@sirajraval,2021-06-11 14:37:49+00:00,https://twitter.com/sirajraval/status/1403360828783398915,"Whenever @0xPolygon dips, I buy more. It offers real utility; cheap and fast transactions on Ethereum. I’m happy to convert as much of my USD (monetary colonialism) into India’s native cryptocurrency as possible 🇮🇳"
+173,@sirajraval,2021-06-03 16:22:06+00:00,https://twitter.com/sirajraval/status/1400487971703255046,"My top 3 favorite books on modern genomics, I've read each at least twice: 
+
+1. LifeSpan: Why We Age, - and Why We Don't Have to by @davidasinclair
+2. Hacking Darwin by @JamieMetzl 
+3. Ageless: The New Science of Getting Older Without Getting Old by Andrew Steele"
+174,@sirajraval,2021-06-03 16:17:42+00:00,https://twitter.com/sirajraval/status/1400486861164793856,"Aging is the loss of information over time. Time itself is embedded into our code. The genome is a hard disk, and the epigenome is a disk reader. Over time, the disk gets scratched. Deep Learning on Genomic data could help us find medicines to clean the disk, reversing aging"
+175,@sirajraval,2021-06-03 16:06:31+00:00,https://twitter.com/sirajraval/status/1400484049370578951,"We are genomic beings. Our ~700 MB source code consists of a 3 billion letter String made of As, Cs, Ts, and Gs. We're each unique combinations of personality traits, physical capabilities, mental fortitudes, &amp; dietary alignments that arise from Biology's programming language."
+176,@sirajraval,2021-06-02 17:44:03+00:00,https://twitter.com/sirajraval/status/1400146207154917378,"Today I'm open-sourcing an educational machine learning  game titled Code Royale. I hope this acts as a starting point &amp; inspiration for anyone interested in building games around math &amp; programming. Code, Mac, and Windows Builds in the video description: https://t.co/8wnp8R98E6"
+177,@sirajraval,2021-06-01 16:47:37+00:00,https://twitter.com/sirajraval/status/1399769614184181763,"Aging is the disease upstream of almost all others, let's target it directly with AI. I'm hiring Data Scientists, Software Devs, and ML Devs to build an AI codenamed ""AlphaCare"". AlphaCare uses Health Data to treat Aging itself, let's work together! https://t.co/uNCpOgGkQm"
+178,@sirajraval,2021-05-07 21:49:12+00:00,https://twitter.com/sirajraval/status/1390785815161184256,"Swapp Protocol enables users to own and monetize their data, tokens are awarded directly from advertisers to users instead of to platforms like Facebook. I'll explain how it works and the scalability potential of Zero Knowledge Proofs here: https://t.co/LG16wo8Ful"
+179,@sirajraval,2021-05-03 20:44:33+00:00,https://twitter.com/sirajraval/status/1389319991753797632,Essentia allows users to earn an astounding APY of up to 37% through a proof of stake consensus mechanism. I’ll explain PoS and how it all works here: https://t.co/wHxlL5y2E4
+180,@sirajraval,2021-04-26 15:38:10+00:00,https://twitter.com/sirajraval/status/1386706173961719808,Go @0xPolygon! I support their COVID relief efforts and love that they are using the power of cryptocurrency to save lives. India is going to be the biggest crypto-economy in the world.
+181,@sirajraval,2021-04-12 22:10:02+00:00,https://twitter.com/sirajraval/status/1381731362982428676,"Essentia uses Atomic Swaps to enable users to exchange cryptocurrencies with each other peer to peer, without needing a middleman. I'll explain how it all works here: https://t.co/bpvUgMe8P8"
+182,@sirajraval,2021-02-17 22:27:46+00:00,https://twitter.com/sirajraval/status/1362166880287432706,Follow the Gradient
+183,@sirajraval,2021-01-19 20:14:45+00:00,https://twitter.com/sirajraval/status/1351624155104350210,"What does an online, multiplayer game that introduces beginners to Machine Learning look like? Join me this Jan 22 at 5 PM UTC for the 1st public live-stream of Code Royale gameplay. Answer live questions to compete for this week's prize pool, can't wait! https://t.co/vBFczr8u4I"
+184,@sirajraval,2021-01-12 18:33:49+00:00,https://twitter.com/sirajraval/status/1349062039751122946,"Who lives in Boise, Idaho and wants to meetup IRL? DM me, let’s connect!"
+185,@sirajraval,2021-01-02 19:06:52+00:00,https://twitter.com/sirajraval/status/1345446478534168576,"We don’t need a God, in Encryption We Trust! #Bitcoin"

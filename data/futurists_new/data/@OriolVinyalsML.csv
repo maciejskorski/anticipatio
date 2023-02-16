@@ -1,0 +1,388 @@
+,0,1,2,3
+0,@OriolVinyalsML,2023-02-14 19:14:58+00:00,https://twitter.com/OriolVinyalsML/status/1625574338454855681,@dl_insider @DotCSV @antor Estuve en el directo de espectador el otro dia pero nadie se dio cuenta!
+1,@OriolVinyalsML,2023-02-13 18:20:00+00:00,https://twitter.com/OriolVinyalsML/status/1625198115912355869,Language modeling is compression gone wrong.
+2,@OriolVinyalsML,2023-02-12 20:32:40+00:00,https://twitter.com/OriolVinyalsML/status/1624869115155415044,"@TLOgg GGs, especially enjoyed the Oliveira vs Hero semifinal!"
+3,@OriolVinyalsML,2023-02-12 17:17:36+00:00,https://twitter.com/OriolVinyalsML/status/1624820026778828800,"The thread above was, of course, written in collaboration with one of our powerful Large Language Models. Long live Chain ⛓️ Rules!"
+4,@OriolVinyalsML,2023-02-12 17:17:36+00:00,https://twitter.com/OriolVinyalsML/status/1624820025306583040,"This is very important in Deep Learning: it allows calculating derivatives of highly complex neural networks, composed of stacked layers of simple functions. Gradient descent is used to update the neural net weights, allowing it to learn from data and perform complex tasks."
+5,@OriolVinyalsML,2023-02-12 17:17:35+00:00,https://twitter.com/OriolVinyalsML/status/1624820023641403394,"The Chain Rule of Calculus is a powerful tool that allows us to calculate derivatives of complicated functions. Specifically, it states that the derivative of the composition of two differentiable functions f(g(x)) is given by f'(g(x)) * g'(x)"
+6,@OriolVinyalsML,2023-02-12 17:17:35+00:00,https://twitter.com/OriolVinyalsML/status/1624820022186065920,"To generate a sequence of 1000 tokens requires an insane 100K^1000 = 10^5000 choices. That’s a lot more than the estimated number of atoms in the universe, 10^82! With the chain rule the number of possible choices is ""only"" 100K * 1000  = 100M, a much more manageable number."
+7,@OriolVinyalsML,2023-02-12 17:17:35+00:00,https://twitter.com/OriolVinyalsML/status/1624820020692885505,"By smaller events here, we refer to the probability of a token, given past tokens, p(c|ab). In probabilistic language modeling, a “token” is a single unit of text, like a word or part of a word. Modern language models consider a vocabulary size of ~100K tokens."
+8,@OriolVinyalsML,2023-02-12 17:17:34+00:00,https://twitter.com/OriolVinyalsML/status/1624820019052806148,"The Chain Rule of Probability is a powerful tool behind recent advances in Large Language Models. By multiplying together the probabilities of many smaller events, we can compute the probability of a complex event made up of those smaller events.
+p(abc) = p(c|ab) * p(b|a) * p(a)"
+9,@OriolVinyalsML,2023-02-12 17:17:34+00:00,https://twitter.com/OriolVinyalsML/status/1624820017412947968,"Chain ⛓️ Rule(s) rules! Appreciation thread of one of the most interesting coincidences in machine learning. Two rules, both named ""Chain Rule"", happen to be absolutely critical to recent advances in ML &amp; AI. A 🧵 on the Chain Rule of Probability &amp; the Chain Rule of Calculus👇"
+10,@OriolVinyalsML,2023-02-12 11:33:17+00:00,https://twitter.com/OriolVinyalsML/status/1624733374869823489,@DarceyNLP Who else has spotted the 3 typos?
+11,@OriolVinyalsML,2023-02-12 10:41:59+00:00,https://twitter.com/OriolVinyalsML/status/1624720465628483590,@DotCSV Buena aplicacion! Preguntale quien invento deep learning 🫣 A ver cuando hablamos!!
+12,@OriolVinyalsML,2023-02-05 21:44:39+00:00,https://twitter.com/OriolVinyalsML/status/1622350514510856198,"@CliffYoung89 @ctnzr I remember getting bad scores on that paper. Feels good to re-read the reviews now:
+
+""Marginally interesting. May or may not be cited."" 🤷"
+13,@OriolVinyalsML,2023-02-05 18:01:40+00:00,https://twitter.com/OriolVinyalsML/status/1622294399118983170,@WholeMarsBlog @karpathy 🧐https://t.co/MzqDA5b4ix
+14,@OriolVinyalsML,2023-02-04 23:24:44+00:00,https://twitter.com/OriolVinyalsML/status/1622013316322164737,"@ylecun @elonmusk I don't disagree with that, but disagree with the off-ramp thing 😇"
+15,@OriolVinyalsML,2023-02-04 21:42:05+00:00,https://twitter.com/OriolVinyalsML/status/1621987484010790914,@wojczarnecki ❤️+🎮 We want some statistics!
+16,@OriolVinyalsML,2023-02-04 18:43:50+00:00,https://twitter.com/OriolVinyalsML/status/1621942622116880386,@ctnzr Lots of impactful papers come to mind that were rejected... but also some bad ones 😭
+17,@OriolVinyalsML,2023-02-04 18:35:04+00:00,https://twitter.com/OriolVinyalsML/status/1621940416080744451,@ylecun Remind me in 5 years... 🍿
+18,@OriolVinyalsML,2023-01-29 21:16:24+00:00,https://twitter.com/OriolVinyalsML/status/1619806693378121728,@str4273 @DavidSKrueger Accuracy seems low though 🙃
+19,@OriolVinyalsML,2023-01-29 16:09:59+00:00,https://twitter.com/OriolVinyalsML/status/1619729578548953089,@DavidSKrueger Nothing matters. https://t.co/Hx5J2pvgtp
+20,@OriolVinyalsML,2023-01-27 17:47:10+00:00,https://twitter.com/OriolVinyalsML/status/1619029260852932608,@ImoMellor Proud beta tester over here 🙋🏻 🕹️
+21,@OriolVinyalsML,2023-01-25 18:02:55+00:00,https://twitter.com/OriolVinyalsML/status/1618308449871466499,@sama Congrats! I think @ylecun should send you a cake full of cherries 🍒🍒🍒
+22,@OriolVinyalsML,2023-01-22 21:32:38+00:00,https://twitter.com/OriolVinyalsML/status/1617274059783380994,@DavidSKrueger LSTM paper had ~50 citations from 1997 until 2014 when the seq2seq paper made it quite popular (approaching 100K) now. Hang in there ; )
+23,@OriolVinyalsML,2023-01-22 17:54:30+00:00,https://twitter.com/OriolVinyalsML/status/1617219165764329472,Zero accepted papers to #ICLR2023 😢 / Zero submitted 🙃. Acceptance rate = NaN #achievementunlocked
+24,@OriolVinyalsML,2023-01-21 21:43:55+00:00,https://twitter.com/OriolVinyalsML/status/1616914515097960449,@xanderai TIL!
+25,@OriolVinyalsML,2023-01-16 17:10:06+00:00,https://twitter.com/OriolVinyalsML/status/1615033667276898305,"@depthsofwiki Well, that settles it then #AI #Flamingo https://t.co/C2vzhftYuD"
+26,@OriolVinyalsML,2023-01-11 18:20:54+00:00,https://twitter.com/OriolVinyalsML/status/1613239545503309844,Forgot the actual histogram 🙃 https://t.co/gtrIqZC8LH
+27,@OriolVinyalsML,2023-01-11 18:17:38+00:00,https://twitter.com/OriolVinyalsML/status/1613238721314168833,@rao2z @Google @perplexity_ai @Twitter @ylecun Well I tried to keep this to myself... 🏆
+28,@OriolVinyalsML,2023-01-11 17:31:13+00:00,https://twitter.com/OriolVinyalsML/status/1613227041452658698,"E.g. our own Sparrow connects a chatbot to @Google  search. A cool demo by @perplexity_ai shows something similar, and also allows you to query a @Twitter database for e.g. ""histogram of top words from my tweets"" (somehow I seem to use @ylecun a lot???). https://t.co/GgtJLcRGyM"
+29,@OriolVinyalsML,2023-01-11 17:31:12+00:00,https://twitter.com/OriolVinyalsML/status/1613227037959028736,"Many people mistakenly think that large language models that generate one word at a time is the end game.
+Connecting LLMs with tools, e.g.: search engines, python interpreters, etc., is super exciting, and leverages tools' power, robustness &amp; more! https://t.co/39PmdYEgwv"
+30,@OriolVinyalsML,2023-01-09 18:19:47+00:00,https://twitter.com/OriolVinyalsML/status/1612514487675805709,"#AlphaFold2 indeed was the ImageNet moment in protein folding. What field will be next? Gotta ❤️ neural nets!
+https://t.co/szRBqH4yHY"
+31,@OriolVinyalsML,2023-01-09 18:19:46+00:00,https://twitter.com/OriolVinyalsML/status/1612514485201166347,"Protein folding competition #CASP15 has followed the same pattern observed in computer vision back in 2012, revolutionized by Deep Learning. Following dominance of #AlphaFold2 in #CASP14, all top methods this year build on top of AF2. https://t.co/24jfYvJtsk"
+32,@OriolVinyalsML,2023-01-02 22:24:51+00:00,https://twitter.com/OriolVinyalsML/status/1610039446547603458,@ChrisGPotts @nandisims Proud @Stanford reject over here : )
+33,@OriolVinyalsML,2022-12-20 20:25:21+00:00,https://twitter.com/OriolVinyalsML/status/1605298328660594708,@covfefe_math https://t.co/1FuCbSGe2r
+34,@OriolVinyalsML,2022-12-20 20:23:51+00:00,https://twitter.com/OriolVinyalsML/status/1605297954440597509,@NamanGoyal21 https://t.co/MzqDA5b4ix
+35,@OriolVinyalsML,2022-12-20 20:17:29+00:00,https://twitter.com/OriolVinyalsML/status/1605296348747558913,"The ""Parents AI test"". My dad just sent me a picture and told me: ""there's no way AI can guess what this is"". Challenge accepted! #Flamingo https://t.co/jDmJfyl6VZ"
+36,@OriolVinyalsML,2022-12-18 20:12:42+00:00,https://twitter.com/OriolVinyalsML/status/1604570369993707520,Congrats Argentina 🇦🇷 and Messi! Also pictured: Harry Potter and the Goblet of Fire 🪄🏆
+37,@OriolVinyalsML,2022-12-13 19:57:14+00:00,https://twitter.com/OriolVinyalsML/status/1602754539664416768,@AndrewYNg Kinda wishing this was actually true : )
+38,@OriolVinyalsML,2022-12-11 14:17:31+00:00,https://twitter.com/OriolVinyalsML/status/1601944272697171969,@ylecun @RandomlyWalking This is probably the best AI debate we'll see this winter.
+39,@OriolVinyalsML,2022-12-10 21:31:37+00:00,https://twitter.com/OriolVinyalsML/status/1601691126159003648,@ylecun Don't feed the 🧌🧌🧌!
+40,@OriolVinyalsML,2022-12-09 22:01:53+00:00,https://twitter.com/OriolVinyalsML/status/1601336354729648129,@drjwrae Remind me in 2 decades. Will this age well? : )
+41,@OriolVinyalsML,2022-12-08 19:35:14+00:00,https://twitter.com/OriolVinyalsML/status/1600937062487969792,Beautiful cover page too! https://t.co/FFJVWfYKRx
+42,@OriolVinyalsML,2022-12-08 19:35:09+00:00,https://twitter.com/OriolVinyalsML/status/1600937041138577409,"So proud of the team behind #AlphaCode, published today @ScienceMagazine!
+
+Paper: https://t.co/huxwhv8KwF https://t.co/mJcz1fPspJ"
+43,@OriolVinyalsML,2022-12-04 17:43:13+00:00,https://twitter.com/OriolVinyalsML/status/1599459320969981953,@naivebayesian The one in Arthur C. Clarke book is pretty good. What about yours? (spoiler alert?)
+44,@OriolVinyalsML,2022-12-04 17:27:41+00:00,https://twitter.com/OriolVinyalsML/status/1599455413589594113,"If you do watch it, pretend to be in 1968, when the film was originally released. I'd also highly recommend Christopher Nolan's 2021 4K ""unrestored"" version. 2001 is not only my all time favorite movie, but the reason why I chose science and AI. https://t.co/JXtPj9cgJm"
+45,@OriolVinyalsML,2022-12-04 17:27:40+00:00,https://twitter.com/OriolVinyalsML/status/1599455408967782400,"A few notes on 2001's AI:
+
+-HAL is a wink to IBM (H+1 A+1 L+1=IBM). IBM's DeepBlue was ""predicted"" in the movie when HAL beat Frank at chess : )
+-Conversational AI is at the center of current research.
+-As AI advances, topics such as alignment, safety, etc., become critical."
+46,@OriolVinyalsML,2022-12-04 17:27:39+00:00,https://twitter.com/OriolVinyalsML/status/1599455406224715777,"2001: A Space Odyssey appreciation 🧵 I just rewatched 2001 for the n-th time (n&gt;20). This movie was hugely ahead of its time, so many cool topics:
+
+-Origin of (human) intelligence 🧠
+-Pushing frontiers of space exploration 🚀
+-And, of course, AI 🤖 https://t.co/F3Mr8YJ01Z"
+47,@OriolVinyalsML,2022-12-03 19:35:13+00:00,https://twitter.com/OriolVinyalsML/status/1599125118067671040,"@ylecun No beef, really?"
+48,@OriolVinyalsML,2022-12-03 16:39:43+00:00,https://twitter.com/OriolVinyalsML/status/1599080952004694016,Time to test your Spanish skills! : )
+49,@OriolVinyalsML,2022-12-02 16:50:46+00:00,https://twitter.com/OriolVinyalsML/status/1598721345566679040,@0xZmZ @StarCraft ~300
+50,@OriolVinyalsML,2022-12-02 16:46:37+00:00,https://twitter.com/OriolVinyalsML/status/1598720301545783304,"Playing video games at a ""pro"" level can help productivity at work thanks to increased keyboard / mouse speed &amp; precision. I certainly ""micro"" code and emails better thanks to @StarCraft. Careful balance is needed though 🤣"
+51,@OriolVinyalsML,2022-11-18 07:42:18+00:00,https://twitter.com/OriolVinyalsML/status/1593509890521124866,@TLOgg Not like this. Not like this.
+52,@OriolVinyalsML,2022-10-27 14:35:15+00:00,https://twitter.com/OriolVinyalsML/status/1585641278930579458,"@tallinzen The correct answer is ""Let's"" 🥱"
+53,@OriolVinyalsML,2022-10-25 16:54:47+00:00,https://twitter.com/OriolVinyalsML/status/1584951618302185472,"Beautiful exhibit from @fpa paying rendition to AlphaFold. I tried to get diffusion models to generate something as nice, but couldn't. Humans &gt; AI : ) https://t.co/gVRT86uNVl"
+54,@OriolVinyalsML,2022-10-24 19:13:43+00:00,https://twitter.com/OriolVinyalsML/status/1584624195001933824,@MaxKashevsky @fhuszar _real_final_v2
+55,@OriolVinyalsML,2022-10-23 17:45:49+00:00,https://twitter.com/OriolVinyalsML/status/1584239687438196737,@hardmaru The forward-backward algorithm.
+56,@OriolVinyalsML,2022-10-20 09:53:04+00:00,https://twitter.com/OriolVinyalsML/status/1583033549095329792,@ganyet @lexfridman Gràcies!
+57,@OriolVinyalsML,2022-10-17 21:41:25+00:00,https://twitter.com/OriolVinyalsML/status/1582124650833752070,@karpathy https://t.co/9HYUDGLFI6 FTW
+58,@OriolVinyalsML,2022-10-06 09:27:44+00:00,https://twitter.com/OriolVinyalsML/status/1577953744788094977,"@arwindersinghm3 Although it assumes knowledge in ML, Dave is great, and these give a very good overview of the whole field (a bit dated now, but hey): https://t.co/GpnrlrsrCY
+
+I personally learned before these existed from the Sutton and Barto book, delightful read."
+59,@OriolVinyalsML,2022-10-04 20:21:11+00:00,https://twitter.com/OriolVinyalsML/status/1577393416715243520,"@maithra_raghu @samaya_AI Best of luck, will be cheering for you! 🎉"
+60,@OriolVinyalsML,2022-10-02 12:37:16+00:00,https://twitter.com/OriolVinyalsML/status/1576551889571045376,"With all the debates on who-claimed-what-when, ego wars, research-prophecies, and other non-sense that is filling my Twitter feed these days, it is sobering to see what good execution can achieve. Congratulations to all those involved in this and similar projects!"
+61,@OriolVinyalsML,2022-10-02 12:37:15+00:00,https://twitter.com/OriolVinyalsML/status/1576551886664388619,"This isn't ML-new, but who cares? Applied at the level of ambition of full-scale real world impact, with the right team, execution, (and compute/data!), you can do things that felt impossible before. Both the architecture and cool use of language heavily reminded me of AlphaStar. https://t.co/6XjL7FAa0v"
+62,@OriolVinyalsML,2022-10-02 12:37:14+00:00,https://twitter.com/OriolVinyalsML/status/1576551882415144961,"Treating the job of figuring out valid ""lanes"" from images as language is brilliant. Combining CNNs, transformers, attention, pointer networks, etc., you essentially write a set of instructions to build up the graph by connecting the dots, start new lanes, set curvature, etc."
+63,@OriolVinyalsML,2022-10-02 12:37:13+00:00,https://twitter.com/OriolVinyalsML/status/1576551879039127555,This neural network architecture that was showcased at the @Tesla AI day is a perfect example of Deep Learning at its finest. Mix and match all the greatest innovations to do something drastic and super ambitious. Congrats! https://t.co/1nZTwhAmFd
+64,@OriolVinyalsML,2022-09-24 18:12:01+00:00,https://twitter.com/OriolVinyalsML/status/1573737031720747008,"As a ""failed"" scientist =&gt; converted deep learner, the dream is to be able to influence &amp; advance major scientific fields. If you are interested in working with us @DeepMind on weather &amp; climate modeling, please apply!
+
+https://t.co/MJXpEQH545"
+65,@OriolVinyalsML,2022-08-18 14:42:21+00:00,https://twitter.com/OriolVinyalsML/status/1560275915095306242,"@soumithchintala @chrmanning @tdietterich @roydanroy @karpathy @ylecun @percyliang @RishiBommasani We could call this flag repainting. Cite this tweet if you use the term, please!!"
+66,@OriolVinyalsML,2022-08-16 18:22:00+00:00,https://twitter.com/OriolVinyalsML/status/1559606416423489536,@karpathy Dream or nightmare? 🇮🇹
+67,@OriolVinyalsML,2022-08-03 13:38:29+00:00,https://twitter.com/OriolVinyalsML/status/1554824024185745410,"@hugo_larochelle @BeEngelhardt @NailaMurray Interesting! I always thought the more natural route was Conference-to-Journal? Regardless, Journal only feels sub-optimal, as then there's no ""real life"" forum for sharing your research, which conferences so nicely do."
+68,@OriolVinyalsML,2022-08-02 20:04:46+00:00,https://twitter.com/OriolVinyalsML/status/1554558850765914117,"Interested in exploring the limits of large-scale models? Consider joining our brand new Scalable Deep Learning team in California as a Research Engineer or Research Scientist, see job descriptions below!
+
+https://t.co/pLklK0qNVP
+https://t.co/HYa2Rw6yMr"
+69,@OriolVinyalsML,2022-07-28 22:25:55+00:00,https://twitter.com/OriolVinyalsML/status/1552782431828197377,@SFResearch Nice! Time to try the more challenging and less false-positive prone https://t.co/gHP1xUVpYi?
+70,@OriolVinyalsML,2022-07-28 12:12:58+00:00,https://twitter.com/OriolVinyalsML/status/1552628175775141888,#200Fold #AlphaFold
+71,@OriolVinyalsML,2022-07-28 09:57:42+00:00,https://twitter.com/OriolVinyalsML/status/1552594136141889536,@AnimaAnandkumar @nvidia Love this work! Congrats to the team : )
+72,@OriolVinyalsML,2022-07-27 06:16:57+00:00,https://twitter.com/OriolVinyalsML/status/1552176194841354241,"@chrmanning Speech recognition was the first success story that made me and quite a few of us that were early adopters ""believe"" DL was ready to change the (ML) world."
+73,@OriolVinyalsML,2022-07-26 17:01:24+00:00,https://twitter.com/OriolVinyalsML/status/1551975986182455297,It's out! Thanks @lexfridman for the interesting conversation! I will make sure to acknowledge you in some future papers as our chat already sparked interesting research ideas!
+74,@OriolVinyalsML,2022-07-22 18:56:15+00:00,https://twitter.com/OriolVinyalsML/status/1550555341175377923,"Tomorrow I'll be talking about pre-training at 9:30AM EST in the massive Hall F #ICML2022 room. Come find out what chinchillas🐹, flamingos🦩 and Gatos😺 have in common!
+
+https://t.co/t24TYiC3bs
+https://t.co/KBnOSJUwA4"
+75,@OriolVinyalsML,2022-07-20 20:19:40+00:00,https://twitter.com/OriolVinyalsML/status/1549851554290728985,@_aidan_clark_ @icmlconf Nice cameo : )
+76,@OriolVinyalsML,2022-07-20 19:42:29+00:00,https://twitter.com/OriolVinyalsML/status/1549842198820274178,Great to be at #ICML2022! I missed poster sessions in person. Deep Learning Is All I Need ♥️ https://t.co/WZAjAbyW3a
+77,@OriolVinyalsML,2022-07-15 17:06:34+00:00,https://twitter.com/OriolVinyalsML/status/1547991022252085249,"Amazing progress since I visited and tried to ""teach"" the robots how to play. 🏓🏓🏓 https://t.co/K6rq2YmELa"
+78,@OriolVinyalsML,2022-07-06 14:06:01+00:00,https://twitter.com/OriolVinyalsML/status/1544684095527084034,@goodfellow_ian Welcome Ian!
+79,@OriolVinyalsML,2022-07-06 14:05:09+00:00,https://twitter.com/OriolVinyalsML/status/1544683874583814144,"It is great to welcome @goodfellow_ian to the Deep Learning team and @DeepMind! 
+
+Ian and I intersected briefly whilst he was finishing THE Deep Learning book, but still were able to work together on a cool paper https://t.co/9drYSGHAyS Looking forward to much more!"
+80,@OriolVinyalsML,2022-06-25 07:51:27+00:00,https://twitter.com/OriolVinyalsML/status/1540603565286121472,@victorianoi @lexfridman This will be take two : ) See first one here https://t.co/mUVAF3CF2F
+81,@OriolVinyalsML,2022-06-24 15:14:47+00:00,https://twitter.com/OriolVinyalsML/status/1540352746959798272,"Had a great time chatting with @lexfridman earlier today, looking forward to the episode!!"
+82,@OriolVinyalsML,2022-06-23 18:17:28+00:00,https://twitter.com/OriolVinyalsML/status/1540036332763992064,@sama Nice work! Imitation + RL FTW!
+83,@OriolVinyalsML,2022-06-16 08:21:54+00:00,https://twitter.com/OriolVinyalsML/status/1537349738491699200,@demishassabis @geoffreyhinton @ylecun @DeepMind @fpa Felicidades!!
+84,@OriolVinyalsML,2022-06-16 08:21:14+00:00,https://twitter.com/OriolVinyalsML/status/1537349568626675713,@ylecun @geoffreyhinton @demishassabis Felicidades! :)
+85,@OriolVinyalsML,2022-06-06 22:08:40+00:00,https://twitter.com/OriolVinyalsML/status/1533933921871831043,@AnimaAnandkumar @Caltech @bjenik Congrats Anima. Very happy for you both! ❤️
+86,@OriolVinyalsML,2022-06-01 06:02:37+00:00,https://twitter.com/OriolVinyalsML/status/1531878867996131330,"@giannis_daras Cool! Have you tried the prompt ""Apoploe vesrreaitais eating Contarra ccetnxniams luryca tanniounons, with subtitles""?"
+87,@OriolVinyalsML,2022-05-26 18:32:25+00:00,https://twitter.com/OriolVinyalsML/status/1529893232095768608,@DotCSV @ianholing Gato2 : )
+88,@OriolVinyalsML,2022-05-26 18:30:48+00:00,https://twitter.com/OriolVinyalsML/status/1529892826099724306,@NandoDF @tdietterich @roydanroy @JayAlammar Gato is not the end. Gato is the beginning. Meow 🐈
+89,@OriolVinyalsML,2022-05-25 21:57:21+00:00,https://twitter.com/OriolVinyalsML/status/1529582417912156163,@FelixHill84 @kchonyc You probably meant the first encoder-decoder model : )
+90,@OriolVinyalsML,2022-05-25 18:35:41+00:00,https://twitter.com/OriolVinyalsML/status/1529531666892472322,"@mmitchell_ai @JesseDodge @kotymg @karlstratos @haldaume3 Huge congrats, richly deserved! This is truly pioneering and inspiring work, very ahead of its time. Lots of work happening still today on this space, so the test of time makes a lot of sense to me!"
+91,@OriolVinyalsML,2022-05-25 18:29:35+00:00,https://twitter.com/OriolVinyalsML/status/1529530130309255170,Original pictures from #Imagen in full res. https://t.co/WTjvyW0u4r
+92,@OriolVinyalsML,2022-05-25 18:29:33+00:00,https://twitter.com/OriolVinyalsML/status/1529530124403712000,🤯 https://t.co/7fZpIuDSIl
+93,@OriolVinyalsML,2022-05-25 18:29:32+00:00,https://twitter.com/OriolVinyalsML/status/1529530118913380357,https://t.co/hBXn8MQESV
+94,@OriolVinyalsML,2022-05-25 18:29:31+00:00,https://twitter.com/OriolVinyalsML/status/1529530116623187968,Summary of the last month (!) of projects released in Deep Learning. Huge congrats to the teams involved! #Imagen #flamingo #dalle2 https://t.co/jvQm6el8k0
+95,@OriolVinyalsML,2022-05-25 07:09:59+00:00,https://twitter.com/OriolVinyalsML/status/1529359105382547457,@ilyasut Consider a differentiable non-linearity for better results and way more ❤️❤️❤️
+96,@OriolVinyalsML,2022-05-24 02:57:55+00:00,https://twitter.com/OriolVinyalsML/status/1528933284230594561,@AravSrinivas @_joaogui1 @ylecun @jeremyphoward The hardware lottery at play here. Hardware will catch up. Get your tickets : )
+97,@OriolVinyalsML,2022-05-23 21:34:03+00:00,https://twitter.com/OriolVinyalsML/status/1528851781148631042,@AravSrinivas @ylecun Why? Sorry the plot has too many points / colors. should plot conv free vs conv full to visualize this point.
+98,@OriolVinyalsML,2022-05-21 17:35:23+00:00,https://twitter.com/OriolVinyalsML/status/1528066942669578240,@ylecun Nice! But aren't transformers a particular case of CNNs? Or was it the other way around?
+99,@OriolVinyalsML,2022-05-18 20:30:34+00:00,https://twitter.com/OriolVinyalsML/status/1527023865188306945,@AlexGDimakis no : )
+100,@OriolVinyalsML,2022-05-18 17:30:17+00:00,https://twitter.com/OriolVinyalsML/status/1526978493317275654,"@scottniekum Precisely so that people note that it is not ANY, but MANY."
+101,@OriolVinyalsML,2022-05-18 16:43:59+00:00,https://twitter.com/OriolVinyalsML/status/1526966844069928962,"@IntuitMachine Probably because the popular benchmarks (Omniglot, mini-Imagenet) were/are about few shot learning."
+102,@OriolVinyalsML,2022-05-18 16:13:54+00:00,https://twitter.com/OriolVinyalsML/status/1526959269714837505,PS Metal Learning🤘
+103,@OriolVinyalsML,2022-05-18 16:07:22+00:00,https://twitter.com/OriolVinyalsML/status/1526957628366233600,"Later, OpenAI's GPT-X demonstrated, on language, that this and more was achievable with a LM trained on a lot of data. Unlike the 2016 models, which could learn something relatively narrow, when properly prompted, these models were reasonably good at ANY language task. (3/4) https://t.co/XfkJnUyVKv"
+104,@OriolVinyalsML,2022-05-18 16:07:21+00:00,https://twitter.com/OriolVinyalsML/status/1526957624146677760,"A long long time ago in Deep Learning (2016), we got pretty excited about meta / few shot learning. The idea was to train a model to be good at classifying unseen object categories with a few examples (~a prompt), as Flamingo🦩 explained👆. (2/4) https://t.co/PLrMB3YVpZ"
+105,@OriolVinyalsML,2022-05-18 16:07:20+00:00,https://twitter.com/OriolVinyalsML/status/1526957618744414214,"The most exciting aspect of our recent LM 🐹, VLM 🦩 and Gato 🐈 works is not that these models are ~SOTA on the tasks they've trained on, but that they are reasonably good at ANY task**. A 🧵 (1/4) https://t.co/TfW5CsxMab"
+106,@OriolVinyalsML,2022-05-17 14:00:58+00:00,https://twitter.com/OriolVinyalsML/status/1526563428969680896,@david_macedo @ilyasut @quocleix Thanks! seq2seq FTW!
+107,@OriolVinyalsML,2022-05-15 13:37:26+00:00,https://twitter.com/OriolVinyalsML/status/1525832732693172229,"@rsalakhu Huge +1! As someone who studied in a department where basically almost no one did Deep Learning, what I learned from the broader ML toolbox has been, is, and will be hugely influential into creating ""the next big thing""."
+108,@OriolVinyalsML,2022-05-14 16:58:37+00:00,https://twitter.com/OriolVinyalsML/status/1525520973688098816,"""the best way to predict the future is to make it happen""
+
+Congrats again @ilyasut!! Would you tweet any of the above? 🤣 (8/8)"
+109,@OriolVinyalsML,2022-05-14 16:58:37+00:00,https://twitter.com/OriolVinyalsML/status/1525520972262297601,"""if it feels wrong, it's probably wrong""
+""when you're sure you're right, you're probably wrong""
+""the best way to win a debate is to not be in it""
+""The most efficient way to travel is to not travel at all""
+""the best time to change is always"" (7/8)"
+110,@OriolVinyalsML,2022-05-14 16:58:36+00:00,https://twitter.com/OriolVinyalsML/status/1525520970613653511,"""if you think a machine is conscious, you're doing it wrong""
+""intelligence is not knowing all the answers, it's being aware of all the questions""
+""we are still in the Stone Age of AI""
+""the fact that we are able to compute at all is a miracle"" (6/8)"
+111,@OriolVinyalsML,2022-05-14 16:58:36+00:00,https://twitter.com/OriolVinyalsML/status/1525520969267281921,"""The beauty of deep learning is that it is a bit like alchemy. You combine data, networks, and parameters, and out comes this almost magical thing called ""intelligence"".""
+""AI is like the universe: most of the work is already done""
+""there is no free lunch"" (5/8)"
+112,@OriolVinyalsML,2022-05-14 16:58:36+00:00,https://twitter.com/OriolVinyalsML/status/1525520967958773760,"""I think that the main contribution of deep learning is not that it's deep, but that it's learning. Learning is at the core of intelligence.""
+""The world is deep learning. And you're just a perceptron.""
+""Deep learning is a beautiful lie"" (4/8)"
+113,@OriolVinyalsML,2022-05-14 16:58:35+00:00,https://twitter.com/OriolVinyalsML/status/1525520966574538754,"The generated tweets came about Deep Learning, AGI, and also more generic. I 🍒picked a few of them (among 50 or so genereated tweets). 👇 (3/8)"
+114,@OriolVinyalsML,2022-05-14 16:58:35+00:00,https://twitter.com/OriolVinyalsML/status/1525520964754280449,"I simply prompted the model with ""Ilya Sutskever, a deep learning researcher, recently shared on Twitter these gems:"" followed by many of Ilya's tweets.
+My conclusion: some of Ilya's tweets must be generated (@karpathy already knew). (2/8)
+https://t.co/fXsKvPoCZ3"
+115,@OriolVinyalsML,2022-05-14 16:58:35+00:00,https://twitter.com/OriolVinyalsML/status/1525520962988425221,"Happy that my friend @ilyasut has been elected a Fellow of the Royal Society! As he has also been gifting us some interesting tweets lately, I have challenged a Language Model 🐹 to see if it can compete. Results in thread🧵(1/8)"
+116,@OriolVinyalsML,2022-05-14 05:54:13+00:00,https://twitter.com/OriolVinyalsML/status/1525353771664121857,@sleepinyourhat Congrats! Amazing!
+117,@OriolVinyalsML,2022-05-13 11:58:06+00:00,https://twitter.com/OriolVinyalsML/status/1525082958884904960,@wojczarnecki @jordiae This is the best we could do. Still work in progress... https://t.co/SyYnx441fO
+118,@OriolVinyalsML,2022-05-10 22:26:26+00:00,https://twitter.com/OriolVinyalsML/status/1524153918615441410,@jayelmnop @NandoDF We must go deeper.
+119,@OriolVinyalsML,2022-05-10 17:47:05+00:00,https://twitter.com/OriolVinyalsML/status/1524083619299479553,@sama @ilyasut Congrats!! Drastic!
+120,@OriolVinyalsML,2022-05-09 09:23:23+00:00,https://twitter.com/OriolVinyalsML/status/1523594469659922432,@onnoeberhard @gslaller @NandoDF Yup : )
+121,@OriolVinyalsML,2022-05-06 17:20:46+00:00,https://twitter.com/OriolVinyalsML/status/1522627443579838464,"@karpathy @Inoryy We'll take a ""not exactly convincing"" : ) Care to elaborate?"
+122,@OriolVinyalsML,2022-05-05 15:50:00+00:00,https://twitter.com/OriolVinyalsML/status/1522242213706715136,"@JacobSteinhardt @timnitGebru @CadeMetz I've known and followed Azalia and Anna's work for quite a while now. I was lucky to be able to catch up whenever visiting California in the very early stages of the chip design work. They are great leaders in our field, sad to see this article go live like that : ("
+123,@OriolVinyalsML,2022-04-29 16:28:35+00:00,https://twitter.com/OriolVinyalsML/status/1520077597723566082,@versae Felicidades! Parece que se ha vuelto demasiado popular? : ) https://t.co/cyjn3scJM2
+124,@OriolVinyalsML,2022-04-28 15:17:58+00:00,https://twitter.com/OriolVinyalsML/status/1519697439065841666,"Flamingo, a drastic VLM that achieves SOTA on many vision + language tasks! Fun fact: (real) flamingos change colors depending on what they eat. Our Flamingo model behaves differently depending on the inputs it's fed 🍕🦩
+
+https://t.co/1FuCbSGe2r https://t.co/WuMYL8KOzX"
+125,@OriolVinyalsML,2022-04-26 10:13:30+00:00,https://twitter.com/OriolVinyalsML/status/1518896040103059458,@_rockt @DeepMind Nice! Let's chat : )
+126,@OriolVinyalsML,2022-04-20 16:15:00+00:00,https://twitter.com/OriolVinyalsML/status/1516812686864134144,"Love this work! In very ""deep learning"" fashion, you can train a neural net to generate causal structure directly from observational data, end to end 🤯. Deep Learning❤️ Causal Reasoning https://t.co/nFgU92tn5i"
+127,@OriolVinyalsML,2022-04-13 07:17:03+00:00,https://twitter.com/OriolVinyalsML/status/1514140595501031424,"@trevorycai @kchonyc @jordanhoffmann Were u hoping for: we forgot a job training, went on vacation, and came back to a big surprise? 🙈"
+128,@OriolVinyalsML,2022-04-12 18:03:27+00:00,https://twitter.com/OriolVinyalsML/status/1513940875683975173,"Chinchilla: A Neural Network Language Model, smaller yet more powerful, brought to you by updated scaling laws. https://t.co/xeol9J98yt"
+129,@OriolVinyalsML,2022-04-12 13:26:45+00:00,https://twitter.com/OriolVinyalsML/status/1513871243753238539,@ykilcher @GoogleAI @OpenAI @SFResearch @laion_ai @karpathy @multimodalart You should try this in London sometime :)
+130,@OriolVinyalsML,2022-04-11 22:46:51+00:00,https://twitter.com/OriolVinyalsML/status/1513649808908726275,"@colinraffel @stanfordnlp Yet, the field has been far from constant. So, even if in 10 years we'll be doing the same, it won't quite be the same. Have fun in your (research) journey ; )"
+131,@OriolVinyalsML,2022-04-09 16:36:06+00:00,https://twitter.com/OriolVinyalsML/status/1512831733011472389,@fhuszar @LEGO_Group this person needs help.
+132,@OriolVinyalsML,2022-04-08 07:38:51+00:00,https://twitter.com/OriolVinyalsML/status/1512334140703662082,@pabbeel @UCBerkeley @OpenAI @CovariantAI @DaphneKoller @AndrewYNg Congrats!! reward+=1;
+133,@OriolVinyalsML,2022-04-06 17:29:39+00:00,https://twitter.com/OriolVinyalsML/status/1511758045730201600,@prafdhar Congrats @prafdhar et al. Generative modelling has come a long way!
+134,@OriolVinyalsML,2022-04-01 16:10:36+00:00,https://twitter.com/OriolVinyalsML/status/1509926212336070665,"This is great work by my colleagues @KelseyRAllen, @neuro_kim and @ZePoLiTaT (et al). It shows why we should all be excited about Neural Simulators!"
+135,@OriolVinyalsML,2022-03-31 18:36:21+00:00,https://twitter.com/OriolVinyalsML/status/1509600501020639246,"@karpathy We will call them ""datasets"" 🤯"
+136,@OriolVinyalsML,2022-03-31 18:35:28+00:00,https://twitter.com/OriolVinyalsML/status/1509600278902984710,"@sedielem ... and probably the past, knowing a thing or two about the field!"
+137,@OriolVinyalsML,2022-03-25 19:10:56+00:00,https://twitter.com/OriolVinyalsML/status/1507434876806610944,@ctnzr Amazing journey (thus far!). I am loving DLSS particularly when playing games : ) Congrats on your successes!
+138,@OriolVinyalsML,2022-03-25 17:48:47+00:00,https://twitter.com/OriolVinyalsML/status/1507414205019828225,@du_yilun @DeepMind @MIT_CSAIL Looking forward to real world interactions with many brilliant researchers next week!
+139,@OriolVinyalsML,2022-03-24 11:18:07+00:00,https://twitter.com/OriolVinyalsML/status/1506953503859744772,"@JCornebise @stanfordnlp I am not sure if this was recorded. However, I will be giving an updated version of this (which will include AlphaCode) @MIT_CSAIL (https://t.co/T7wBVKheTK) which should be available later hopefully?"
+140,@OriolVinyalsML,2022-03-23 18:34:18+00:00,https://twitter.com/OriolVinyalsML/status/1506700883748339712,... I'm a deep learning researcher and we've annoyed almost ALL statisticians : )
+141,@OriolVinyalsML,2022-03-19 11:10:29+00:00,https://twitter.com/OriolVinyalsML/status/1505139642965934080,"@niedakh @arxiv @arxiv stores the source (.tex files) in general, so that is always possible: https://t.co/WBnvxRKqlC"
+142,@OriolVinyalsML,2022-03-19 11:07:35+00:00,https://twitter.com/OriolVinyalsML/status/1505138910317400067,@inf800 @arxiv Yup! https://t.co/gHP1xUVpYi
+143,@OriolVinyalsML,2022-03-16 17:48:59+00:00,https://twitter.com/OriolVinyalsML/status/1504152766175924228,"#AlphaCode paper FINALLY up on @arxiv! (it somehow took 6 weeks to go live): https://t.co/NHGAJcSjNS
+
+Also, wonderful commentary on some #AlphaCode solutions by Petr Mitrichev, a legend in competitive programming, up at https://t.co/Z6xtrrXN8a https://t.co/DVacoHawTd"
+144,@OriolVinyalsML,2022-03-05 17:40:15+00:00,https://twitter.com/OriolVinyalsML/status/1500164298861068292,https://t.co/85zygFVq8b
+145,@OriolVinyalsML,2022-02-25 16:51:26+00:00,https://twitter.com/OriolVinyalsML/status/1497252911109349383,@BehnazGhoraani @hmd_palangi @IEEEsps Thanks!
+146,@OriolVinyalsML,2022-02-22 17:47:05+00:00,https://twitter.com/OriolVinyalsML/status/1496179751328833537,@TLOgg @SC2ByuN #AlphaStar
+147,@OriolVinyalsML,2022-02-18 16:12:00+00:00,https://twitter.com/OriolVinyalsML/status/1494706272276516864,There is so much wind in London that our building is moving / swinging 😨😨😨 #StormEunice https://t.co/xB9M9zK6hQ
+148,@OriolVinyalsML,2022-02-17 18:23:17+00:00,https://twitter.com/OriolVinyalsML/status/1494376921974853632,@ilyasut Here is an idea: Ilya is becoming a philosopher.
+149,@OriolVinyalsML,2022-02-14 20:31:31+00:00,https://twitter.com/OriolVinyalsML/status/1493322031462600704,@wojczarnecki AlphaLove? AlphaWoj? GL HF to whoever is brave enough to play it : )
+150,@OriolVinyalsML,2022-02-14 17:57:42+00:00,https://twitter.com/OriolVinyalsML/status/1493283321127780352,"@svlevine Cool thread! Did you mean to say combine BC and offline RL? Or any RL? Combining BC and RL (online) is one of the most powerful ways to solve hard problems, and what AlphaGo and AlphaStar did for other examples : )"
+151,@OriolVinyalsML,2022-02-11 15:57:00+00:00,https://twitter.com/OriolVinyalsML/status/1492165782276554756,Google Maps 2.0 aka Neural Google Maps aka NERF Google Maps. Amazing!
+152,@OriolVinyalsML,2022-02-09 15:28:44+00:00,https://twitter.com/OriolVinyalsML/status/1491433893459017732,@inf800 Alt answer: SGD
+153,@OriolVinyalsML,2022-02-03 21:58:50+00:00,https://twitter.com/OriolVinyalsML/status/1489357737347661829,@uhoelzle @demishassabis Maybe: take bad code and make it readable with ML and make it good? 🤯
+154,@OriolVinyalsML,2022-02-03 12:09:02+00:00,https://twitter.com/OriolVinyalsML/status/1489209311725330436,@JCornebise Oreo : ) Thanks Julien!!
+155,@OriolVinyalsML,2022-02-03 11:00:06+00:00,https://twitter.com/OriolVinyalsML/status/1489191961324052482,@samipddd @codeforces 41B was probably undertrained.
+156,@OriolVinyalsML,2022-02-02 22:17:57+00:00,https://twitter.com/OriolVinyalsML/status/1489000163293151237,"@xinyun_chen_ @liyuajia You did amazingly, congrats and come back soon! : )"
+157,@OriolVinyalsML,2022-02-02 17:29:23+00:00,https://twitter.com/OriolVinyalsML/status/1488927542274834439,"@ethancaballero @ilyasut @OpenAI It's great work, hopefully not the last! : ) LSTMs had almost no citations for over a decade!"
+158,@OriolVinyalsML,2022-02-02 16:43:57+00:00,https://twitter.com/OriolVinyalsML/status/1488916106144362501,@vigoexiste @DotCSV Por si queda alguna duda: Si : )
+159,@OriolVinyalsML,2022-02-02 16:22:26+00:00,https://twitter.com/OriolVinyalsML/status/1488910691369164809,"#AlphaCode: a drastic version of seq2seq &amp; search. The Bitter Lesson strikes again, exposing the power of general methods that scale w/ increased compute! Like AlphaStar, an agent outperforms me at something I love, competitive programming 🤣 @codeforces
+
+https://t.co/QV3ZcEcGQZ https://t.co/SoWdf40iJM"
+160,@OriolVinyalsML,2022-01-24 15:03:43+00:00,https://twitter.com/OriolVinyalsML/status/1485629390704848899,@sedielem ε=1e-5 works much better : )
+161,@OriolVinyalsML,2022-01-22 22:20:24+00:00,https://twitter.com/OriolVinyalsML/status/1485014510813519873,@NielsRogge The link at the bottom in https://t.co/tOw0vVomut links to the full paper (all our papers are freely available through our website).
+162,@OriolVinyalsML,2022-01-21 13:26:39+00:00,https://twitter.com/OriolVinyalsML/status/1484517799833788417,"@thjashin @CsabaSzepesvari Thanks! Kernels is how I got into ML, my very first paper used Kernel SVMs but expressed the kernel as a Taylor expansion where the coefficients were learned 😀"
+163,@OriolVinyalsML,2022-01-13 17:49:48+00:00,https://twitter.com/OriolVinyalsML/status/1481684923333369856,"@mariatta I have used ""assert False"" far too many times, for debugging purposes ; ) #MLcode"
+164,@OriolVinyalsML,2022-01-12 09:41:31+00:00,https://twitter.com/OriolVinyalsML/status/1481199651894317056,"Another great example of ""The Deep Learning Devil is in the Details""."
+165,@OriolVinyalsML,2022-01-11 16:48:36+00:00,https://twitter.com/OriolVinyalsML/status/1480944746994577419,@soumithchintala Everything is a ConvNet.
+166,@OriolVinyalsML,2022-01-06 11:50:41+00:00,https://twitter.com/OriolVinyalsML/status/1479057833962450944,"@nojustesen @StarCraft @Nature Good question -- we haven't run online RL recently, but I think it should improve to have LSTMs or some form of memory."
+167,@OriolVinyalsML,2022-01-05 22:15:01+00:00,https://twitter.com/OriolVinyalsML/status/1478852563176935430,"@aichip1 Thanks, that was a fun talk to prepare : )"
+168,@OriolVinyalsML,2022-01-05 16:47:49+00:00,https://twitter.com/OriolVinyalsML/status/1478770220181463045,"This could not have been possible without great collaborators from @DeepMind &amp; beyond, and the amazing research community, who keep pushing the boundaries of what's possible with machine learning whilst trying to make our field better &amp; more inclusive. Looking forward to 2021++!"
+169,@OriolVinyalsML,2022-01-05 16:46:52+00:00,https://twitter.com/OriolVinyalsML/status/1478769980820836353,"Linking many of the exciting topics of the year, I gave a talk @stanfordnlp about how many advances in NLP created some of the breakthroughs in agents, architectures, vision, and biology.
+ 
+Talk: https://t.co/DycCW5qIcF https://t.co/bxWnDqTaxZ"
+170,@OriolVinyalsML,2022-01-05 16:46:50+00:00,https://twitter.com/OriolVinyalsML/status/1478769974571409413,"AlphaFold. Last, but not least, one of the greatest breakthroughs in 2021 as highlighted by @Nature and @ScienceMagazine was AlphaFold, a system capable of predicting how proteins fold from their sequence of amino acids.
+ 
+Paper: https://t.co/NTQvaHdCyz https://t.co/bi1TEwTFYg"
+171,@OriolVinyalsML,2022-01-05 16:46:49+00:00,https://twitter.com/OriolVinyalsML/status/1478769967957000193,"Self-supervised learning. With a simple modification to the contrastive learning objectives found in CPC, InfoNCE, SimCLR, etc., we showed how to learn useful representations beyond classification with ~10x efficiency gains.
+ 
+Paper: https://t.co/9qm643yOVm https://t.co/7ZLBfWqqHs"
+172,@OriolVinyalsML,2022-01-05 16:46:47+00:00,https://twitter.com/OriolVinyalsML/status/1478769962433093635,"RL &amp; language intersection. We proposed what I consider a more general &amp; powerful version of AlphaGo and MuZero, using VQVAEs for planning via MCTS. I'm excited to see where these models and ideas take us in even more complex environments.
+ 
+Paper: https://t.co/thvB6Ke1EA https://t.co/pUmTi1tlZ6"
+173,@OriolVinyalsML,2022-01-05 16:46:46+00:00,https://twitter.com/OriolVinyalsML/status/1478769956321783808,"Language. We also pushed few shot learning capabilities of LMs towards multimodal settings, proposed a new benchmark for graphs + text, and tested ideas from AlphaGo in machine translation.
+ 
+Papers: https://t.co/urRJh2OWWr
+https://t.co/fPu6Gg9CBU
+https://t.co/NJPWw7rfa6 https://t.co/PORNPa4QpH"
+174,@OriolVinyalsML,2022-01-05 16:43:23+00:00,https://twitter.com/OriolVinyalsML/status/1478769103007531020,"AlphaStar. After a small break, we took the challenge of learning @StarCraft using only human games, ie, without playing it via offline RL. The agent is 400 ELO stronger than @Nature AlphaStar. We expect to open source everything in early 2022.
+ 
+Preview: https://t.co/xUUCNUO0Ji https://t.co/wGHBfXRb0Z"
+175,@OriolVinyalsML,2022-01-05 16:41:17+00:00,https://twitter.com/OriolVinyalsML/status/1478768574944755717,"Perceiver. Being able to treat every modality as a sequence of bytes has been a personal deep learning dream. Perceiver is a transformer-derived architecture proposing a few modifications to achieve this.
+
+Papers: https://t.co/eguDP0TrwZ &amp; https://t.co/NTFyLPJMkB https://t.co/O3VMbOUOpr"
+176,@OriolVinyalsML,2022-01-05 16:41:03+00:00,https://twitter.com/OriolVinyalsML/status/1478768518808154114,"Diversity and inclusion. I kept engaged through our efforts @DeepMind, mentorship and as a member of @Khipu_AI community, supporting AI in Latin America, where we had a fireside chat w/ @geoffreyhinton (https://t.co/5Lg1UYBW3Y). I was also a mentor for: https://t.co/mxXW4hekEd"
+177,@OriolVinyalsML,2022-01-05 16:41:03+00:00,https://twitter.com/OriolVinyalsML/status/1478768516920717317,"2021 personal highlights, a🧵. Despite being a challenging year globally due to the pandemic 😷🦠, but thanks to many incredible collaborators, it's been an exciting year research-wise 🤖 Some highlights below.👇"
+178,@OriolVinyalsML,2021-12-08 17:11:00+00:00,https://twitter.com/OriolVinyalsML/status/1468629193718218759,"This is a great thread, +1e100. @karpathy didn't mention my (biased!) favorite example of 2021. Models designed to generate words (transformers) &amp; model language (BERT) were reused in #AlphaFold to solve the protein folding problem, mapping a bunch of letters, to 3D coordinates🤯"
+179,@OriolVinyalsML,2021-12-06 18:08:12+00:00,https://twitter.com/OriolVinyalsML/status/1467918812502708225,"From https://t.co/fRbFdfoa3t, what we did on #MNIST is to entirely remove a single class from the training set, and showed that distillation was able to still classify that ""mythical digit"" successfully. In the new paper, they show you can ignore all classes / supervision. 👍👍👍 https://t.co/9gnZ63KzRw"
+180,@OriolVinyalsML,2021-12-06 18:08:11+00:00,https://twitter.com/OriolVinyalsML/status/1467918807876448261,"""Extrapolating from a Single Image to a Thousand Classes using Distillation"". Good title! @geoffreyhinton actually tried something like this in the original distillation paper. He called it ""mythical digits"" 🦄😆🧵👇
+
+https://t.co/uAo0bsXl6I
+cc @y_m_asano @aaqib_saeed https://t.co/emZK89dZYI"
+181,@OriolVinyalsML,2021-11-16 18:39:15+00:00,https://twitter.com/OriolVinyalsML/status/1460678870034796549,"@ctnzr I love DLSS, congrats! Also, 6AM is a weird time for an embargo, no? : ) (see pic) https://t.co/V7OoxdFbi4"
+182,@OriolVinyalsML,2021-11-15 18:40:10+00:00,https://twitter.com/OriolVinyalsML/status/1460316712952385540,"I will be a mentor at this wonderful event -- sign up soon before it's too late : ) Mentoring is one of my favorite things to do, as at least for me it is a great learning experience!"
+183,@OriolVinyalsML,2021-11-12 18:49:01+00:00,https://twitter.com/OriolVinyalsML/status/1459231776291889152,Image created by @chrisantha_f &amp; @MirowskiPiotr
+184,@OriolVinyalsML,2021-11-12 18:49:00+00:00,https://twitter.com/OriolVinyalsML/status/1459231774068854785,"The intersection of AI + Art is fascinating! Our take on this is presented in Arnheim 2. As an example of what you could do with it, a drawing of @ylecun using only MNIST digits. #yamnist
+
+Source code: https://t.co/n6QhyfHscy
+Upcoming AI+Art NeurIPS Workshop: @ML4CDworkshop https://t.co/NYrmZMNA0z"
+185,@OriolVinyalsML,2021-11-12 13:10:57+00:00,https://twitter.com/OriolVinyalsML/status/1459146699587399683,"@schrep @ylecun Congrats to the authors, super cool! Chau Tran, @shruti_bhosale, James Cross, Philipp Koehn, @edunov, Angela Fan"
+186,@OriolVinyalsML,2021-11-05 19:47:01+00:00,https://twitter.com/OriolVinyalsML/status/1456709656248782854,"The Deep Learning Devil is in the Details. I love this work from @IrwanBello and collaborators in which they show how training ""tricks"" improve ~3% absolute accuracy on ImageNet, progress equivalent to years of developments and research!
+
+Paper: https://t.co/oA6MDfq1XB https://t.co/auvM5yrt01"
+187,@OriolVinyalsML,2021-10-29 17:50:03+00:00,https://twitter.com/OriolVinyalsML/status/1454143506210082826,"We released a few self-play games of AlphaStar vs AlphaStar as part of their training, brought to you by @LaughNgamez. Some unusual @StarCraft never seen before : )
+
+https://t.co/WVD7oMKhhH"
+188,@OriolVinyalsML,2021-10-26 17:11:31+00:00,https://twitter.com/OriolVinyalsML/status/1453046646187728904,@ankesh_anand @sherjilozair @ericjang11 We asked it to play at 6200. We got a 4000 agent evaluated on https://t.co/vU1ZeJSK0S. So no : )
+189,@OriolVinyalsML,2021-10-26 17:10:56+00:00,https://twitter.com/OriolVinyalsML/status/1453046499315752964,"@ericjang11 @sherjilozair From supplementary material @Nature: ""mmr: During supervised learning, this is the MMR of the player we are trying to imitate. Elsewhere, this is fixed at 6200. MMR is mapped to a one-hot of min(mmr / 1000, 6) with maximum 6, then passed through a linear of size 64 and a ReLU"""
+190,@OriolVinyalsML,2021-10-06 07:11:41+00:00,https://twitter.com/OriolVinyalsML/status/1445647936080154629,@gordic_aleksa @DeepMind Congrats and see you soon. GL HF : )
+191,@OriolVinyalsML,2021-10-01 12:11:27+00:00,https://twitter.com/OriolVinyalsML/status/1443911434363154440,@catalinacangea @DeepMind CU soon!
+192,@OriolVinyalsML,2021-09-30 16:53:00+00:00,https://twitter.com/OriolVinyalsML/status/1443619901084614662,"The Deep Learning team is looking for interns, consider applying to work with us! Some projects our past interns have worked on: discovering the VAE ""posterior collapse"", VQ MuZero, AlphaStar, &amp; more!"
+193,@OriolVinyalsML,2021-09-08 17:10:57+00:00,https://twitter.com/OriolVinyalsML/status/1435651884551913476,cc @paperswithcode @paperswithdata
+194,@OriolVinyalsML,2021-09-08 17:10:56+00:00,https://twitter.com/OriolVinyalsML/status/1435651882526072843,"If you love Graph Neural Nets, language &amp; Wikipedia, this is for you! We open sourced data &amp; baselines for the challenging task of generating text from knowledge graphs (&amp; vice versa!) #graph2seq #seq2graph #WikiGraphs
+
+Source https://t.co/bixMdH0WLn
+Paper https://t.co/fPu6Ggre0u"
+195,@OriolVinyalsML,2021-08-20 15:52:36+00:00,https://twitter.com/OriolVinyalsML/status/1428746800798777351,"@maithra_raghu Abstract should start with ""No. &lt;Insert Current Abstract&gt;"" : )"
+196,@OriolVinyalsML,2021-08-09 16:28:00+00:00,https://twitter.com/OriolVinyalsML/status/1424769440588042241,"Four years ago, we open sourced pysc2. Deep Learning + RL then went from solving some ""simple"" tasks using @StarCraft, to becoming GrandMaster a couple years later with #AlphaStar. Good memories &amp; fun / humble beginnings!"
+197,@OriolVinyalsML,2021-08-03 20:17:42+00:00,https://twitter.com/OriolVinyalsML/status/1422652919476887554,"Perceiver is an architecture based on Transformers and derived ideas (e.g., Set Transformers) that allow you to create a learned ""bottleneck"" so that you can process ""any"" modality. Simple, effective, and just ""wants to work""."
+198,@OriolVinyalsML,2021-08-03 07:44:35+00:00,https://twitter.com/OriolVinyalsML/status/1422463390891585554,@DaniCMBelg @DeepMind Welcome!!
+199,@OriolVinyalsML,2021-07-29 08:27:24+00:00,https://twitter.com/OriolVinyalsML/status/1420662227766587394,@wojczarnecki Super nice and exciting with beautiful visuals! Can you create a StarCraft level? 🤯
+200,@OriolVinyalsML,2021-07-28 11:11:31+00:00,https://twitter.com/OriolVinyalsML/status/1420341141753499649,"@judithjuanhuix Moltes gràcies, Judith!"
+201,@OriolVinyalsML,2021-07-27 22:02:05+00:00,https://twitter.com/OriolVinyalsML/status/1420142475201683458,Good thread / summary of the fireside chat today with @geoffreyhinton!
+202,@OriolVinyalsML,2021-07-27 08:27:56+00:00,https://twitter.com/OriolVinyalsML/status/1419937586622119959,"@HassanLHijazi @Montreal_AI Fair point. Tweets are too short : ) I meant no structure like speech, vision, sound, language, physics, etc. (areas in which DL has proved quite successful). There are definitely correlations to be exploited in CO which is (probably) how this works."
+203,@OriolVinyalsML,2021-07-26 17:27:58+00:00,https://twitter.com/OriolVinyalsML/status/1419711103681105923,"Combinatorial Optimization is the ""anti"" Deep Learning domain: no structure and extremely non-smooth. It is nonetheless exciting to see what DL can do on these. Here, (and with a little help from classical solvers), we show some cool results at scale!"
+204,@OriolVinyalsML,2021-07-25 16:20:48+00:00,https://twitter.com/OriolVinyalsML/status/1419331811042381825,"More details:
+-Event time: Tuesday, July 27h, 17hs Brasilia (UTC-3)
+-Slack for the @Khipu_AI 2021 Event Series: https://t.co/baHV3Ysuny
+-There will be a post-event social gathering to have a more informal chat with the LATAM &amp; AI community!"
+205,@OriolVinyalsML,2021-07-25 16:20:47+00:00,https://twitter.com/OriolVinyalsML/status/1419331809658253314,"I was introduced to DL by this Matlab code to classify MNIST from https://t.co/JnhrgrPGiv. This changed my career &amp; that of many others. Very excited &amp; nervous to host a fireside chat w/ @geoffreyhinton in the wonderful @Khipu_AI AI series. Don't miss it!
+https://t.co/DPQFCTKhf3"
+206,@OriolVinyalsML,2021-07-23 17:14:21+00:00,https://twitter.com/OriolVinyalsML/status/1418620510410362882,"Also, I'll never get tired to point this out: datasets enabled breakthroughs as much as the techniques that made it possible. A few favorites: WMT (Machine Translation), ImageNet (Computer Vision), PDB (Protein Folding). THANK YOU! @drfeifei @PDBeurope @buildmodels"
+207,@OriolVinyalsML,2021-07-23 17:14:20+00:00,https://twitter.com/OriolVinyalsML/status/1418620508162166788,"#AlphaFold is Deep Learning at its finest. Take a (small!) dataset of aminoacid sequences -&gt; 3D structure. Use some of the best ideas from ML, NLP, CV (transformers, GNNs, BERT, distillation), sprinkle loads of innovation for proteins (Evoformer, MSA representation), and voila. https://t.co/NHDPFN0aLg"
+208,@OriolVinyalsML,2021-07-23 16:48:22+00:00,https://twitter.com/OriolVinyalsML/status/1418613971746181127,@KyleCranmer Train a neural net to do that ; )
+209,@OriolVinyalsML,2021-07-23 15:01:57+00:00,https://twitter.com/OriolVinyalsML/status/1418587192771940352,"@mfigurnov Congrats Michael, one of the finest (deep) architects that I've ever worked with!"
+210,@OriolVinyalsML,2021-07-23 13:06:42+00:00,https://twitter.com/OriolVinyalsML/status/1418558188153098245,"@sama If you can choose* between criticizing a field because of the problems that it doesn't solve, or working on researching methods on how to solve such problems, please choose the later. Don't be a problem pointer, be a problem solver.
+
+*If you can't choose, sorry!"
+211,@OriolVinyalsML,2021-07-20 12:46:24+00:00,https://twitter.com/OriolVinyalsML/status/1417465915126464519,"@wellingmax Exciting news, best of luck!!"
+212,@OriolVinyalsML,2021-07-17 17:16:37+00:00,https://twitter.com/OriolVinyalsML/status/1416446754556420097,"A tribute to AlphaFold by VQGAN + CLIP. Can you guess the caption that generated this image from scratch?
+
+@Nature paper: https://t.co/NTQvaHdCyz
+Code: https://t.co/Cs5PYraI2b https://t.co/MnU5zQkeDn"
+213,@OriolVinyalsML,2021-07-16 07:04:43+00:00,https://twitter.com/OriolVinyalsML/status/1415930376720093186,"@saez_cristina @DeepMind @la_UPC Muy buen artículo, gracias por cubrir la noticia de AlphaFold, y por dar voz a la ciencia y tecnología @saez_cristina!"
+214,@OriolVinyalsML,2021-07-09 10:43:40+00:00,https://twitter.com/OriolVinyalsML/status/1413448763746754560,@NandoDF @ylecun -1
+215,@OriolVinyalsML,2021-07-08 20:26:31+00:00,https://twitter.com/OriolVinyalsML/status/1413233053334478848,@ylecun Happy bday! I claim the cherry : ) https://t.co/B8r6vvTpqb
+216,@OriolVinyalsML,2021-07-07 13:11:39+00:00,https://twitter.com/OriolVinyalsML/status/1412761227126874113,@yoavgo Everyone knows that 2 layers of depth are not enough. EU must go deeper.
+217,@OriolVinyalsML,2021-07-06 16:58:46+00:00,https://twitter.com/OriolVinyalsML/status/1412455998267265026,"An Image is Worth 50K Pixels: Perceivers propose convolution free image (&amp; other modalities) processing (cc @ylecun for checking lack of convs 😉).
+
+Paper (appearing @icmlconf): https://t.co/eguDP0TrwZ"
+218,@OriolVinyalsML,2021-07-05 17:11:57+00:00,https://twitter.com/OriolVinyalsML/status/1412096928192647171,@ilyasut Deep Belief Networks Are All You Need
+219,@OriolVinyalsML,2021-07-05 08:16:20+00:00,https://twitter.com/OriolVinyalsML/status/1411962133508759557,@labmlai @PyTorch @geoffreyhinton @JeffDean This is great! How long did it take from reading the paper / reimplementing / getting good results? It may be useful to provide lessons learned at the end.
+220,@OriolVinyalsML,2021-06-30 15:45:31+00:00,https://twitter.com/OriolVinyalsML/status/1410263236008685578,"@annadgoldie Yay, congrats @annadgoldie!!"
+221,@OriolVinyalsML,2021-06-30 15:36:33+00:00,https://twitter.com/OriolVinyalsML/status/1410260977719861251,"@avdnoord @techreview About WaveNet: ""His manager at DeepMind, an AI research subsidiary of Google, gave him two weeks to try it out, saying that if it didn’t work, he should move on to something else."". True story, and glad I was wrong 😳😳😳😳"
+222,@OriolVinyalsML,2021-06-30 15:16:02+00:00,https://twitter.com/OriolVinyalsML/status/1410255818180775938,"@avdnoord @techreview Amazing, congrats, very well deserved!!"
+223,@OriolVinyalsML,2021-06-29 14:31:00+00:00,https://twitter.com/OriolVinyalsML/status/1409882094239551488,"❄️Multimodal Few-Shot Learning with Frozen Language Models❄️
+
+-Freeze an LM &amp; train vision net to do captioning (simple)
+-Model can also do VQA, miniImageNet, ... (effective)
+
+Paper: https://t.co/urRJh2OWWr
+w/@mtsimpoukelli @jacobmenick @serkancabi @arkitus @FelixHill84 https://t.co/g0Dp2H8iY0"
+224,@OriolVinyalsML,2021-06-18 16:36:57+00:00,https://twitter.com/OriolVinyalsML/status/1405927526376083459,"@egrefen @demishassabis Maybe ""it's in a whale"" is correct?"
+225,@OriolVinyalsML,2021-06-18 16:31:36+00:00,https://twitter.com/OriolVinyalsML/status/1405926180436549632,@demishassabis What is this protein? Bonus points if you answer before @demishassabis!
+226,@OriolVinyalsML,2021-06-16 16:49:55+00:00,https://twitter.com/OriolVinyalsML/status/1405206011976224775,@letyrodri @NeurIPSConf @WiMLworkshop That's so cool -- how many people have you gotten?
+227,@OriolVinyalsML,2021-06-15 20:16:46+00:00,https://twitter.com/OriolVinyalsML/status/1404895680070656002,"We (still) require more MineRLs! Awesome competition to test your machine learning skills (whilst enjoying MineCraft), happening @NeurIPSConf competitions. See you there, and GL HF!!"
+228,@OriolVinyalsML,2021-06-12 13:06:13+00:00,https://twitter.com/OriolVinyalsML/status/1403700166801215498,"@usuallyuseless @yazhe_li @sherjilozair @avdnoord @catamorphist Yup, quite related indeed! (except using a bigram LM rather than neural LM)"
+229,@OriolVinyalsML,2021-06-12 13:05:20+00:00,https://twitter.com/OriolVinyalsML/status/1403699940837167109,"@FilipoGiovanni @yazhe_li @sherjilozair @avdnoord @catamorphist You'd train them jointly. The LM is already part of My zero, but you'd want to update the VQVAE online."
+230,@OriolVinyalsML,2021-06-11 16:20:38+00:00,https://twitter.com/OriolVinyalsML/status/1403386703403008000,"MuZero removed simulators in MBRL vs AlphaGo. VQ Models for Planning generalize to partial observable &amp; stochastic environments. How?
+
+1. Discretize states w/ VQVAE
+2. Train a LM over states
+3. Plan w/ MCTS using the LM
+
+Led by @yazhe_li &amp; @sherjilozair 
+https://t.co/thvB6Ke1EA https://t.co/tsXGcrweTZ"
+231,@OriolVinyalsML,2021-06-10 10:14:47+00:00,https://twitter.com/OriolVinyalsML/status/1402932246785540098,@wellingmax Congrats!!!
+232,@OriolVinyalsML,2021-06-09 20:08:19+00:00,https://twitter.com/OriolVinyalsML/status/1402719227652476930,"@marcgbellemare @Azaliamirh @annadgoldie Tetris, anyone? : )"
+233,@OriolVinyalsML,2021-06-09 18:46:00+00:00,https://twitter.com/OriolVinyalsML/status/1402698512618426375,"@annadgoldie Congrats! I feel privileged to have followed along the journey as an observer, but so good to see the final product so polished :)"
+234,@OriolVinyalsML,2021-06-07 12:21:26+00:00,https://twitter.com/OriolVinyalsML/status/1401876955616747524,"@thomaskipf @janundnik @neilbband @clarelyle @AidanNGomez @tom_rainforth @yaringal @OATML_Oxford @vgsatorras @joanbruna Can of worms alert 🪱🪱🪱, but Matching Networks also used attention between data points. I'd be surprised if it was the first, though : ) https://t.co/1cuNs9AkIx"
+235,@OriolVinyalsML,2021-06-01 20:56:49+00:00,https://twitter.com/OriolVinyalsML/status/1399832326994108416,"@Azaliamirh Congrats on the paper, looking forward to reading it! Did you use ML to navigate the 10^2300 design space?"
+236,@OriolVinyalsML,2021-05-29 06:31:16+00:00,https://twitter.com/OriolVinyalsML/status/1398527341043855363,@Pau_Lozano99 Una altra dada interessant és que el paper va ser rebutjat de NeurIPS 2014 :(
+237,@OriolVinyalsML,2021-05-28 20:45:29+00:00,https://twitter.com/OriolVinyalsML/status/1398379923547508738,@minakhan01 Sure!
+238,@OriolVinyalsML,2021-05-28 19:23:35+00:00,https://twitter.com/OriolVinyalsML/status/1398359316059590665,Few Shot Learning Is All You Need #vaccinated #NeurIPS2021 https://t.co/zTeluaqxKL
+239,@OriolVinyalsML,2021-05-25 20:00:32+00:00,https://twitter.com/OriolVinyalsML/status/1397281448961449986,"@EthanJPerez @douwekiela @kchonyc Cool and important work, nicely done Ethan &amp; co!"
+240,@OriolVinyalsML,2021-05-19 18:10:43+00:00,https://twitter.com/OriolVinyalsML/status/1395079488225042432,"Turns out this is what I was optimizing for all along : )
+
+🧢🧢🧢 https://t.co/XkOZr9Em1Q https://t.co/qcHM9Wzthi"
+241,@OriolVinyalsML,2021-05-12 17:30:57+00:00,https://twitter.com/OriolVinyalsML/status/1392532765216808962,@yaroslav_ganin Drastic! SPIRAL has come a long way : )
+242,@OriolVinyalsML,2021-05-06 13:05:58+00:00,https://twitter.com/OriolVinyalsML/status/1390291749046788103,"@liyuajia Yup, that too -- a bit too early for this type of work. Sometimes, being too early in research hurts your chances of being published!"
+243,@OriolVinyalsML,2021-05-06 12:39:37+00:00,https://twitter.com/OriolVinyalsML/status/1390285119961935875,"@y0b1byte @liyuajia @redpony @rpascanu @PeterWBattaglia ""I really liked this paper. I wonder why it hasn't been published and where does the negative feedback might have come from. What's the history behind this preprint?"" -&gt; Rejected due to the method being too slow : )"
+244,@OriolVinyalsML,2021-05-05 23:19:42+00:00,https://twitter.com/OriolVinyalsML/status/1390083813716463621,"@neilhoulsby @NandoDF ""Per-patch Fully connected"", AKA convolution? : )"
+245,@OriolVinyalsML,2021-05-05 21:15:56+00:00,https://twitter.com/OriolVinyalsML/status/1390052666219323395,"@zeynepakata @confusezius @ELLISforEurope @uni_tue Likewise, super exciting!"
+246,@OriolVinyalsML,2021-04-29 17:01:12+00:00,https://twitter.com/OriolVinyalsML/status/1387814233677524992,Linear Algebra and Calculus is really all you need.
+247,@OriolVinyalsML,2021-04-28 19:41:24+00:00,https://twitter.com/OriolVinyalsML/status/1387492161457950722,"@ileena_mitra @ucsd_cse @UCSanDiego Thanks for attending! I didn't talk much about it today, but self-supervised learning is a great way to improve efficiency and prediction under limited data settings."
+248,@OriolVinyalsML,2021-04-28 14:44:28+00:00,https://twitter.com/OriolVinyalsML/status/1387417437424033794,@FelixHill84 @roger_p_levy A class project with @roger_p_levy is what motivated me to work on sequences -- more in the talk : )
+249,@OriolVinyalsML,2021-04-28 14:37:54+00:00,https://twitter.com/OriolVinyalsML/status/1387415783987417088,cc @roger_p_levy
+250,@OriolVinyalsML,2021-04-28 14:33:13+00:00,https://twitter.com/OriolVinyalsML/status/1387414605333401605,@wesleysanders7 @RemiLeblond 90% likelihood : )
+251,@OriolVinyalsML,2021-04-28 13:55:50+00:00,https://twitter.com/OriolVinyalsML/status/1387405199380291584,"Honoured to be giving a keynote @ucsd_cse in a few hours! It's always good to look back at your origins and where you come from. @UCSanDiego for me was the beginning of a love story with sequences, which changed my (research) life. 
+
+Sign up here: https://t.co/HECS44iVkt"
+252,@OriolVinyalsML,2021-04-23 15:16:12+00:00,https://twitter.com/OriolVinyalsML/status/1385613484810022916,"@james_r_lucas @goodfellow_ian @SaxeLab Quite curious to read this! That paper felt very out of distribution at the time (2014), which may explain why now someone else is taking another look :)"
+253,@OriolVinyalsML,2021-04-15 14:41:04+00:00,https://twitter.com/OriolVinyalsML/status/1382705537561808914,"Thanks for posting @CaroPetitjean! 
+
+Here are the slides: https://t.co/RwWqFnZset https://t.co/hQxZDKh5RG"
+254,@OriolVinyalsML,2021-04-13 19:02:24+00:00,https://twitter.com/OriolVinyalsML/status/1382046529364561922,@_joaogui1 @Khipu_AI @data_icmc Thanks for featuring our paper in the opening week!
+255,@OriolVinyalsML,2021-04-09 07:22:32+00:00,https://twitter.com/OriolVinyalsML/status/1380420849023483908,@balajiln @icmlconf @DanHendrycks @SharonYixuanLi @latentjasper @tdietterich @csilviavr @sebnowozin Certainly an interesting topic!
+256,@OriolVinyalsML,2021-04-06 20:16:16+00:00,https://twitter.com/OriolVinyalsML/status/1379528402424709125,"I am proud to have been the very first report of Samy Bengio. His kindness, values, and leadership, is what I pursue as a manager. Thank you, Samy!
+
+https://t.co/2MQj6cuIG5"
+257,@OriolVinyalsML,2021-04-02 11:05:49+00:00,https://twitter.com/OriolVinyalsML/status/1377940328720793601,Congrats! When will we get a (short) neural animated movie? : )
+258,@OriolVinyalsML,2021-03-02 17:23:30+00:00,https://twitter.com/OriolVinyalsML/status/1366801350361833472,"Love the condensed / ""TLDR"" style format 😍. Thanks @y0b1byte for featuring our work on program induction! 💻"
+259,@OriolVinyalsML,2021-02-25 18:28:38+00:00,https://twitter.com/OriolVinyalsML/status/1365005802847764482,"2016 -&gt; 2021 Understanding Deep Learning (Still) Requires Rethinking Generalization
+A ""refreshed"" version of our paper from 2016, with a cool perspective from @prfsanjeevarora @TheOfficialACM
+
+Perspective: https://t.co/tc24cBl1m1
+Paper: https://t.co/f3OKxTcbdQ"
+260,@OriolVinyalsML,2021-02-10 12:35:21+00:00,https://twitter.com/OriolVinyalsML/status/1359481075727228929,@FortunatoMeire Math -&gt; ML -&gt; Math -&gt; ??? (ML of course!)
+261,@OriolVinyalsML,2021-02-01 21:47:01+00:00,https://twitter.com/OriolVinyalsML/status/1356358419876372480,@arnauvidal : )
+262,@OriolVinyalsML,2021-01-31 18:12:17+00:00,https://twitter.com/OriolVinyalsML/status/1355941991524261888,"@ajaydiv @vialliure @rac1 Those are the trickiest : ) The more I do these the more I ""relearn"" the terms. But mixing in English technical terms happens a lot, too."
+263,@OriolVinyalsML,2021-01-31 16:35:09+00:00,https://twitter.com/OriolVinyalsML/status/1355917545757433857,"A privilege being able to talk about my passion in my native tongue, Catalan : ) Thanks @vialliure @rac1!"
+264,@OriolVinyalsML,2021-01-21 16:28:50+00:00,https://twitter.com/OriolVinyalsML/status/1352292077653151746,I am seriously considering a more drastic version of this: tweet IS paper.
+265,@OriolVinyalsML,2021-01-18 21:35:06+00:00,https://twitter.com/OriolVinyalsML/status/1351281988947357699,"@WonderMicky @DeepMind Welcome, I didn't know you were joining!"
+266,@OriolVinyalsML,2021-01-14 08:58:58+00:00,https://twitter.com/OriolVinyalsML/status/1349642150707867648,@ilyasut Good luck keeping the country fully connected (as in the logo).
+267,@OriolVinyalsML,2021-01-13 19:38:51+00:00,https://twitter.com/OriolVinyalsML/status/1349440795531735046,@jcllobet Can't update tweets sadly! @Twitter ; )
+268,@OriolVinyalsML,2021-01-07 17:46:05+00:00,https://twitter.com/OriolVinyalsML/status/1347238089077497865,@_oleh Nice find : )
+269,@OriolVinyalsML,2021-01-07 16:36:22+00:00,https://twitter.com/OriolVinyalsML/status/1347220543498498048,@sunilmallya How about the other two? : )
+270,@OriolVinyalsML,2021-01-07 16:31:04+00:00,https://twitter.com/OriolVinyalsML/status/1347219209382715392,"Here I show the most similar image in the web on the right, with the generated one on the left. Bonus points if you can correctly caption the image on the left : ) https://t.co/SxvA9KT14E"
+271,@OriolVinyalsML,2021-01-07 16:31:03+00:00,https://twitter.com/OriolVinyalsML/status/1347219207927320581,"Neural networks still surprise me as rich information retrieval systems. The generalization and ""creativity"" exhibited by @OpenAI's DALL·E is amazing! Good luck finding these images in the training distribution (see thread). https://t.co/twQRunj8Rz"
+272,@OriolVinyalsML,2021-01-06 22:33:33+00:00,https://twitter.com/OriolVinyalsML/status/1346948045376638977,@AndrewYNg Best of luck.
+273,@OriolVinyalsML,2021-01-01 00:37:35+00:00,https://twitter.com/OriolVinyalsML/status/1344804930448711681,2020++

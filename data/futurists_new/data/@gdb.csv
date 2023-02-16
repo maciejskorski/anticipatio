@@ -1,0 +1,685 @@
+,0,1,2,3
+0,@gdb,2023-02-16 18:02:18+00:00,https://twitter.com/gdb/status/1626280825942867969,"How ChatGPT’s behaviors are determined, and how we think it should work in the future — including thoughts on giving users much more control &amp; early ideas around public input: https://t.co/KkBYPCbVmB"
+1,@gdb,2023-02-16 06:31:18+00:00,https://twitter.com/gdb/status/1626106929964814336,"Interesting blog post on learnings from the first week of the new Bing: https://t.co/GAKrOCLZTn
+
+Cool to see chat is working well: ""The ease of use and approachability of chat has been an early success [...] people are using it as a tool for more general discovery of the world""."
+2,@gdb,2023-02-12 17:00:10+00:00,https://twitter.com/gdb/status/1624815637309820928,"Most amazing fact about AI is that even though it’s starting to feel impressive, a year from now we’ll look back fondly on the AI that exists today as quaint &amp; antiquated.
+
+Equal cause for excitement and deliberative caution — important to get the tech and its deployment right."
+3,@gdb,2023-02-11 23:20:28+00:00,https://twitter.com/gdb/status/1624548957857910785,Browser-native “shorten webpage” feature. AI features starting to appear in interfaces near you:
+4,@gdb,2023-02-11 07:11:02+00:00,https://twitter.com/gdb/status/1624304988553084929,ChatGPT Plus now rolling out internationally!
+5,@gdb,2023-02-10 18:40:28+00:00,https://twitter.com/gdb/status/1624116102967205888,Kind of crazy that a computing device designed for desktop gaming has become critical to the emergence of super useful AI systems.
+6,@gdb,2023-02-09 17:12:35+00:00,https://twitter.com/gdb/status/1623731598989594625,"Thing that stands out about current AI buzz is an unfamiliar realistic optimism, about the field specifically and tech generally.
+
+Still very early days (and plenty of concerns!) for AI, but seems like people are sensing tremendous opportunities personally and for society."
+7,@gdb,2023-02-09 05:10:46+00:00,https://twitter.com/gdb/status/1623549946879442946,@levie 😅❤️
+8,@gdb,2023-02-08 21:10:38+00:00,https://twitter.com/gdb/status/1623429117923446784,"In AI, too often debates are “which is more important, ideas or execution.” Wrong question since both are critical, though seems clear that execution tends to be more undervalued."
+9,@gdb,2023-02-08 16:43:00+00:00,https://twitter.com/gdb/status/1623361767375269890,"One thing I admire about @BillGates—issuing challenges to change his mind:
+
+“If you show me [neural net that passes AP bio], then I will say that it has the ability to represent things in a deeply abstract form, that’s more than just statistical things”
+
+https://t.co/gaBQbEizge"
+10,@gdb,2023-02-07 22:30:02+00:00,https://twitter.com/gdb/status/1623086714049957888,"Everyone talking about the future of search, but I'm particularly excited about the future of the browser — Edge will now include an AI assistant that can help you anywhere on the web.
+
+Really starting to point at the future of UI: https://t.co/QK95UtVt5W"
+11,@gdb,2023-02-07 19:01:32+00:00,https://twitter.com/gdb/status/1623034241767608320,Copilot for the web: https://t.co/5rexZox3Bd
+12,@gdb,2023-02-07 00:28:56+00:00,https://twitter.com/gdb/status/1622754248630091777,"Was reflecting today on how far AI alignment has come, from being entirely a fringe concern to a critical product feature.
+
+Other aspects of AI safety out of limelight (e.g. capability prediction, monitoring for power-seeking, supervising self-improving agents); may change too!"
+13,@gdb,2023-02-06 19:49:45+00:00,https://twitter.com/gdb/status/1622683988736479232,Manual inspection of data has probably the highest value-to-prestige ratio of any activity in machine learning.
+14,@gdb,2023-02-04 22:22:34+00:00,https://twitter.com/gdb/status/1621997670188593152,"Programming is a way to convert an abstract description of a process into value. Machine learning is a way to convert inputs and outputs of a process you can’t describe into value.
+
+Much harder to get an ML system off the ground, but the upside is correspondingly much higher too."
+15,@gdb,2023-02-04 04:13:50+00:00,https://twitter.com/gdb/status/1621723680467456000,Agreed:
+16,@gdb,2023-02-03 17:19:15+00:00,https://twitter.com/gdb/status/1621558950733971461,Have never seen a team working as hard or as tightly as people at OpenAI right now:
+17,@gdb,2023-02-03 17:03:38+00:00,https://twitter.com/gdb/status/1621555018691399681,Optimistic realism is underrated.
+18,@gdb,2023-02-03 05:25:13+00:00,https://twitter.com/gdb/status/1621379257447632896,"GPT-3 API is still the hardest single project I've worked on. Most common startup mistake is to start with a technology, rather than a user problem to solve — but working on one problem would sacrifice AGI focus. So felt like it probably wouldn't work, but had to push through."
+19,@gdb,2023-02-03 02:48:07+00:00,https://twitter.com/gdb/status/1621339721833267200,@chrisdancy Had a few hotly-contested beanbags :).
+20,@gdb,2023-02-03 02:22:55+00:00,https://twitter.com/gdb/status/1621333381836570627,"When starting OpenAI, we thought hard about what job titles to use—didn't want to bucket people into researchers &amp; engineers. Alan Kay advised that they used ""Member of Technical Staff"" at Xerox Parc, we loved &amp; adopted it. Recently have seen many companies doing same—very cool!"
+21,@gdb,2023-02-01 18:16:04+00:00,https://twitter.com/gdb/status/1620848473871638528,"We're piloting ChatGPT Plus, a $20/mo subscription for faster response times and reliability during peak hours: https://t.co/ZDK37w9MIs"
+22,@gdb,2023-01-31 22:04:40+00:00,https://twitter.com/gdb/status/1620543613330690049,"We are piloting the initial version of a tool to distinguish AI-written &amp; human-written text. Works for AI text from a variety of providers.
+
+Looking for feedback on the tool itself, and broad input on the topic of identifying AI-written text: https://t.co/u1yJi63SZJ"
+23,@gdb,2023-01-31 18:14:09+00:00,https://twitter.com/gdb/status/1620485604554469377,"@rahulsde This position is SF only, but in general for exceptional candidates we do consider remote."
+24,@gdb,2023-01-31 18:10:50+00:00,https://twitter.com/gdb/status/1620484767325245441,"Seeking software engineers across frontend/backend/infra to help us scale &amp; improve ChatGPT who can join ASAP.
+
+Looking for track record of building great products with a team.
+
+Describe an exceptional accomplishment, area(s) of expertise, &amp; ideal start date to gdb@openai.com."
+25,@gdb,2023-01-30 18:47:25+00:00,https://twitter.com/gdb/status/1620131587122929664,😅 https://t.co/3S5K9V0dzH
+26,@gdb,2023-01-28 17:46:06+00:00,https://twitter.com/gdb/status/1619391379666534400,@prla Find small ways to get it out sooner — eg share with some trusted friends.
+27,@gdb,2023-01-28 17:41:27+00:00,https://twitter.com/gdb/status/1619390209543770112,"It is amazing how much positive velocity is created by putting something, no matter how barebones, in front of users. Delivering something useful forces you to level up your thinking &amp; execution, and your cherished ideas get quickly validated or disproven."
+28,@gdb,2023-01-27 16:38:21+00:00,https://twitter.com/gdb/status/1619011942668197889,One lesson from AI progress is it’s hard to predict the relative difficulties of various skills; one lesson from AI limitations is that humans are much more capable than we give ourselves credit for.
+29,@gdb,2023-01-23 21:40:56+00:00,https://twitter.com/gdb/status/1617638538350325766,"Really special group of people at OpenAI. Trying not to grow too fast; easy to lose the feeling of talent density. That being said, we need more help to achieve the mission, so we're growing carefully &amp; deliberately: https://t.co/omZ1h7EM8P"
+30,@gdb,2023-01-23 17:32:28+00:00,https://twitter.com/gdb/status/1617576007904677890,Microsoft + OpenAI = amazing technology available safely &amp; usefully to the world. So much to build as we pursue our mission of ensuring AGI benefits all of humanity:
+31,@gdb,2023-01-23 01:14:31+00:00,https://twitter.com/gdb/status/1617329899827761154,@MohamedShazli19 Yes.
+32,@gdb,2023-01-21 21:57:26+00:00,https://twitter.com/gdb/status/1616917914787139585,"This year is 80th birthday of the McCulloch-Pitts neuron. Remains the fundamental idea behind all neural networks. Such a simple mathematical model, yet has scaled to incredible results across many orders of magnitude of compute. Hard not to feel inspired. https://t.co/3x0K4yeAav https://t.co/VKh9IHkKI2"
+33,@gdb,2023-01-17 04:32:04+00:00,https://twitter.com/gdb/status/1615205287258128390,Azure OpenAI Service is now generally available. Very nice milestone in making these models widely accessible:
+34,@gdb,2023-01-17 01:39:05+00:00,https://twitter.com/gdb/status/1615161755604516864,ChatGPT API coming soon — sign up for the waitlist:
+35,@gdb,2023-01-16 20:04:14+00:00,https://twitter.com/gdb/status/1615077487020761089,"Abstraction is the best &amp; worst part of programming. Amazing abstractions give the power to easily build something great; bad abstractions mean not getting anything done. Worth waiting much later to get started, and then much more effort iterating on them, than most people think."
+36,@gdb,2023-01-12 20:09:05+00:00,https://twitter.com/gdb/status/1613629156348301312,"Collaborative research on LLM misuse &amp; mitigation. Like for any new technology, important to maximize the upsides and mitigate the downsides:"
+37,@gdb,2023-01-11 01:53:28+00:00,https://twitter.com/gdb/status/1612991047088635905,"@imjacoblopez No, that's a bug — team looking into it!"
+38,@gdb,2023-01-11 01:40:35+00:00,https://twitter.com/gdb/status/1612987805294301184,@anees_io No connection to API usage!
+39,@gdb,2023-01-11 01:33:56+00:00,https://twitter.com/gdb/status/1612986134048698369,"Working on a professional version of ChatGPT; will offer higher limits &amp; faster performance. If interested, please join our waitlist here: https://t.co/Eh87OViRie"
+40,@gdb,2023-01-10 18:33:31+00:00,https://twitter.com/gdb/status/1612880333321670656,Fun application of ChatGPT!
+41,@gdb,2023-01-09 22:55:18+00:00,https://twitter.com/gdb/status/1612583822075514880,"Classic software wisdom is to focus on one problem at a time. However, I often find it more productive to focus on many interrelated problems. When you get stuck on one, you can do something productive on another one — and often unstick the original by noticing the connections."
+42,@gdb,2023-01-09 17:05:48+00:00,https://twitter.com/gdb/status/1612495869752016896,"Amazing to see the energy of the OpenAI developer community. These models are starting to unlock real opportunity to build on top of them, whether for side projects, new products, or integrations into established services."
+43,@gdb,2023-01-08 21:06:40+00:00,https://twitter.com/gdb/status/1612194097607102465,"@paulg Depends on how experimental the idea is. Usually you want to start with something you know will work, and then try out one new idea at a time, each time persisting until you understand the results you're seeing fully."
+44,@gdb,2023-01-08 19:38:47+00:00,https://twitter.com/gdb/status/1612171979813191680,"Perhaps the single most important virtue in ML engineering is persistence. The ML engineering process is one of repeatedly checking &amp; understanding every detail of the system, until it finally goes through a phase transition from ""not working at all"" to ""working shockingly well""."
+45,@gdb,2023-01-06 22:50:09+00:00,https://twitter.com/gdb/status/1611495362535231489,"Wrong lesson from GPT paradigm — text is all you need. Other modalities will be incredibly stunning. Can feel it already from DALL-E, which can do something quite useful despite its nascent language ability."
+46,@gdb,2023-01-06 18:29:08+00:00,https://twitter.com/gdb/status/1611429677218004992,Big takeaway from the GPT paradigm is that the world of text is a far more complete description of the human experience than almost anyone anticipated.
+47,@gdb,2023-01-05 16:43:32+00:00,https://twitter.com/gdb/status/1611040711788605440,Writing code for is not very fun for its own sake. What makes it insanely addictive is the feeling upon shipping — that actual people are doing something useful with what started as a figment of your imagination. Never gets old.
+48,@gdb,2023-01-04 16:52:51+00:00,https://twitter.com/gdb/status/1610680668442460160,"Software complexity comes in two forms — fundamental &amp; accidental. The task of a software engineer is to discover &amp; write down the fundamental complexity of a solution to a problem, while inventing the minimal amount of accidental complexity."
+49,@gdb,2023-01-03 16:39:53+00:00,https://twitter.com/gdb/status/1610315021476827137,"Hardest part about designing good software is pricing in potential future needs. Easy to optimize a piece of code while making it impossible to change the spec, or design clean abstractions that will be circumvented once you add a new concept. Anticipating possible futures is key"
+50,@gdb,2023-01-02 18:12:07+00:00,https://twitter.com/gdb/status/1609975843018911745,Zoom plugin to create personalized background images using DALL-E — very high usefulness to complexity ratio.
+51,@gdb,2023-01-01 20:40:10+00:00,https://twitter.com/gdb/status/1609650713017348096,Predicting price/make/model/etc from a photo of a car. Pretty cool that these days you can do this kind of thing as a side project.
+52,@gdb,2022-12-31 17:46:13+00:00,https://twitter.com/gdb/status/1609244547460255744,Prediction: 2023 will make 2022 look like a sleepy year for AI advancement &amp; adoption.
+53,@gdb,2022-12-30 19:14:02+00:00,https://twitter.com/gdb/status/1608904261517324289,"When editing an ML codebase, I recommend constantly taking small detours to make quality-of-life tweaks as you notice them, rather than send them off to languish in a bug tracker. Highest order bit in ML in iteration speed, and these small pains add up faster than you know."
+54,@gdb,2022-12-29 22:47:19+00:00,https://twitter.com/gdb/status/1608595546855596032,"A management lesson we learned early on in Dota.
+
+We'd initially set goals of the form ""beating X player by Y date"", but when we fell behind, wasn't clear to anyone how to speed it up since we didn't know what would work.
+
+Great results from instead ""try X experiment by Y date""."
+55,@gdb,2022-12-29 18:52:59+00:00,https://twitter.com/gdb/status/1608536575218184193,"Copilot, but for your spreadsheet:"
+56,@gdb,2022-12-28 21:01:54+00:00,https://twitter.com/gdb/status/1608206630260453377,We didn't invent the idea though! First time I saw magic thread titles it was in @ludwig's @QuillChat.
+57,@gdb,2022-12-28 20:23:54+00:00,https://twitter.com/gdb/status/1608197067142492161,An undervalued principle of product design is that little delights add a surprising amount of value:
+58,@gdb,2022-12-28 17:57:47+00:00,https://twitter.com/gdb/status/1608160296191000577,AGI before reliable headphone pairing.
+59,@gdb,2022-12-28 01:13:55+00:00,https://twitter.com/gdb/status/1607907666273374208,Interesting first results of applying GPT embeddings to early diagnosis of dementia — 80% accuracy on a challenge dataset of speech recordings. Note also the paper was submitted in August; we've released much better embeddings since then! https://t.co/udfEAlLFpC https://t.co/R2QLJnwzgF
+60,@gdb,2022-12-27 18:03:19+00:00,https://twitter.com/gdb/status/1607799301966815232,"@alexgraveley Definitely could be interesting! It won't help with the ""preloading a large dataset""-use case, if your dataset takes up most of RAM. But could make for a nice server-free and terminal-magic free option if you want to load some dependencies or (maybe?) something language-agnostic."
+61,@gdb,2022-12-27 17:38:11+00:00,https://twitter.com/gdb/status/1607792974632751105,"Recently dusted off Pyseidon, a simple-to-use tool that speeds up any Python workflow when iterating with slow dependencies: https://t.co/MomNXAFZHe. Loving it!
+
+Works by preloading anything you'd like in a server process, and then forking a subprocess to run the remaining code. https://t.co/1sJ7P89tG9"
+62,@gdb,2022-12-26 04:02:10+00:00,https://twitter.com/gdb/status/1607225230484992002,@rishdotblog @OpenAI @defogdata Congrats! :)
+63,@gdb,2022-12-25 02:02:00+00:00,https://twitter.com/gdb/status/1606832602299924480,"Going to be really important that we can each get AI to do what we individually want (within the broad bounds of what society deems acceptable) as AI becomes part of daily life. Will take iteration &amp; research to get it right, hoping to share initial ideas soon."
+64,@gdb,2022-12-24 19:39:21+00:00,https://twitter.com/gdb/status/1606736303495974912,"@malcolmtyson @cm_richards @sama @OpenAI Sorry for the trouble, should be fixed now!"
+65,@gdb,2022-12-24 18:32:39+00:00,https://twitter.com/gdb/status/1606719519644618752,Clever integration making DALL-E dead-simple to use — a CDN which lets you generate new images just by requesting an appropriate URL: https://t.co/i49gaxccC5
+66,@gdb,2022-12-24 18:18:21+00:00,https://twitter.com/gdb/status/1606715922831794176,@malcolmtyson @cm_richards @sama @OpenAI Checking with the team.
+67,@gdb,2022-12-24 03:03:42+00:00,https://twitter.com/gdb/status/1606485739679932416,"Code is a liability, not an asset. So goal of software engineer is delivering the maximum amount of desired functionality at the cost of the least amount of code complexity, even as desired functionality evolves over time."
+68,@gdb,2022-12-23 18:38:55+00:00,https://twitter.com/gdb/status/1606358709151547393,Chat is becoming the next interface to AI. https://t.co/qW9FEZ9e5p
+69,@gdb,2022-12-23 16:50:16+00:00,https://twitter.com/gdb/status/1606331364860497928,"ML engineering productivity hack: write small self-contained files testing your understanding of any semantics you're fuzzy about (e.g. how CUDA streams interact with a full CUDA queue). Goal should be to turn these semantics into ""muscle memory"" before working end-to-end."
+70,@gdb,2022-12-22 20:42:56+00:00,https://twitter.com/gdb/status/1606027528660885504,"Very cool interface for exploring @lexfridman podcasts — can navigate through Whisper transcripts or GPT-3 summaries, on multiple timescales. Starting to feel like a new way to consume content:"
+71,@gdb,2022-12-22 19:12:02+00:00,https://twitter.com/gdb/status/1606004653933486081,"Something beautiful about the purity of a tool hyperoptimized for its purpose, like how rg (https://t.co/WNHucvm0yp) is blazingly fast to run &amp; fast to type."
+72,@gdb,2022-12-22 03:40:34+00:00,https://twitter.com/gdb/status/1605770243816583168,"Surprised by just how much I feel understood &amp; supported when Copilot suggests exactly the line of code I intended to write, especially while I'm still stuck mentally formulating it."
+73,@gdb,2022-12-20 21:18:39+00:00,https://twitter.com/gdb/status/1605311741482921984,Just open-sourced Point·E — DALL·E but for 3D point clouds. Extremely fast to generate: https://t.co/fXrdnxi7Qw https://t.co/PUKRZO9fum
+74,@gdb,2022-12-16 02:09:53+00:00,https://twitter.com/gdb/status/1603573094030790657,Just open-sourced our screaming-fast BPE tokenizer: https://t.co/9GUy0PoZyF
+75,@gdb,2022-12-15 19:50:54+00:00,https://twitter.com/gdb/status/1603477720867885056,Training of deep learning models by “hill climbing” seems like it should be impossible because of our intuitions from 3D life. Turns out they don’t prepare us to understand what’s possible in billion-dimensional spaces.
+76,@gdb,2022-12-15 19:03:28+00:00,https://twitter.com/gdb/status/1603465782138052609,Sometimes algorithms &amp; data &gt;&gt; compute.
+77,@gdb,2022-12-15 18:50:49+00:00,https://twitter.com/gdb/status/1603462599818944512,Just released a new embedding model which outperforms our previous best one while being 99.8% cheaper: https://t.co/MXg75fEEBk
+78,@gdb,2022-12-13 23:15:19+00:00,https://twitter.com/gdb/status/1602804390343036928,Few technical experiences are more difficult than being an Emacs user with a broken ctrl key.
+79,@gdb,2022-12-12 22:15:05+00:00,https://twitter.com/gdb/status/1602426843897876480,"Another angle on a chat interface to GPT-3.5, together with external integrations to make it even more useful:"
+80,@gdb,2022-12-12 21:41:45+00:00,https://twitter.com/gdb/status/1602418455365308416,A surprising amount of machine learning performance engineering starts by getting fed up with how long you spend waiting for your job to launch.
+81,@gdb,2022-12-12 18:05:14+00:00,https://twitter.com/gdb/status/1602363965496995841,"@goodside Feedback greatly appreciated! Would a “power user” interface to the same model restore the magic, or does the model itself feel less fun for serious prompt engineering?"
+82,@gdb,2022-12-11 22:54:32+00:00,https://twitter.com/gdb/status/1602074382616117250,@Money17251696 No.
+83,@gdb,2022-12-11 22:47:19+00:00,https://twitter.com/gdb/status/1602072566671110144,"Love the community explorations of ChatGPT, from capabilities (https://t.co/a3V6QuBEKM) to limitations (https://t.co/gvxdmD8dSW).
+
+No substitute for the collective power of the internet when it comes to plumbing the uncharted depths of a new deep learning model."
+84,@gdb,2022-12-11 01:07:32+00:00,https://twitter.com/gdb/status/1601745466613411840,"We believe in shipping early &amp; often, with the hope of learning how to make a really useful and reliable AI through real-world experience and feedback. Correspondingly important to realize we're not there yet — ChatGPT not yet ready to be relied on for anything important!"
+85,@gdb,2022-12-09 17:15:24+00:00,https://twitter.com/gdb/status/1601264261396713474,"Working on some low-level code with many sequential steps, interspersed with comments explaining each step. Noticed that I'd accidentally ended every single comment with a ""!"". Guess I'm excited about what I'm doing :)."
+86,@gdb,2022-12-09 17:06:13+00:00,https://twitter.com/gdb/status/1601261948636524544,A new tool for scriptwriters:
+87,@gdb,2022-12-08 16:52:19+00:00,https://twitter.com/gdb/status/1600896065519071234,Good articulation. I usually call this the “demo gap”—the distance between what looks like it’s working in a demo and what really works in practice. A deep issue that applies to humans too—eg someone who interviews well but can’t do the job. We are closing the gap but much to do.
+88,@gdb,2022-12-08 04:53:24+00:00,https://twitter.com/gdb/status/1600715143481999361,Steady progress by the team on Whisper. Particularly improved for non-English speech transcription. Give it a try!
+89,@gdb,2022-12-07 21:41:20+00:00,https://twitter.com/gdb/status/1600606408503762944,Best part about ChatGPT development &amp; deployment is that AI alignment has graduated from being the responsibility of a single team within OpenAI — it's now a part of the practical work of many technical teams within the company.
+90,@gdb,2022-12-07 20:50:19+00:00,https://twitter.com/gdb/status/1600593571354066944,@KSubediTweet Working on it!
+91,@gdb,2022-12-07 20:14:27+00:00,https://twitter.com/gdb/status/1600584546612715520,"Few things more fun than building &amp; deploying AI systems at ever increasing speed, scale, and alignment."
+92,@gdb,2022-12-05 22:07:59+00:00,https://twitter.com/gdb/status/1599888339121111040,@vicentes Pretty much everyone uses Copilot.
+93,@gdb,2022-12-05 21:40:41+00:00,https://twitter.com/gdb/status/1599881469639655424,"We also (amazingly!) appear to be on trajectory for this part of the post: ""People who have no experience in a field will suddenly be enabled to operate in that field alone. Meanwhile, people who already had experience in that field will now be even more effective and efficient."""
+94,@gdb,2022-12-05 21:37:54+00:00,https://twitter.com/gdb/status/1599880769287393280,"A decent prediction on HN (https://t.co/A3lVPVLqCY): ""Well, right now we're in the ""flip-phone"" era of AI. In 10 years from now, mark this prediction: nearly everyone will have an AI counterpart that is trained and unique to each individual."""
+95,@gdb,2022-12-05 19:04:24+00:00,https://twitter.com/gdb/status/1599842138501844992,Microsoft partnership has been one of OpenAI's secrets to success — we work very closely with Azure to produce AI training &amp; serving infrastructure that can scale to our cutting-edge (&amp; entirely unprecedented!) needs.
+96,@gdb,2022-12-05 08:32:27+00:00,https://twitter.com/gdb/status/1599683104142430208,ChatGPT just crossed 1 million users; it's been 5 days since launch.
+97,@gdb,2022-12-04 23:19:22+00:00,https://twitter.com/gdb/status/1599543918026428418,@LiamFedus Welcome to the team :)!
+98,@gdb,2022-12-03 19:31:55+00:00,https://twitter.com/gdb/status/1599124287633248257,"Exciting but overlooked that ChatGPT is primarily an alignment advance—the base model (GPT-3.5) has been available in publicly for many months, but making it into a useful chat system required significant strides with reliably following the intent of the developer and the user."
+99,@gdb,2022-11-30 18:06:29+00:00,https://twitter.com/gdb/status/1598015627540635648,"Just launched ChatGPT, our new AI system which is optimized for dialogue: https://t.co/ArX6m0FfLE.
+
+Try it out here: https://t.co/YM1gp5bA64"
+100,@gdb,2022-11-29 20:35:51+00:00,https://twitter.com/gdb/status/1597690825487446016,"My perspective on AI safety has evolved as reality has increasingly diverged from my expectations, formed from reading various AI thought experiments 10-15 years ago. A nice essay by Scott Aaronson which captures the emerging landscape: https://t.co/xS7jLu4EBk"
+101,@gdb,2022-11-23 21:18:08+00:00,https://twitter.com/gdb/status/1595527140183007233,"I've resisted using mosh (https://t.co/FFtw4OKvrY) for years because its terminal handling is not quite as good as ssh's, but as of today I'm sold on using it any time I travel. Something magical about opening your laptop and continuing your remote session like nothing happened."
+102,@gdb,2022-11-03 17:04:42+00:00,https://twitter.com/gdb/status/1588215606452449281,DALL-E API now live: https://t.co/nCcrDJ9LDb https://t.co/OZQQPNcV8p
+103,@gdb,2022-09-28 17:42:21+00:00,https://twitter.com/gdb/status/1575179118592765952,Instant signup for DALL-E:
+104,@gdb,2022-09-21 16:49:04+00:00,https://twitter.com/gdb/status/1572628993073123328,"Whisper, a neural net that approaches human level robustness and accuracy on English speech recognition. Attached is transcriptions of the same voicemail with iOS vs Whisper. Available today as open-source: https://t.co/fyHWviSfa4 https://t.co/jgNAsBkB2H"
+105,@gdb,2022-08-31 18:20:54+00:00,https://twitter.com/gdb/status/1565041958338195456,"DALL·E Outpainting — extend an existing image, to arbitrary size: https://t.co/BcbCVTOry0 https://t.co/mhLuUFhFrK"
+106,@gdb,2022-08-25 01:11:20+00:00,https://twitter.com/gdb/status/1562608530641027073,"An overview of our approach to AGI alignment.
+
+Highest-order bit is that we take an empirical approach — we deploy increasingly-powerful systems and get real-world feedback rather than try to solve everything a priori. Aim is to keep contact with reality.
+
+https://t.co/CapPSHUq9q"
+107,@gdb,2022-08-23 18:31:16+00:00,https://twitter.com/gdb/status/1562145465834999808,DALL-E fashion show:
+108,@gdb,2022-08-19 15:23:20+00:00,https://twitter.com/gdb/status/1560648619081883649,"An application of Codex which ""literally changed what we believe is possible"" for a team faced with a rewrite from Perl to Python:
+
+https://t.co/Xm5UhUGcE9"
+109,@gdb,2022-08-10 19:04:08+00:00,https://twitter.com/gdb/status/1557442693118078976,"Just launched a content moderation endpoint — uses our models to assess whether some text is sexual, hateful, violent, or promotes self-harm. Part of a strategy of scalable oversight of language models:"
+110,@gdb,2022-08-03 15:20:46+00:00,https://twitter.com/gdb/status/1554849766655156224,"Applications for OpenAI Residency — a program for people without a machine learning background to enter the field — are open from now until Sept 30.
+
+Looking for software engineers and researchers from other fields to apply their skills to deep learning: https://t.co/yZkMsOlsgo"
+111,@gdb,2022-08-02 17:13:21+00:00,https://twitter.com/gdb/status/1554515709471821824,Always nice to wake up to fresh ML results in the morning.
+112,@gdb,2022-07-27 17:08:17+00:00,https://twitter.com/gdb/status/1552340107268460544,A program is an idea in the flesh.
+113,@gdb,2022-07-26 17:30:11+00:00,https://twitter.com/gdb/status/1551983233260105728,"There is something really beautiful about code which has stood the test of time in production — you can't be sure it's bug free, but you can be certain that its usefulness outshines any flaws."
+114,@gdb,2022-07-25 22:20:51+00:00,https://twitter.com/gdb/status/1551693992684793856,A watched model never learns.
+115,@gdb,2022-07-25 00:52:59+00:00,https://twitter.com/gdb/status/1551369890874896384,"Coding conventions are often far less important than coding standards — that is, most approaches for organizing code can work, but the key is getting everyone to do it the same way throughout your codebase. Explains how there can be so many mutually-conflicting coding dogmas."
+116,@gdb,2022-07-23 19:57:05+00:00,https://twitter.com/gdb/status/1550933035163344897,"ML engineering: 9 parts finding bugs, 1 part adding new bugs."
+117,@gdb,2022-07-20 16:40:33+00:00,https://twitter.com/gdb/status/1549796413155905538,"We are scaling DALL·E to 1 million people, and have announced beta pricing (in addition to free credits that refill automatically each month):"
+118,@gdb,2022-07-18 22:10:07+00:00,https://twitter.com/gdb/status/1549154576917352448,"Reducing bias in DALL·E, for prompts that do not specify race or gender:"
+119,@gdb,2022-07-17 21:22:33+00:00,https://twitter.com/gdb/status/1548780216981409792,"@pataguccigoon ""Inside of every neural net is a universe of possibilities."" :)"
+120,@gdb,2022-07-17 21:17:58+00:00,https://twitter.com/gdb/status/1548779065275953152,Inside of every neural net is a universe of possibilities. https://t.co/ptZRnAwUJr
+121,@gdb,2022-07-17 18:22:07+00:00,https://twitter.com/gdb/status/1548734811581272064,"Neural networks have a very convenient API from a systems perspective — constant time regardless of inputs, largely functional with explicit state, and decomposable into well-defined components which can be sharded across machines. Catnip for the systems engineer."
+122,@gdb,2022-07-16 17:59:59+00:00,https://twitter.com/gdb/status/1548366852429979649,"The challenge with debugging is purging your mind of what you think you know &amp; being willing to face cold, hard reality. Requires great effort, but the reward (in addition to a working program) is a more accurate understanding of reality."
+123,@gdb,2022-07-15 18:19:22+00:00,https://twitter.com/gdb/status/1548009340572839938,Very creative use of DALL-E — editing each frame of a video:
+124,@gdb,2022-07-14 18:36:44+00:00,https://twitter.com/gdb/status/1547651323083993093,"""DALL·E is the most advanced paint brush I’ve ever used"" — cool to see how artists are using DALL·E!"
+125,@gdb,2022-07-14 16:08:07+00:00,https://twitter.com/gdb/status/1547613925759324168,Process is a way to trade off peak productivity for steady progress.
+126,@gdb,2022-07-13 22:30:30+00:00,https://twitter.com/gdb/status/1547347764421349376,"A fun proof-of-concept exploration of using GPT-3 in your daily life. Still a long way to go, but one day applications like this should be very useful:"
+127,@gdb,2022-07-13 20:44:33+00:00,https://twitter.com/gdb/status/1547321104905015297,"The DALL-E Prompt Book, first edition:"
+128,@gdb,2022-07-13 16:33:40+00:00,https://twitter.com/gdb/status/1547257966746746890,GPT-3 for semantic search:
+129,@gdb,2022-07-13 15:26:59+00:00,https://twitter.com/gdb/status/1547241184627593217,We are scaling up access to DALL-E:
+130,@gdb,2022-07-12 04:12:19+00:00,https://twitter.com/gdb/status/1546709011218673668,DALL·E 2 + universe =
+131,@gdb,2022-07-11 17:47:53+00:00,https://twitter.com/gdb/status/1546551865881419776,Iteration rate is the high-order bit on speed of learning — true for humans &amp; AIs.
+132,@gdb,2022-07-09 22:45:55+00:00,https://twitter.com/gdb/status/1545902093525209088,Using GPT-3 to explain how a given piece of code works:
+133,@gdb,2022-07-09 13:41:09+00:00,https://twitter.com/gdb/status/1545764999628410880,Never write a regex by hand again. An application I've wanted myself since about the time I wrote my first regex:
+134,@gdb,2022-07-07 19:00:16+00:00,https://twitter.com/gdb/status/1545120532898516992,"Give a machine a program, it will solve the problem of today. Teach a machine to program, it will solve the problems of a lifetime."
+135,@gdb,2022-07-04 23:19:33+00:00,https://twitter.com/gdb/status/1544098617891229696,DALL-E for making art for your kids’ rooms:
+136,@gdb,2022-07-04 22:31:05+00:00,https://twitter.com/gdb/status/1544086420955901952,"Nice piece in today's New Yorker on DALL·E. Found their image citation format really thoughtful &amp; interesting:
+
+'“a real hippopotamus sitting on a sofa smoking a cigarette, 70mm Nikon,” as prompted by Roz Chast. Art work by DALL-E / Courtesy OpenAI'
+
+https://t.co/ONMrH8syOx"
+137,@gdb,2022-07-04 05:05:21+00:00,https://twitter.com/gdb/status/1543823253579255808,DALL-E for asset creation:
+138,@gdb,2022-06-30 16:13:51+00:00,https://twitter.com/gdb/status/1542541935805890560,"Even at OpenAI scale, systems optimizations need to be weighed against usability cost. A few percent improvement does not matter if the system is too hard to co-evolve with the ML. Trick is to do inordinate design thinking to unify hackability with the long-tail of optimizations."
+139,@gdb,2022-06-29 23:07:20+00:00,https://twitter.com/gdb/status/1542283605128335360,Love the energy of a group of people who are excited to build something together.
+140,@gdb,2022-06-29 17:17:16+00:00,https://twitter.com/gdb/status/1542195509565132800,"Some systems can run on a single machine. For everything else, there's Redis."
+141,@gdb,2022-06-28 17:33:36+00:00,https://twitter.com/gdb/status/1541837232054497280,"We designed &amp; implemented a variety of guardrails to align DALL·E 2's behavior to our content policies. A great post by @unixpickle describing how our pre-training mitigations work. Applicable to future powerful generative models as well:
+
+https://t.co/346F5bELqb"
+142,@gdb,2022-06-28 16:05:21+00:00,https://twitter.com/gdb/status/1541815020698230786,"Applies to discussion about AGI. Far too easy to get caught up in quibbles over words, or to reach seemingly irrefutable conclusions based on implicit assumptions.
+
+To make conceptual progress on how AGI might look, I try reason from the delta of what we know now vs in 2012."
+143,@gdb,2022-06-27 21:47:47+00:00,https://twitter.com/gdb/status/1541538809870897152,Machine learning is a great field for people who derive unreasonable pleasure from watching progress meters — there's a lot of joy to be found in watching each new model's learning curve go down and to the right.
+144,@gdb,2022-06-26 21:06:52+00:00,https://twitter.com/gdb/status/1541166125953601537,"Went to sleep at 3:30a last night trying to track down a nasty CUDA illegal memory access bug, woke up early to keep digging, &amp; just now pushed a fix. Hard to beat the endorphin rush of doing battle with a tricky bug and coming out on top."
+145,@gdb,2022-06-23 20:15:45+00:00,https://twitter.com/gdb/status/1540066097382039552,A good prompt is all you need.
+146,@gdb,2022-06-23 17:50:06+00:00,https://twitter.com/gdb/status/1540029442793168897,"Step towards a general computer-using agent: https://t.co/zZdA6PtX1l
+
+AI learns to use keyboard &amp; mouse from video (&amp; small amount of contractor data). With a bit of reinforcement learning, can do a task that takes proficient humans 20 minutes—crafting diamond tools in Minecraft."
+147,@gdb,2022-06-22 23:12:12+00:00,https://twitter.com/gdb/status/1539748113455251456,Really cool to see how many people want to use cutting-edge AI tools. Seems like we're just crossing the threshold of usefulness — and we are still just at the beginning of how amazing these technologies can become:
+148,@gdb,2022-06-22 03:59:53+00:00,https://twitter.com/gdb/status/1539458127082291200,Very cool to see what a creative group of kids can express with DALL·E 2: https://t.co/MUpBLNB5dr
+149,@gdb,2022-06-22 01:12:15+00:00,https://twitter.com/gdb/status/1539415938499420160,"Frog Comic, created with GPT-3 &amp; DALL-E 2:"
+150,@gdb,2022-06-21 21:58:46+00:00,https://twitter.com/gdb/status/1539367247696736257,GPT-3 is now a published poet! https://t.co/Dr3wBTLcFO
+151,@gdb,2022-06-21 20:04:40+00:00,https://twitter.com/gdb/status/1539338534552629248,The waitlist is over; GitHub Copilot is now generally available! One of our favorite usages of Codex:
+152,@gdb,2022-06-21 17:46:02+00:00,https://twitter.com/gdb/status/1539303645568638977,Always wanted to be on the cover of Cosmo:
+153,@gdb,2022-06-21 00:37:37+00:00,https://twitter.com/gdb/status/1539044836082188289,Evolving the code of a simulated robot via mutations provided by a large language model:
+154,@gdb,2022-06-20 01:45:24+00:00,https://twitter.com/gdb/status/1538699504181862400,"What I find most incredible is that the idea of the artificial neural network was designed in the 1940s, and the field since then has been realizing the vision while yielding increasingly stunning results.
+
+Feels like a collective project of humanity for 80 years and counting."
+155,@gdb,2022-06-18 18:55:52+00:00,https://twitter.com/gdb/status/1538234055317127172,"AI alignment will require talent from many fields; there are many hard open problems but we're starting to make rapid progress. Welcome, Scott!"
+156,@gdb,2022-06-18 18:22:56+00:00,https://twitter.com/gdb/status/1538225765854203907,"Explaining current events is fitting the train set. Predicting what comes next is generalizing to the test set. The former sees most the activity for both humans and models, but the latter is where the value is."
+157,@gdb,2022-06-17 17:56:27+00:00,https://twitter.com/gdb/status/1537856715533692928,One of my favorite design patterns is the middleware stack—providing a simple API that is meant to be “wrapped” by a new object implementing the same API. Makes it very easy to add&amp;reuse functionality with minimal coupling between components. Equally useful in web servers and ML.
+158,@gdb,2022-06-15 17:08:03+00:00,https://twitter.com/gdb/status/1537119757467410432,"While weightlighting, I've noticed my form gets better the heavier the weight. Seems like a good analogy for how startups can succeed against long odds — only when the challenge is sufficiently hard will performance rise to the occasion."
+159,@gdb,2022-06-14 20:44:36+00:00,https://twitter.com/gdb/status/1536811868584411141,"Extremely impressed by the progress the frontend ecosystem has made in the past decade. Eg writing a real-time updating app is now dead simple with React and GraphQL — in 2010, it seemed like every company was inventing their own framework. Also npm, ES, etc have come a long way."
+160,@gdb,2022-06-13 19:39:58+00:00,https://twitter.com/gdb/status/1536433214075457537,"Progress on AI alignment: we've created an AI system which can write a critique of a short story summary, successfully helping humans find hidden flaws (a task that takes humans ~10 minutes). Step towards our long-term alignment roadmap:
+
+https://t.co/HbRj1pciEq"
+161,@gdb,2022-06-11 17:06:06+00:00,https://twitter.com/gdb/status/1535669716705914885,"Refactoring existing code is underrated. Huge leverage in making existing functionality more useful rather than starting from scratch. Also quite fun to have a chance to do better than in the past, with the benefit of your present &amp; historical knowledge."
+162,@gdb,2022-06-11 15:52:00+00:00,https://twitter.com/gdb/status/1535651069354598400,A good overview of what it's like working with DALL-E:
+163,@gdb,2022-06-09 16:27:23+00:00,https://twitter.com/gdb/status/1534935198143373319,"How large neural networks are trained across increasingly massive clusters — cleverly slicing the computation on a wide variety of axes, rematerializing intermediate results, and much more:"
+164,@gdb,2022-06-09 15:51:54+00:00,https://twitter.com/gdb/status/1534926266536562689,A surprising fraction of accomplishing any unprecedented feat is having the conviction that it can be done.
+165,@gdb,2022-06-08 18:36:06+00:00,https://twitter.com/gdb/status/1534605201771859968,"Twitter Spaces discussion on Best Practices for LLM deployment with @AI21Labs @OpenAI @CohereAI at noon PT, moderated by @percyliang:"
+166,@gdb,2022-06-05 19:02:48+00:00,https://twitter.com/gdb/status/1533524759907926016,Shows that there’s room for improvement with the next version of DALL-E.
+167,@gdb,2022-06-04 01:06:08+00:00,https://twitter.com/gdb/status/1532891419051847680,"Very cool to see how useful Copilot already is. Easy to forget that it’s still just the beginning of the road for this technology, and in a few years it’ll be astronomically more useful than it is today."
+168,@gdb,2022-06-03 18:16:16+00:00,https://twitter.com/gdb/status/1532788271595388928,The biggest challenge with language benchmarks is how quickly they get obsoleted.
+169,@gdb,2022-06-02 23:30:00+00:00,https://twitter.com/gdb/status/1532504837102833665,"@emacsbrah Yes, team is burning the midnight oil on it."
+170,@gdb,2022-06-02 18:14:46+00:00,https://twitter.com/gdb/status/1532425508587048961,"Each year, we've built something that makes our previous work look antiquated—a trend across both OpenAI &amp; the field. The tech is getting powerful, and the only way to continually ship 10x better models to the world is for industry to work together to grow into worthy custodians."
+171,@gdb,2022-06-02 18:14:46+00:00,https://twitter.com/gdb/status/1532425507857264641,"What makes our approach different is that we're starting with a practical, useful foundation that companies have an incentive to opt into — these best practices are grounded in hard-won experience with how these models are used &amp; abused in practice. (7/8)"
+172,@gdb,2022-06-02 18:14:46+00:00,https://twitter.com/gdb/status/1532425506389340160,"The best practices we developed, with cooperation &amp; support from others in the industry, are the most concrete step so far towards building industry regulations for AI. We'll welcome thoughtful government regulation, but can't delay for it given how fast the tech is moving. (5/8)"
+173,@gdb,2022-06-02 18:14:46+00:00,https://twitter.com/gdb/status/1532425505588146176,"Credit card processing ended up being primarily industry-regulated for historical reasons — the networks established rules with a strong eye towards consumer protection early on, and so there was not a strong public need for government to upend the industry. (4/8)"
+174,@gdb,2022-06-02 18:14:46+00:00,https://twitter.com/gdb/status/1532425504850006016,"It didn't have to be this way. Many other financial sectors are primarily government-regulated, which makes innovation much harder &amp; rules often end up not matching the needs of the present day. This results in more consumer protection, at the cost of less useful products. (3/8)"
+175,@gdb,2022-06-02 18:14:45+00:00,https://twitter.com/gdb/status/1532425503461806080,"The fact that card processing is industry-regulated is very beneficial for consumers, since the rules can adapt when new paradigms appear (e.g. to allow crowdfunding—great but risky innovation, since card networks might have pay back consumers if the maker doesn't ship). (2/8)"
+176,@gdb,2022-06-02 18:14:45+00:00,https://twitter.com/gdb/status/1532425501230260225,"One note from my experience at @stripe — surprisingly, the credit card processing industry is primarily industry-regulated. The card networks like Visa make rules, which get pushed to their member banks; those banks make rules for the processors who run on top of them. (1/8)"
+177,@gdb,2022-06-02 16:13:36+00:00,https://twitter.com/gdb/status/1532395012201144321,"We're working with others in the nascent industry of creating &amp; deploying language models in order to produce safety best practices.
+
+Ultimate goal is to have a practice for cooperating on increasingly high-stakes safety problems as AI progresses."
+178,@gdb,2022-06-01 20:58:05+00:00,https://twitter.com/gdb/status/1532104220475723777,Most surprising part about getting older is how much harder it becomes to get good sleep.
+179,@gdb,2022-06-01 16:40:13+00:00,https://twitter.com/gdb/status/1532039324148981765,Alignment is all you need.
+180,@gdb,2022-06-01 15:50:49+00:00,https://twitter.com/gdb/status/1532026893221756928,"The better you think you know your ML system, the more it'll find a way to surprise you."
+181,@gdb,2022-06-01 00:11:49+00:00,https://twitter.com/gdb/status/1531790584213479424,A pretty good hypothesis on how this arises (as an artifact of how the text input space is tokenized): https://t.co/PPN3ORVDRW
+182,@gdb,2022-06-01 00:07:50+00:00,https://twitter.com/gdb/status/1531789584547258368,Turns out DALL-E can read the seemingly gibberish writing it produces. Built its own mini-language that is consistent between its text input space and image output space:
+183,@gdb,2022-05-31 18:13:54+00:00,https://twitter.com/gdb/status/1531700511849607168,Only hyper-simple ideas can survive the discourse of Twitter.
+184,@gdb,2022-05-31 15:42:42+00:00,https://twitter.com/gdb/status/1531662459949371392,"A well-architected software project is one where the difficulty of adding a feature is proportional to the delta in functionality you want to add.
+
+Small tweaks should be easy, and big new features that were not part of the design should not be too scary due to the existing code."
+185,@gdb,2022-05-29 21:58:03+00:00,https://twitter.com/gdb/status/1531032145124216833,"DALL-E empowered a 4-year old to design these red chicken slippers, which now exist in reality. Best kind of Sim2Real result:"
+186,@gdb,2022-05-29 15:56:53+00:00,https://twitter.com/gdb/status/1530941253835075584,Overfitting is the mind killer.
+187,@gdb,2022-05-28 16:13:40+00:00,https://twitter.com/gdb/status/1530583089595920385,Machine learning is the art of getting a computer to make what you can measure.
+188,@gdb,2022-05-28 02:09:39+00:00,https://twitter.com/gdb/status/1530370686463594496,There's nothing quite so freeing as the feeling of starting a greenfield project from scratch.
+189,@gdb,2022-05-27 20:30:04+00:00,https://twitter.com/gdb/status/1530285230220709888,DALL-E as a new medium of artistic expression:
+190,@gdb,2022-05-27 17:00:07+00:00,https://twitter.com/gdb/status/1530232392962613249,"Nice result: hinting to a language model that it's ok to show its work (by adding ""Let's think step by step"" to the prompt) rather than directly outputting the final answer massively boosts results on reasoning benchmarks. True of humans too."
+191,@gdb,2022-05-27 16:06:25+00:00,https://twitter.com/gdb/status/1530218877073756163,"ML systems debugging rewards a willingness to dig across the entire stack, to chase a slightly suspicious signal back to its source, and to derive chains of failures from surprising end results. High cognitive burden but also some of the most exhilarating work upon success."
+192,@gdb,2022-05-26 18:08:03+00:00,https://twitter.com/gdb/status/1529887100937457666,"On a day-to-day basis, certainty in one's own beliefs is something that the scientist cannot afford; but on the scale of decades, certainty in correct contrarian beliefs is what differentiates the great careers from the rest."
+193,@gdb,2022-05-26 15:20:57+00:00,https://twitter.com/gdb/status/1529845048946200576,"In most startups, the median business person has less impact than the median engineer, but the top business person has more impact than the top engineer.
+
+To have truly outsized impact as an engineer, need to find the rare business where sustained tech velocity is high order bit."
+194,@gdb,2022-05-25 19:57:31+00:00,https://twitter.com/gdb/status/1529552260924989444,"The most productive engineers also tend to be the ones who create the biggest absolute number of bugs (even if their relative rate is low). Don't be afraid to make mistakes, but instead be afraid to let problems lurk beneath the surface or linger once they have been discovered."
+195,@gdb,2022-05-25 01:29:50+00:00,https://twitter.com/gdb/status/1529273504360976384,@ilyasut And it ❤️s you back!
+196,@gdb,2022-05-24 16:28:36+00:00,https://twitter.com/gdb/status/1529137297580384256,There are now 70 production Codex apps: https://t.co/UeZHYvewOT
+197,@gdb,2022-05-24 15:28:20+00:00,https://twitter.com/gdb/status/1529122131073966080,Any sufficiently advanced magic is indistinguishable from AI.
+198,@gdb,2022-05-23 20:42:32+00:00,https://twitter.com/gdb/status/1528838813182730243,"DALL-E 2 is stunningly better than DALL-E 1, but what's interesting (and underappreciated) is the fact that the newer model is much smaller &amp; amount of training compute is similar.
+
+Improvements are essentially all due to algorithmic innovation."
+199,@gdb,2022-05-23 17:15:29+00:00,https://twitter.com/gdb/status/1528786708216500227,The way you know you are on an exponential is that you never cease to be amazed by what your team produces.
+200,@gdb,2022-05-22 22:11:30+00:00,https://twitter.com/gdb/status/1528498817611407360,"If you can repro it cheaply, you can fix it."
+201,@gdb,2022-05-22 01:47:34+00:00,https://twitter.com/gdb/status/1528190804652544001,I’d always wondered what the Jabberwock would look like:
+202,@gdb,2022-05-21 19:07:50+00:00,https://twitter.com/gdb/status/1528090205340585984,"Why did the statistician go back to school?
+
+To get his degree in regression!
+
+(Courtesy of GPT-3 when prompted to make a joke involving the dual meaning of regression.)"
+203,@gdb,2022-05-20 23:51:20+00:00,https://twitter.com/gdb/status/1527799163768827910,"One trick to stop your TODO list from growing without bound: create a fresh list every day, and archive the previous list. Copy over old items only as you actively remember them. Pretty soon you get good at only tracking items that are actually worth the mental space."
+204,@gdb,2022-05-20 17:17:53+00:00,https://twitter.com/gdb/status/1527700150235254784,"Even in machine learning, as important as knowing how to listen to the data is knowing when to ignore it."
+205,@gdb,2022-05-20 02:23:06+00:00,https://twitter.com/gdb/status/1527474968937738240,A surprising fraction of machine learning performance engineering is figuring out how to profile the system component that shouldn't be your bottleneck but somehow is.
+206,@gdb,2022-05-19 22:47:10+00:00,https://twitter.com/gdb/status/1527420626910072833,GPT for learning a new programming language:
+207,@gdb,2022-05-19 18:29:39+00:00,https://twitter.com/gdb/status/1527355822514196499,"Science optimizes for paradigm shifts; engineering optimizes for steady progress.
+
+Both like to think they are the only way—eg that engineers don't do novel work, scientists are not pragmatic.
+
+But a 10x win matches 25x 10% optimizations, and in practice, each unlocks the other."
+208,@gdb,2022-05-19 01:30:18+00:00,https://twitter.com/gdb/status/1527099294133628929,GPT-oetry is getting pretty good too (and just wouldn't be the same without the DALL-E-provided illustration):
+209,@gdb,2022-05-19 00:01:16+00:00,https://twitter.com/gdb/status/1527076890061680642,Hard to internalize that this image was drawn largely by doing some matrix multiplications &amp; some other vector math (with parameters found by doing some hill climbing in a billion-dimensional vector space): https://t.co/AswBOHw2j3
+210,@gdb,2022-05-18 23:55:06+00:00,https://twitter.com/gdb/status/1527075337686790145,"Machine learning isn't magic, but its results are."
+211,@gdb,2022-05-18 23:09:25+00:00,https://twitter.com/gdb/status/1527063838138413056,"Despite many valid drawbacks, it's hard to beat a monorepo for building a long-term project that involves many tightly-collaborating teams."
+212,@gdb,2022-05-18 20:29:04+00:00,https://twitter.com/gdb/status/1527023488266997761,"3 million DALL-E images generated so far, and have been building out our safety systems in parallel. We are now ramping to 1,000 invites per week:"
+213,@gdb,2022-05-18 18:52:28+00:00,https://twitter.com/gdb/status/1526999174474092550,zsh plugin using Codex to write your shell commands from a comment: https://t.co/m94BC5CUXv https://t.co/AusXTdlS6t
+214,@gdb,2022-05-18 17:36:30+00:00,https://twitter.com/gdb/status/1526980058656649217,GPT-3 summarization has gotten pretty good:
+215,@gdb,2022-05-18 15:46:14+00:00,https://twitter.com/gdb/status/1526952308000493569,"A reliable system is just an unreliable system whose failure modes have been repeatedly encountered, studied, understood, and fixed."
+216,@gdb,2022-05-17 19:05:23+00:00,https://twitter.com/gdb/status/1526640038368272384,"Hard to imagine personally working anywhere else, or working on any other problem besides AGI.
+
+Building next-generation AI systems is some of today's hardest (and sometimes most frustrating) engineering &amp; scientific work, but the reward is well worth it.
+
+Send Sam a DM!"
+217,@gdb,2022-05-17 16:34:31+00:00,https://twitter.com/gdb/status/1526602072346333190,"Fun article on a Ruby DSL to interpret natural language-like syntax.
+
+Also interesting to realize that these days, it's actually easier to just use full natural language to generate Ruby code. https://t.co/zrNffZvQ7G"
+218,@gdb,2022-05-16 22:29:37+00:00,https://twitter.com/gdb/status/1526329047524904960,My wife &amp; I just said goodbye to our foster dog. He was rescued from a shelter hours before being put to sleep; we cared for him for a month but were unable to save him. He was incredibly loving; a gentle giant who loved our rose garden and the quiet life. Sad but glad we tried.
+219,@gdb,2022-05-16 16:09:45+00:00,https://twitter.com/gdb/status/1526233451967705090,"Most stressful part of college was being told it would be the best four years of my life. Completed only two good-not-great years and was always worried I’d passed peak happiness &amp; forgotten to enjoy it.
+
+A decade later, am far happier and still yet to peak. Chart your own path."
+220,@gdb,2022-05-15 20:22:26+00:00,https://twitter.com/gdb/status/1525934654875762688,"Every so often I stumble across some emails I sent a decade ago, and it strikes me how little I knew back then. Very exciting to think I might be able to learn so much in the next decade that in retrospect I will feel the same way about my emails from today."
+221,@gdb,2022-05-15 18:45:38+00:00,https://twitter.com/gdb/status/1525910293255049217,Building software is an iterative game of increasingly deeply understanding a specific problem and balancing the fundamental tradeoffs you discover.
+222,@gdb,2022-05-14 21:07:02+00:00,https://twitter.com/gdb/status/1525583489264865280,"Important ingredient for long-term productivity: having a reliable activity to clear your mind. For me it's running or weightlifting. For first half hour, I am still thinking about the problem of the day; by an hour I'm a blank slate. Hard problems somehow feel far simpler after."
+223,@gdb,2022-05-14 16:23:28+00:00,https://twitter.com/gdb/status/1525512125585584128,"ML bugs are so much trickier than bugs in traditional software because rather than getting an error, you get degraded performance (and it's not obvious a priori what ideal performance is).
+
+So ML debugging works by continual sanity checking, e.g. comparing to various baselines."
+224,@gdb,2022-05-13 18:59:13+00:00,https://twitter.com/gdb/status/1525188936632442881,"Biggest mental shift while switching from classic to scientific programming: explicit “for” loops are now extremely expensive.
+
+Instead, you express as much as you can by chaining hyperoptimized lower-level “for” loop primitives, eg matrix multiplies.
+
+Fun &amp; new way of thinking."
+225,@gdb,2022-05-13 17:58:42+00:00,https://twitter.com/gdb/status/1525173707898904576,"Worst part about using an internal-only library: can't search online for documentation/usage &amp; usually not fully polished.
+
+Best part about using an internal-only library: someone at your company knows every corner of it &amp; any change is on the table.
+
+Not an easy tradeoff."
+226,@gdb,2022-05-12 19:13:27+00:00,https://twitter.com/gdb/status/1524830130949849088,"One very simple technique which helps me move faster: when printf debugging, print out full log messages rather than just bare quantities: e.g. print(f""Reached speed: {velocity=}"") rather than print(velocity). More typing but saves puzzling out meaning of each line at runtime."
+227,@gdb,2022-05-12 17:36:51+00:00,https://twitter.com/gdb/status/1524805819346259974,"For example, a few years ago we made the painful decision to shut down our robotics project. It was producing great results, but we'd discovered we could move even faster in data-rich virtual domains. Most of that team started working on code, which led to Codex &amp; Copilot."
+228,@gdb,2022-05-12 17:24:03+00:00,https://twitter.com/gdb/status/1524802599811047434,"The health of an organization’s vision is better measured by its ability to cancel the right projects than to start new ones.
+
+Saying yes to a new project is the easy part, what’s hard is making tough &amp; visionary decisions in the service of focus. Superpower if you can do it."
+229,@gdb,2022-05-11 22:29:56+00:00,https://twitter.com/gdb/status/1524517188480110592,"Security is the art of sufficiently raising the cost of attack such that you either (a) will yield a net negative return on investment to adversaries, or (b) are a much less attractive target than alternatives."
+230,@gdb,2022-05-11 01:53:22+00:00,https://twitter.com/gdb/status/1524205995840442368,Management technique we learned early on: short-term machine learning deadlines can be set based on inputs (e.g. high-quality execution on a set of experiments) but not outputs (e.g. reaching some level of performance). Science does not bend easily to the wishes of managers.
+231,@gdb,2022-05-10 21:19:01+00:00,https://twitter.com/gdb/status/1524136954312286208,Well deserved. Congrats @ilyasut!
+232,@gdb,2022-05-10 18:37:57+00:00,https://twitter.com/gdb/status/1524096421376319488,"Trick to avoid all timezone bugs: represent times as Unix timestamps (i.e. a number) rather than your language's Time or Date object.
+
+Additionally makes time arithmetic much clearer, and is especially friendly when building an API where remote machines will parse the timestamp."
+233,@gdb,2022-05-10 16:31:03+00:00,https://twitter.com/gdb/status/1524064482514808833,Such an indescribable feeling when one variant is showing great improvement relative to the baseline... and then upon more careful inspection you realize you had a bug and both runs were actually identical except for different seeds.
+234,@gdb,2022-05-09 22:05:58+00:00,https://twitter.com/gdb/status/1523786382979653632,@Inoryy Agreed.
+235,@gdb,2022-05-09 17:08:49+00:00,https://twitter.com/gdb/status/1523711599969591296,I fell in love with programming right before college. I remember surprise &amp; delight when I realized that college was prepared to give me credits for getting better at my newfound hobby. Even today I am amazed that it’s possible to be employed to program. The joy has not faded.
+236,@gdb,2022-05-07 17:47:02+00:00,https://twitter.com/gdb/status/1522996440598941696,"The file system makes for a great key-value store but a poor general database — writing and reading a key is very fast, but it's slow to list (with 100k+ entries), and many tools choke on giant directories. Still, sometimes can be a great decision to use it to back your app."
+237,@gdb,2022-05-06 20:05:25+00:00,https://twitter.com/gdb/status/1522668881558458369,"Modern feature that has most changed my use of Python: dataclasses. Not just useful for data structures — they let you separate state from implementation of any class. Also dataclasses tend to be more useful by default, since they come with repr, eq, etc."
+238,@gdb,2022-05-05 20:15:19+00:00,https://twitter.com/gdb/status/1522308984681598976,"First rule of system administration — a service tends towards one of three states: manually watched, monitored, or broken."
+239,@gdb,2022-05-02 18:56:45+00:00,https://twitter.com/gdb/status/1521202047135076352,A software skill people not often appreciated outside security: probing the emergent semantics of a complex system. First understood this at Stripe while integrating various financial backends. Turns out to be extremely useful for building systems for training neural networks.
+240,@gdb,2022-04-30 17:02:47+00:00,https://twitter.com/gdb/status/1520448589759090688,A small taste of the kinds of content that you will be able to produce personally in the not-too-distant future:
+241,@gdb,2022-04-29 16:04:49+00:00,https://twitter.com/gdb/status/1520071617824526336,"Any technology comes with benefits and commensurate risks. AI is unique only in the unprecedented magnitude we expect from both.
+
+Navigating these risks &amp; distributing these benefits is daunting a priori, but each day of progress &amp; experience makes the puzzle a bit more clear."
+242,@gdb,2022-04-29 15:36:57+00:00,https://twitter.com/gdb/status/1520064603530563584,"""A photo of an artificial neural network growing in a garden"": https://t.co/ueTsnY9OQR"
+243,@gdb,2022-04-29 15:18:25+00:00,https://twitter.com/gdb/status/1520059938625622016,"Tending to an ML training run is like gardening.
+
+Need to sprinkle your budding ML model with fresh data, shine energy on it in the form of compute, and nip off any unpromising growths in the form of divergences.
+
+Main difference is that plants at maturity don't speak English."
+244,@gdb,2022-04-28 22:16:09+00:00,https://twitter.com/gdb/status/1519802677135167488,GPS maps made getting lost largely obsolete. Search engines made recall of specific facts far less important. Very curious what new capabilities AI systems will give us that we will soon take for granted.
+245,@gdb,2022-04-28 20:45:06+00:00,https://twitter.com/gdb/status/1519779763631443968,Coding is pure creation.
+246,@gdb,2022-04-28 18:55:43+00:00,https://twitter.com/gdb/status/1519752238104686592,The gradients must flow. https://t.co/i9Q4T1BsTJ
+247,@gdb,2022-04-28 17:09:06+00:00,https://twitter.com/gdb/status/1519725407641079808,"Being an ML engineer sometimes feels more like being a manager than an individual contributor. When writing software, you think through every edge case &amp; behavior yourself. In ML engineering, you shape the behavior of systems through indirect means. Trickier, but more leverage."
+248,@gdb,2022-04-27 22:17:55+00:00,https://twitter.com/gdb/status/1519440733299613696,I can attest that it was delicious (real cake + generated image):
+249,@gdb,2022-04-27 19:05:13+00:00,https://twitter.com/gdb/status/1519392240715505664,"A universal design trick in software: make as much of your application stateless as possible, and concentrate your persistent state in a central, simple, perhaps unscalable solution (database, custom process). State is a fundamentally-hard part of software, so work to minimize it"
+250,@gdb,2022-04-27 17:36:17+00:00,https://twitter.com/gdb/status/1519369858592387073,"Spaghetti is meant for eating, not code."
+251,@gdb,2022-04-27 15:23:37+00:00,https://twitter.com/gdb/status/1519336470057680897,"Realized today one major difference between in-person and virtual meetings: laughter.
+
+IRL, I’ll often make jokes, but over two years of video calls I can barely recall a single funny moment.
+
+Surprised how easy it was to forget an entire dimension of interaction, and not notice."
+252,@gdb,2022-04-26 18:56:03+00:00,https://twitter.com/gdb/status/1519027543751364608,"How to succeed at a startup: get one big idea right, and then execute diligently for years on innumerable small features (e.g. being able to directly copy-paste working API code from your website) to delight your users."
+253,@gdb,2022-04-26 16:16:54+00:00,https://twitter.com/gdb/status/1518987492598243328,"The difference between a framework and a library is that a framework controls how other code is written, while a library is designed to be composed with any other kind of code. Explains why developers love writing frameworks, even though users basically always want libraries."
+254,@gdb,2022-04-25 23:34:53+00:00,https://twitter.com/gdb/status/1518735327950622720,A surprisingly catchy (and comprehensive) song about AI progress. Will definitely be a hit at all the SF parties:
+255,@gdb,2022-04-25 18:59:03+00:00,https://twitter.com/gdb/status/1518665910365474816,It is less popular but more satisfying to focus on your own success than someone else's failure.
+256,@gdb,2022-04-25 16:57:23+00:00,https://twitter.com/gdb/status/1518635291703005185,The hardest problem is often figuring out the easiest version of the problem that will you absolutely have to solve and cannot defer.
+257,@gdb,2022-04-24 22:06:01+00:00,https://twitter.com/gdb/status/1518350573778522117,Some things never change:
+258,@gdb,2022-04-24 19:53:29+00:00,https://twitter.com/gdb/status/1518317221398810626,"@pchopra28 According to @karpathy, tweets that sound like they were written by GPT-3 :)"
+259,@gdb,2022-04-24 19:40:43+00:00,https://twitter.com/gdb/status/1518314010424188928,"""A cartoon of a startup that has lost its focus"" https://t.co/bLAGV75iiC"
+260,@gdb,2022-04-24 17:17:54+00:00,https://twitter.com/gdb/status/1518278068040699904,"A startup can be best in the world in at most one thing. Choose your focus carefully, and avoid all temptation to broaden scope unless it means getting better at what you already do."
+261,@gdb,2022-04-24 01:09:49+00:00,https://twitter.com/gdb/status/1518034440903036928,@karpathy @ilyasut @sama The ultimate insult!😂
+262,@gdb,2022-04-23 20:41:12+00:00,https://twitter.com/gdb/status/1517966843847213056,@Sn0opyDog https://t.co/JpLipTfK4x
+263,@gdb,2022-04-23 20:09:16+00:00,https://twitter.com/gdb/status/1517958807636217856,"""Civilizations heading away from each other at near speed of light"" https://t.co/KKe2ao821W"
+264,@gdb,2022-04-23 19:37:10+00:00,https://twitter.com/gdb/status/1517950730094608384,"Long-term future of humanity will require not just interplanetary redundancy, but to have multiple independent civilizations heading away from each other at near speed of light."
+265,@gdb,2022-04-23 18:57:40+00:00,https://twitter.com/gdb/status/1517940789279870976,"@thisisisheanesu ""A hyperoptimized supercomputer, trained over hundreds of millions of years to ensure your well-being &amp; survival"". Enjoy! https://t.co/yiP9ikSoNs"
+266,@gdb,2022-04-23 17:38:18+00:00,https://twitter.com/gdb/status/1517920812719771648,"Your intuition is a hyperoptimized supercomputer, trained over hundreds of millions of years to ensure your well-being &amp; survival. Explains why instinct so often trumps logic."
+267,@gdb,2022-04-23 16:32:28+00:00,https://twitter.com/gdb/status/1517904246460469249,"Most impactful lecture from college—matrix determinants:
+
+Low road: define formula, prove zero iff invertible
+Middle road: define as function that is zero iff invertible, prove it is unique, derive formula
+High road: construct via exterior product space
+
+Seek better abstractions."
+268,@gdb,2022-04-23 16:12:16+00:00,https://twitter.com/gdb/status/1517899162838192128,"With proper abstraction, all bugs become shallow."
+269,@gdb,2022-04-22 23:54:44+00:00,https://twitter.com/gdb/status/1517653158838689792,"Key skill to building a complex system that they don't teach you in school: how to add enough breadcrumbs — logs, metrics, alerts, etc. — for operators to understand what happened for events of arbitrary weirdness. Best way to learn is to do it wrong enough times."
+270,@gdb,2022-04-22 19:16:38+00:00,https://twitter.com/gdb/status/1517583172942262272,"Nice property of software: when you've finished perfecting your creation, you click save and it's preserved forever. Could never be a chef because someone instead literally eats the creation you've poured your heart into."
+271,@gdb,2022-04-22 16:27:38+00:00,https://twitter.com/gdb/status/1517540641718226944,"One benefit of marriage I did not fully understand in advance: there is now a person who is even more invested in your day-to-day happiness than you are. Means that someone is actively finding ways to improve your energy, which is a huge boost in productivity &amp; creativity."
+272,@gdb,2022-04-21 22:15:37+00:00,https://twitter.com/gdb/status/1517265826482515973,Optimization has a way of triggering all the right dopamine centers in your brain. Wild to watch the same process that was taking minutes to run execute in seconds. Rare to see such objective payoff of your work entirely within the confines of your computer.
+273,@gdb,2022-04-21 20:55:13+00:00,https://twitter.com/gdb/status/1517245595798233088,Those who have made their name by proclaiming doom have great incentive to see it around every corner.
+274,@gdb,2022-04-21 18:56:33+00:00,https://twitter.com/gdb/status/1517215730004938752,"@pradyunsg Have used it, and am a fan in many contexts!"
+275,@gdb,2022-04-21 18:46:33+00:00,https://twitter.com/gdb/status/1517213213586194432,"My convention for loglines is to format as:
+
+&gt;&gt;&gt; print(f""Static msg: k1={v1} k2={v2}..."")
+
+Very simple, but putting all dynamic data on the right makes it much easier to skim through logs. Format is also more machine-friendly; many log indexing systems will parse them properly."
+276,@gdb,2022-04-21 05:17:04+00:00,https://twitter.com/gdb/status/1517009500774879232,Collaborative art depicting collaborative art:
+277,@gdb,2022-04-21 04:10:37+00:00,https://twitter.com/gdb/status/1516992779770945536,"A DALL-E illustration for ""less brain, more heart"": https://t.co/0ph00QA6z4"
+278,@gdb,2022-04-21 03:29:13+00:00,https://twitter.com/gdb/status/1516982358515146752,Secret plan for next generation neural network:
+279,@gdb,2022-04-20 23:02:05+00:00,https://twitter.com/gdb/status/1516915133288574976,"Many people apply DRY (Don't Repeat Yourself) dogmatically to avoid code duplication, but there's a real tradeoff to unifying multiple codepaths that have some shared logic but aren't fundamentally doing the same thing. Often better to repeat yourself 5 times; only then abstract."
+280,@gdb,2022-04-20 18:51:53+00:00,https://twitter.com/gdb/status/1516852171030945792,"Impossible subscription cancellation flows as an analogy for an unaligned AGI — company is simply following its reward function, leaving sad humans in its wake."
+281,@gdb,2022-04-20 16:19:17+00:00,https://twitter.com/gdb/status/1516813765387309056,"DALL-E: ""A penguin listening to music while programming"" https://t.co/duqsGbGhMx"
+282,@gdb,2022-04-20 16:01:21+00:00,https://twitter.com/gdb/status/1516809253285027846,"When I was 18, I read that Erdős would do mathematics while at the symphony.
+
+I tried an experiment: for two weeks I did math exclusively listening to music. Didn't notice a difference — but then I stopped, and couldn't concentrate anymore.
+
+To this day, can only program to music"
+283,@gdb,2022-04-20 03:37:58+00:00,https://twitter.com/gdb/status/1516622173649063936,"A nice DALL-E 2 illustration for this tweet: ""A koala keeping a server running"". https://t.co/AhgRqbFOVj"
+284,@gdb,2022-04-20 03:35:51+00:00,https://twitter.com/gdb/status/1516621641354076162,"Respect to those operating complex systems. At too many companies, less glory &amp; recognition than building new things. But always doing critical work to actually making those things work in practice — an underrated skill that is especially important in machine learning."
+285,@gdb,2022-04-20 00:28:38+00:00,https://twitter.com/gdb/status/1516574529002172416,"""Debugging code in your sleep"" by DALL-E. https://t.co/8dWgV1enUu"
+286,@gdb,2022-04-19 21:18:23+00:00,https://twitter.com/gdb/status/1516526650216751106,"A debugging technique I've been perfecting recently: when it's late at night and I've been banging my head on some bug (but have my mind fully wrapped around the symptoms), go to sleep. In the morning, usually solve it within 15 minutes. Subconscious really knows what it's doing."
+287,@gdb,2022-04-19 16:01:24+00:00,https://twitter.com/gdb/status/1516446878803509248,"Critics are an important part of society’s immune system against wasting resources.
+
+To be effective, their ferocity ought to be proportional to resource investment, without regard to society’s benefit from success.
+
+Means the most important endeavors will be the most criticized."
+288,@gdb,2022-04-18 19:00:12+00:00,https://twitter.com/gdb/status/1516129486911070208,"And as an illustration, here's ""The journey begins with a single gradient step."" by DALL-E. To be fair, that step does kind of have a color gradient! https://t.co/qD9UsHWsO0"
+289,@gdb,2022-04-18 18:56:34+00:00,https://twitter.com/gdb/status/1516128573605781511,The journey of training even the greatest language model begins with a single gradient step.
+290,@gdb,2022-04-18 16:30:44+00:00,https://twitter.com/gdb/status/1516091870635429889,"Common wisdom is that there are three types of software engineers:
+
+1. Pioneers: build prototype
+2. Settlers: scale from few to many users
+3. City planners: make it rock-solid
+
+But best career impact comes from doing both 1&amp;2 or 2&amp;3—requires rare ability both to dream &amp; execute."
+291,@gdb,2022-04-18 16:15:05+00:00,https://twitter.com/gdb/status/1516087933048025090,DALL-E has a sense of style:
+292,@gdb,2022-04-16 17:13:53+00:00,https://twitter.com/gdb/status/1515377954435477508,Also serves as the world's most advanced way to keep your kids entertained.
+293,@gdb,2022-04-16 17:02:49+00:00,https://twitter.com/gdb/status/1515375169832857604,"Novel product concepts, via kids playing with DALL-E:"
+294,@gdb,2022-04-16 00:38:14+00:00,https://twitter.com/gdb/status/1515127390870990850,"@tim_zaman @sidorszymon We do build on Azure, but also operate at such an unprecedented scale that we have to solve problems at essentially all layers of the stack."
+295,@gdb,2022-04-15 19:21:08+00:00,https://twitter.com/gdb/status/1515047589535641602,"An illustration that is all-too-applicable to this tweet — ""network switch that looks like a monster rampaging a datacenter"" as generated by @sidorszymon https://t.co/WNKAgJ8l40"
+296,@gdb,2022-04-15 17:08:12+00:00,https://twitter.com/gdb/status/1515014136186355712,"Was thinking about my single most important tool for programming productivity, and had a surprising realization — it's not emacs or mypy, it's Slack. The job is about working in close coordination with a team to achieve something you couldn't on your own."
+297,@gdb,2022-04-15 15:43:43+00:00,https://twitter.com/gdb/status/1514992875007844355,"As an illustration – ""The systems are down"" by DALL-E 2. Happy that it's just the dev cluster! https://t.co/IuXgue1K2G"
+298,@gdb,2022-04-15 15:42:08+00:00,https://twitter.com/gdb/status/1514992477488521224,"That feeling when your phone starts blowing up with alerts, indicating everything is down... and then you realize the alerts are all for your dev cluster 😅."
+299,@gdb,2022-04-14 23:23:29+00:00,https://twitter.com/gdb/status/1514746194274136070,Essay co-authored with GPT-3 was selected for the 2022 Best American Essays anthology:
+300,@gdb,2022-04-14 22:45:51+00:00,https://twitter.com/gdb/status/1514736721857970177,"A book of 1000 paintings of robots. Generated by a robot, curated by a human:"
+301,@gdb,2022-04-14 17:44:05+00:00,https://twitter.com/gdb/status/1514660780792160281,"Unpopular opinion: don't rely on implicit truthy constructs in your language, and instead always convert to bool yourself.
+
+For example, in Python rather than ""if mylist:"", do ""if len(mylist) &gt; 0:"".
+
+An example of trading more keystrokes for less cognitive burden for readers."
+302,@gdb,2022-04-14 16:17:31+00:00,https://twitter.com/gdb/status/1514638994495074307,Kinda cool that any tweet can now be illustrated: https://t.co/nexCxINL6J
+303,@gdb,2022-04-13 18:58:14+00:00,https://twitter.com/gdb/status/1514317053619957760,"The mathematics of measuring how well our true objective (e.g. helpful or accurate responses) is being optimized when training an AI systems on a proxy metric (e.g. the output of a reward model). Pretty cool &amp; not obvious that you can measure this at all!
+
+https://t.co/YQV3naADQF https://t.co/2GkqJ34yVr"
+304,@gdb,2022-04-13 17:14:58+00:00,https://twitter.com/gdb/status/1514291063233474560,"Software engineering: 50% understanding requirements, 40% complexity management, 9% debugging, 1% solving ""interesting"" algorithmic problems.
+
+You'll enjoy software engineering a whole lot more if you instead think of the first 99% as the interesting part."
+305,@gdb,2022-04-12 15:57:39+00:00,https://twitter.com/gdb/status/1513909216813015043,Big challenge in ML engineering: finding aggregate views that let you quickly understand the micro details of everything happening in your system. Often the biggest problems are simple problems obvious from looking at one specific computation. ML rewards attention to detail. https://t.co/iR29i7XDZv
+306,@gdb,2022-04-11 16:05:26+00:00,https://twitter.com/gdb/status/1513548790610890752,It’s time to become an ML engineer: https://t.co/HWKvhf6zBQ
+307,@gdb,2022-04-10 21:09:23+00:00,https://twitter.com/gdb/status/1513262894816718850,"As a bonus, here's a DALL-E generation for ""a program running on a universe-sized quantum computer"": https://t.co/vMQR7FrIzh"
+308,@gdb,2022-04-10 21:08:18+00:00,https://twitter.com/gdb/status/1513262622338027520,Reality is a program running on a universe-sized quantum computer. So the best way to solve a hard problem is to maximize contact with reality — lets you tap into an unfathomable amount of compute.
+309,@gdb,2022-04-09 19:53:35+00:00,https://twitter.com/gdb/status/1512881427892748293,@graiz https://t.co/tJHpnagiV7
+310,@gdb,2022-04-09 18:01:58+00:00,https://twitter.com/gdb/status/1512853339821674498,A lazy Caturday with DALL-E: https://t.co/efI9MpaLpu
+311,@gdb,2022-04-08 20:50:32+00:00,https://twitter.com/gdb/status/1512533374531158018,@dasnickerchen https://t.co/mDNcRN3eA8
+312,@gdb,2022-04-08 20:38:37+00:00,https://twitter.com/gdb/status/1512530375230189571,@blackpinkpilled https://t.co/q3uA1K19vu
+313,@gdb,2022-04-08 20:28:24+00:00,https://twitter.com/gdb/status/1512527801924022273,@khademinori https://t.co/1zan7x3K5K
+314,@gdb,2022-04-08 20:23:08+00:00,https://twitter.com/gdb/status/1512526480219074560,@thairu https://t.co/CiDHkzT16I
+315,@gdb,2022-04-08 20:17:49+00:00,https://twitter.com/gdb/status/1512525141137231874,@thisisisheanesu https://t.co/sGWs59RuNV
+316,@gdb,2022-04-08 20:04:59+00:00,https://twitter.com/gdb/status/1512521912064229377,"I also really like this one, created by the prompt ""DALL-E dreaming of becoming an AGI"": https://t.co/8MlmvlyQJh"
+317,@gdb,2022-04-08 15:53:52+00:00,https://twitter.com/gdb/status/1512458716531998722,"""A small neural net with a dream to become a real AGI when it grows up."", by DALL-E 2. https://t.co/3eOVDUttrR"
+318,@gdb,2022-04-08 13:07:17+00:00,https://twitter.com/gdb/status/1512416791418458118,"@Michael09113557 There's of course the obvious generations, but I prefer this one: https://t.co/y5MwQOrKE1"
+319,@gdb,2022-04-08 06:33:03+00:00,https://twitter.com/gdb/status/1512317582983925760,@mzeid4real https://t.co/V3ZK8YAzHl
+320,@gdb,2022-04-08 03:57:25+00:00,https://twitter.com/gdb/status/1512278416648638466,@bruno_supercool https://t.co/xspsiRVJoD
+321,@gdb,2022-04-08 03:20:56+00:00,https://twitter.com/gdb/status/1512269234524413952,"@YS A DALL-E generation for ""I design &amp; build ultra-high-quality  @Webflow  websites for people and businesses that want to win online. • Do you need a new website? DM me."" https://t.co/PiTHxTX74Z"
+322,@gdb,2022-04-08 02:55:54+00:00,https://twitter.com/gdb/status/1512262935371935749,"""Deep learning hitting a wall"", by DALL-E 2. https://t.co/anjAkcMWfk"
+323,@gdb,2022-04-08 00:35:46+00:00,https://twitter.com/gdb/status/1512227666295869441,A panda reacting to a viral tweet. https://t.co/f5E8JtULpD
+324,@gdb,2022-04-07 20:37:07+00:00,https://twitter.com/gdb/status/1512167608371478539,"@alberge Interview with us and you can check for yourself ;)!
+
+In the interim, here's ""A manatee motivational speaker on a stage, addressing an audience of various fish."" https://t.co/FNrXcNEOGi"
+325,@gdb,2022-04-07 16:52:48+00:00,https://twitter.com/gdb/status/1512111158009815041,"Whenever I cowork with my colleagues in person, I realize that the pandemic has completely dulled my sense of just how energizing &amp; productive good collaboration can be. Months of remote work have resulted in many tiny unshared assumptions, which we only notice in person."
+326,@gdb,2022-04-07 00:05:06+00:00,https://twitter.com/gdb/status/1511857560650805253,"Get an onsite interview, get early access to DALL•E. Good way to show rather than tell what kinds of projects you could work on here.
+
+(Attached photo: ""A walrus typing at a keyboard doing a programming interview at an office"".) https://t.co/aPKwC9BCkd"
+327,@gdb,2022-04-06 18:20:23+00:00,https://twitter.com/gdb/status/1511770810545217537,So meta:
+328,@gdb,2022-04-06 14:59:01+00:00,https://twitter.com/gdb/status/1511720136259956737,Sign up for the DALL·E 2 waitlist here: https://t.co/arIxbvucRH
+329,@gdb,2022-04-06 14:51:12+00:00,https://twitter.com/gdb/status/1511718170804908037,"DALL·E 2 — generate any image from a text description. Imagination is the limit.
+
+""A Shiba Inu dog wearing a beret and black turtleneck""
+""A photo of a quaint flower shop storefront with a pastel green and clean white facade and open door and big window""
+
+https://t.co/Ju8XZh0QHI https://t.co/Lv6GPrJlD2"
+330,@gdb,2022-04-05 15:47:12+00:00,https://twitter.com/gdb/status/1511369875201015811,All evidence indicates that we are on track to create AGI before reliable video conferencing.
+331,@gdb,2022-04-04 23:38:05+00:00,https://twitter.com/gdb/status/1511125986347085830,"AI engineering is poring through logs puzzling out why your run crashed, profiling to increase perf by a more few percent, and figuring out which code version was running during that weird blip.
+
+Only when the model is finally trained do you realize it was magic all along."
+332,@gdb,2022-04-04 16:33:23+00:00,https://twitter.com/gdb/status/1511019107222638596,"In a startup, you should seek out activities that seem hard, boring, annoying, and unscalable. The highest-value tasks are often hiding amongst them, and no one else has noticed because they seem unappealing on the surface."
+333,@gdb,2022-04-03 20:39:49+00:00,https://twitter.com/gdb/status/1510718738638643201,Working on it ;)
+334,@gdb,2022-04-03 17:03:37+00:00,https://twitter.com/gdb/status/1510664329271472130,".@Replit can now automatically find bugs in your code using OpenAI Codex under the hood.
+
+A concrete step towards transforming programming to be more about expressing your intent, and less about getting the incantations exactly right:"
+335,@gdb,2022-03-29 02:36:47+00:00,https://twitter.com/gdb/status/1508634244255412228,lol
+336,@gdb,2022-03-25 16:12:01+00:00,https://twitter.com/gdb/status/1507389852160987144,"Rust is a purist's programming language in pragmatic form. Your compilers professor would approve, and you actually want to build big applications in it. First time I've seen both properties in a single language!"
+337,@gdb,2022-03-24 21:17:20+00:00,https://twitter.com/gdb/status/1507104302308868099,@LiveOverflow Congrats! Very glad that Stripe CTF had such a lasting impact.
+338,@gdb,2022-03-23 18:54:19+00:00,https://twitter.com/gdb/status/1506705921514242048,"“When a distinguished but elderly scientist states that something is possible, [they are] almost certainly right. When [they state] that something is impossible, [they are] very probably wrong.” — Arthur C. Clarke’s first law.
+
+Progress is made through heresy."
+339,@gdb,2022-03-23 15:51:30+00:00,https://twitter.com/gdb/status/1506659915175063552,A deploy a day keeps the OOM killer away.
+340,@gdb,2022-03-22 20:08:26+00:00,https://twitter.com/gdb/status/1506362184946749445,"Underappreciated strategy for debugging a complex system: repeatedly strip away complexity, until you are left with either a working system or a minimal reproduction of your bug.
+
+Simple on paper, but it's often the opposite of what will most appeal to your pride as an engineer."
+341,@gdb,2022-03-22 16:30:32+00:00,https://twitter.com/gdb/status/1506307350847635457,"Find someone who loves you like the Rust implementors hate unnecessary usage of ""transmute""."
+342,@gdb,2022-03-21 15:35:25+00:00,https://twitter.com/gdb/status/1505931091273691138,The existence of very vocal critics is just as often a sign you are doing something very right than something wrong.
+343,@gdb,2022-03-20 23:43:34+00:00,https://twitter.com/gdb/status/1505691549790658570,"On the other hand, I've heard people claim that the equally cool-named No Free Lunch theorem does successfully explain why neural nets don't work!"
+344,@gdb,2022-03-20 20:35:51+00:00,https://twitter.com/gdb/status/1505644309642588161,"That feeling when you get a segfault in Rust, and you *really* want to blame the language, but because it's Rust you already know you're the one to blame."
+345,@gdb,2022-03-18 15:09:50+00:00,https://twitter.com/gdb/status/1504837488501661697,"A surprisingly effective way to understand unfamiliar code is to translate, line by line, into another language.
+
+The trick is getting to an initial minimal runnable program, and thereafter it's all incremental."
+346,@gdb,2022-03-15 19:45:37+00:00,https://twitter.com/gdb/status/1503819726706790401,"A fundamental improvement to the GPT-3 interface. You can now provide instructions for how to edit existing text, or indicate some area to insert new text. Opens the possibility space for what can be built using OpenAI:"
+347,@gdb,2022-03-15 19:29:21+00:00,https://twitter.com/gdb/status/1503815632806154247,"The OpenAI approach to making AI progress is to build working systems that can do something that was previously impossible.
+
+Success requires top-notch engineering; every week I find myself charting the depths of a new technical problem that I hadn't previously even considered."
+348,@gdb,2022-03-14 18:55:29+00:00,https://twitter.com/gdb/status/1503444724383838213,"Software &amp; mathematics are both fundamentally about iteratively building better abstractions. The difference is that math is encoded as proofs, which require special skills to appreciate, while software is encoded as machine-runnable code, letting anyone enjoy the results."
+349,@gdb,2022-03-12 21:10:11+00:00,https://twitter.com/gdb/status/1502753847281741830,pybind11 &gt;&gt; cython
+350,@gdb,2022-03-11 23:46:59+00:00,https://twitter.com/gdb/status/1502430917935067137,Programming is the art of coaxing reluctant computers to do what you want most of the time.
+351,@gdb,2022-03-04 00:38:11+00:00,https://twitter.com/gdb/status/1499544700482506754,Lessons learned from detecting &amp; stopping hundreds of actors attempting to misuse GPT-3:
+352,@gdb,2022-02-23 16:51:52+00:00,https://twitter.com/gdb/status/1496528243947671556,"Humans are great at coming up with a single solution that meets any given constraints, and thereafter coming up with reasons why any other proposed solution won’t work.
+
+So when optimizing for a goal, set aspirational constraints, and then relax them until a solution is found."
+353,@gdb,2022-02-22 16:24:59+00:00,https://twitter.com/gdb/status/1496159091089190919,"One of the least-appreciated skills in programming is writing anti-frustrating error messages.
+
+A good error message should make it self-evident (a) what the user did, (b) what acceptable inputs are, and (c) how to fix the problem.
+
+Can determine love or hate for your library."
+354,@gdb,2022-02-21 18:25:54+00:00,https://twitter.com/gdb/status/1495827134098685964,@Eleiber Yes!
+355,@gdb,2022-02-21 18:03:41+00:00,https://twitter.com/gdb/status/1495821544370708486,GPT-3 for fixing OCR errors: https://t.co/b6Ng9j77yA
+356,@gdb,2022-02-21 16:55:37+00:00,https://twitter.com/gdb/status/1495804412887023616,"A rare &amp; unknown gem of a paper —  https://t.co/njDTuJtzaU (from 1996!) analyzes the root cause of the AI winters.
+
+The story you always hear is that the neural net people overhyped everything; the real story seems to be a dedicated smear campaign by eminent scientists."
+357,@gdb,2022-02-20 19:19:42+00:00,https://twitter.com/gdb/status/1495478286293553156,"One of my biggest growth moments as a programmer was realizing that libraries I use are just code, and I could read them directly rather than puzzling it out from the docs.
+
+Even today, I am surprised how much faster I move every time I start reading a layer I'm building on."
+358,@gdb,2022-02-18 16:52:54+00:00,https://twitter.com/gdb/status/1494716564532305920,People often are what they accuse others of being.
+359,@gdb,2022-02-18 02:49:30+00:00,https://twitter.com/gdb/status/1494504316664631298,Codex for 50% of your coding needs:
+360,@gdb,2022-02-17 15:46:38+00:00,https://twitter.com/gdb/status/1494337499715411970,"""An academic is someone who has given up earthly rewards in exchange for the admiration of their peers"" — @ilyasut"
+361,@gdb,2022-02-16 16:30:21+00:00,https://twitter.com/gdb/status/1493986115690262529,"Shortly after moving to Silicon Valley, I remember thinking that the “tech industry” was a misnomer—only route to a startup was applying already-created technologies.
+
+No longer—from AI to fusion to crypto, the future has been (slowly!) shifting back to inventing high technology."
+362,@gdb,2022-02-16 03:19:50+00:00,https://twitter.com/gdb/status/1493787175242002436,"Alignment is the challenge of designing technical &amp; non-technical solutions to ensure that increasingly powerful AI systems further the hopes of their operator.
+
+Probably unlike any prior technological experience, but with parallels to life experience."
+363,@gdb,2022-02-15 16:37:26+00:00,https://twitter.com/gdb/status/1493625510529847300,AI supercomputing — the art of coaxing mind-boggling numbers of machines to perform their part of a single precisely-orchestrated computation — presents both the hardest &amp; most rewarding technical challenge I've ever worked on.
+364,@gdb,2022-02-14 20:01:41+00:00,https://twitter.com/gdb/status/1493314524245487617,"Surprising commonality between AI &amp; startups: newcomers tend to believe that ideas are the hard part and execution is commoditized.
+
+In reality, many (not all!) great ideas are already in the air, and proving their value requires a rare caliber of execution."
+365,@gdb,2022-02-02 19:38:57+00:00,https://twitter.com/gdb/status/1488960147867193350,@JgaltTweets Depends how hard @spolu and team work :).
+366,@gdb,2022-02-02 19:12:28+00:00,https://twitter.com/gdb/status/1488953484942659585,"Math competitions like AMC, AIME, and the USAMO were formative parts of my middle- and high-school experience.
+
+I never quite made it to the IMO, but our new neural network is gearing up to be a formidable competitor at each level of the math competition circuit:"
+367,@gdb,2022-01-27 17:29:54+00:00,https://twitter.com/gdb/status/1486753342764113923,"Our API is now powered by InstructGPT, language models trained to follow instructions rather than follow the pattern set by example (which is how GPT-3 works).
+
+Much easier to use, and much more aligned with our vision of how safe AI models should operate: https://t.co/v9pmjxuhge https://t.co/3Ykp6IDtyy"
+368,@gdb,2022-01-25 18:53:57+00:00,https://twitter.com/gdb/status/1486049720237629440,"You can now use our best models to produce embeddings (machine-readable representations) of text or code for fast &amp; accurate search, clustering, topic modeling, and classification: https://t.co/OK8SVZTw29 https://t.co/dTag1578Yy"
+369,@gdb,2022-01-04 23:42:01+00:00,https://twitter.com/gdb/status/1478512068177190917,"The difference between a startup and a large corporation is that in large corporations, everyone is assigned a seat and a desk and a parking spot and a cubicle, and in startups everyone is assigned a task."
+370,@gdb,2022-01-03 22:20:30+00:00,https://twitter.com/gdb/status/1478129165656199168,The best way to raise the bar for innovation is to lower the barrier to entry.
+371,@gdb,2021-12-16 17:22:16+00:00,https://twitter.com/gdb/status/1471531132436955142,"We've trained a GPT-3 variant which can browse the web, allowing it to give more truthful answers (&amp; cite its sources!): https://t.co/2P2LDDVomH https://t.co/U5DJTQAsOs"
+372,@gdb,2021-12-14 17:23:30+00:00,https://twitter.com/gdb/status/1470806666199269378,"You can now fine-tune GPT-3 on your own data. This vastly increases the accuracy of GPT-3, making it reliable for a much wider set of tasks: https://t.co/rhZTvfvOPf https://t.co/17Xv57qHeB"
+373,@gdb,2021-12-12 18:14:56+00:00,https://twitter.com/gdb/status/1470094836896202753,A Codex-powered application that automatically documents your codebase: https://t.co/PnOjOKuZ9a
+374,@gdb,2021-11-30 21:43:51+00:00,https://twitter.com/gdb/status/1465798755890851842,OpenAI Residency: https://t.co/29rhC6LJ6X https://t.co/iZ9Pyhxrqc
+375,@gdb,2021-11-18 15:38:24+00:00,https://twitter.com/gdb/status/1461358135461904391,You can now get instant access to our GPT-3 API:
+376,@gdb,2021-10-29 19:34:17+00:00,https://twitter.com/gdb/status/1454169739303874561,We've built an AI system that solves grade school math word problems. Starting to achieve decent accuracy &amp; represents significant progress on top of GPT-3: https://t.co/pCwfLsdaZP https://t.co/2gCSF7gc6o
+377,@gdb,2021-10-03 23:04:38+00:00,https://twitter.com/gdb/status/1444800591314698243,COBOL -&gt; Python translation with Codex:
+378,@gdb,2021-09-28 23:00:07+00:00,https://twitter.com/gdb/status/1442987513056940050,.@Replit is launching an OpenAI-powered feature to explain any JavaScript or Python code: https://t.co/99czWVqfPp
+379,@gdb,2021-09-24 21:37:59+00:00,https://twitter.com/gdb/status/1441517294585139201,@phemartin Replay of today's event here: https://t.co/PMiPJELAaJ!
+380,@gdb,2021-09-24 17:56:08+00:00,https://twitter.com/gdb/status/1441461463894290443,Dota documentary live streaming in 5 mins: https://t.co/2VSdpxvIuT!
+381,@gdb,2021-09-23 22:30:15+00:00,https://twitter.com/gdb/status/1441168059473948673,"Alice in Wonderland, as summarized by our latest AI system (https://t.co/Cvh9XhIb0X): https://t.co/NIiTrCOVfv"
+382,@gdb,2021-09-23 18:53:27+00:00,https://twitter.com/gdb/status/1441113497383825421,"We've created an AI system that can summarize books. Matches the quality of human-written summaries 5% of the time, and there's lots of room to improve from here.
+
+One step towards building AI systems that can reliably perform tasks that are hard for humans to even evaluate."
+383,@gdb,2021-09-17 19:00:06+00:00,https://twitter.com/gdb/status/1438940847307821058,"Documentary on the OpenAI Dota project will be launched on https://t.co/8yNjeKhJnh, Friday, Sept 24th at 11a PT.
+
+Full-length screening followed by Q&amp;A with the director, Dota community guests, and OpenAI team: https://t.co/XjnlzIAhlD"
+384,@gdb,2021-09-10 21:08:37+00:00,https://twitter.com/gdb/status/1436436473457176578,Codex for computational chemistry:
+385,@gdb,2021-09-08 17:38:30+00:00,https://twitter.com/gdb/status/1435658820802342915,Welcome to the @OpenAI board!
+386,@gdb,2021-09-07 15:50:16+00:00,https://twitter.com/gdb/status/1435269195248414721,"https://t.co/YLGxetPMIL—a Codex-powered tool that stops you from needing to constantly look up data science code (main reason I lose patience with data science myself!), letting you ""focus on the problems that matter"".
+
+Available in Jupyter Notebook. Demo: https://t.co/939ArE3X0K"
+387,@gdb,2021-09-06 16:08:04+00:00,https://twitter.com/gdb/status/1434911286219968514,"Figstack — a Codex-powered app for explaining, translating, and documenting code:"
+388,@gdb,2021-09-03 03:04:51+00:00,https://twitter.com/gdb/status/1433627018659188740,Creating a SwiftUI view from description:
+389,@gdb,2021-09-02 13:53:56+00:00,https://twitter.com/gdb/status/1433427977564418050,Experiencing Codex for the first time:
+390,@gdb,2021-09-01 15:17:39+00:00,https://twitter.com/gdb/status/1433086658719600645,Codex for your interactive data analysis notebook:
+391,@gdb,2021-08-30 14:20:16+00:00,https://twitter.com/gdb/status/1432347442368770054,Codex for personalized programming advice:
+392,@gdb,2021-08-29 17:47:36+00:00,https://twitter.com/gdb/status/1432037230122442755,Using Codex to translate assembly to natural language. Not something I’m very good at myself:
+393,@gdb,2021-08-26 18:27:44+00:00,https://twitter.com/gdb/status/1430960167160455172,A Codex-powered tool for automatically creating docstrings for your code. Look much nicer than the ones I would write!
+394,@gdb,2021-08-24 16:49:33+00:00,https://twitter.com/gdb/status/1430210683296120840,Generating a shell script from a comment:
+395,@gdb,2021-08-23 21:00:55+00:00,https://twitter.com/gdb/status/1429911552816123931,Codex as a digital design assistant:
+396,@gdb,2021-08-23 17:15:24+00:00,https://twitter.com/gdb/status/1429854800187826219,"(1) Upload your data. (2) Describe your data. (3) Ask what you’d like to learn about your data, and watch it happen:"
+397,@gdb,2021-08-23 13:57:34+00:00,https://twitter.com/gdb/status/1429805014197825540,A Codex-powered application for altering augmented reality with voice commands:
+398,@gdb,2021-08-20 18:23:47+00:00,https://twitter.com/gdb/status/1428784846806028291,A decent investigation of Codex’s strengths and limitations: https://t.co/sz2E0FxRte
+399,@gdb,2021-08-19 03:34:17+00:00,https://twitter.com/gdb/status/1428198609904799750,Using Codex to find a simple array index error:
+400,@gdb,2021-08-15 19:41:13+00:00,https://twitter.com/gdb/status/1426992391983026180,Codex as a chrome extension:
+401,@gdb,2021-08-14 22:06:58+00:00,https://twitter.com/gdb/status/1426666684484526081,One of the first applications built on Codex — data analysis from plain English queries:
+402,@gdb,2021-08-13 21:07:16+00:00,https://twitter.com/gdb/status/1426289272491954176,Codex for API usage you can never remember:
+403,@gdb,2021-08-13 19:40:16+00:00,https://twitter.com/gdb/status/1426267376685776897,"@narphorium @OpenAI Make sure to sign up with the email address that received the invite. If you're still having trouble, please contact support@openai.com!"
+404,@gdb,2021-08-13 14:38:39+00:00,https://twitter.com/gdb/status/1426191473230290947,Codex for SQL:
+405,@gdb,2021-08-13 14:29:02+00:00,https://twitter.com/gdb/status/1426189054731722759,@Balaji_AI @OpenAI Yes :).
+406,@gdb,2021-08-12 20:47:39+00:00,https://twitter.com/gdb/status/1425921950036070401,@mercuryheavens @OpenAI Congrats!!
+407,@gdb,2021-08-12 19:25:12+00:00,https://twitter.com/gdb/status/1425901200075988995,@bobthemaster @OpenAI Congrats!
+408,@gdb,2021-08-12 19:24:49+00:00,https://twitter.com/gdb/status/1425901101568589826,@hoony @OpenAI Congrats!
+409,@gdb,2021-08-12 18:58:56+00:00,https://twitter.com/gdb/status/1425894588196081668,@mustafaergisi @OpenAI Congrats!
+410,@gdb,2021-08-12 18:45:14+00:00,https://twitter.com/gdb/status/1425891139152793602,"@DeadMoneyDuke @OpenAI Yep, when you spell things out like that for Codex, it really shines!"
+411,@gdb,2021-08-12 18:43:43+00:00,https://twitter.com/gdb/status/1425890761443221507,@abigailcodes @OpenAI Congrats! Glad you enjoyed.
+412,@gdb,2021-08-12 18:29:26+00:00,https://twitter.com/gdb/status/1425887165012013056,Codex for login forms:
+413,@gdb,2021-08-12 18:11:43+00:00,https://twitter.com/gdb/status/1425882706185834498,"Congrats on finishing the challenge!
+
+And sorry about the slowness; we had more demand than expected and the competition servers did not respond well to the load."
+414,@gdb,2021-08-12 17:06:05+00:00,https://twitter.com/gdb/status/1425866188131770369,Challenge is currently overloaded due to demand. Team is on it!
+415,@gdb,2021-08-12 16:01:49+00:00,https://twitter.com/gdb/status/1425850014866104327,Race begins in T-1 hour — https://t.co/U7tMTyERKi. https://t.co/1IpcVg2inQ
+416,@gdb,2021-08-12 14:03:16+00:00,https://twitter.com/gdb/status/1425820179968106509,Codex for web scraping:
+417,@gdb,2021-08-11 19:36:17+00:00,https://twitter.com/gdb/status/1425541601640665089,"My personal favorite of our Codex examples — a program written in Python, which rewrites itself into Ruby, which rewrites itself into Python, which rewrites itself into Ruby, ad infinitum.
+
+Writing it felt like writing a new kind of quine (https://t.co/iXTptBbSDi). https://t.co/bpcCWPaODc"
+418,@gdb,2021-08-11 17:36:52+00:00,https://twitter.com/gdb/status/1425511547573395457,Codex for 3D modeling:
+419,@gdb,2021-08-11 17:27:01+00:00,https://twitter.com/gdb/status/1425509068181950473,"I think Codex will cause far more people to become programmers, and make it much more fun to write software (certainly that's been my experience so far!):"
+420,@gdb,2021-08-11 17:22:34+00:00,https://twitter.com/gdb/status/1425507950727024640,Building a personal website with Codex: https://t.co/YZjg1BHyRU
+421,@gdb,2021-08-11 14:44:45+00:00,https://twitter.com/gdb/status/1425468235525156870,"Codex shines when it comes to completing operations that are easy to express but hard to remember the exact syntax or library call for.
+
+A demo of Codex speeding me up to fetch, transform, and plot data using Pandas:"
+422,@gdb,2021-08-11 02:30:22+00:00,https://twitter.com/gdb/status/1425283419399888896,Codex for writing real-world React code:
+423,@gdb,2021-08-11 02:24:59+00:00,https://twitter.com/gdb/status/1425282065293930501,"Using Codex &amp; GPT-3 to build 20 versions of an application, end to end:"
+424,@gdb,2021-08-11 02:12:00+00:00,https://twitter.com/gdb/status/1425278797935378433,Codex for code refactoring:
+425,@gdb,2021-08-10 21:49:25+00:00,https://twitter.com/gdb/status/1425212715161710599,Giving Codex a first grade math test: https://t.co/PT7S0Pl7Sh
+426,@gdb,2021-08-10 19:03:37+00:00,https://twitter.com/gdb/status/1425170990800150529,"Top 500 finishers will receive OpenAI T-shirts!
+
+Looking forward to everyone getting to experience Codex for themselves, in a Python programming competition where everyone can ask Codex for some assistance."
+427,@gdb,2021-08-10 18:17:41+00:00,https://twitter.com/gdb/status/1425159432648855552,"The history of computing has been moving the computer closer to the human — moving from punch cards to assembly to higher level languages.
+
+Codex represents a step towards a new interface to computers — being able to talk to your computer and having it do what you intend."
+428,@gdb,2021-08-10 18:11:01+00:00,https://twitter.com/gdb/status/1425157756416184321,"@blonTweets Yes, it's a separate beta!"
+429,@gdb,2021-08-10 18:05:16+00:00,https://twitter.com/gdb/status/1425156309121306628,"OpenAI Codex, now available in our API: https://t.co/5HIjD3C73P"
+430,@gdb,2021-08-09 17:00:50+00:00,https://twitter.com/gdb/status/1424777703580835841,Reminder: live demo of next-generation Codex model happening tomorrow @ 10a PT!
+431,@gdb,2021-08-04 18:23:43+00:00,https://twitter.com/gdb/status/1422986625240338432,"@kvogt Many people on the team use Copilot, so technically Codex is already being used as a tool to accelerate its own development."
+432,@gdb,2021-08-04 17:36:30+00:00,https://twitter.com/gdb/status/1422974739203596291,"Our latest progress on code, live on Twitch next week:"
+433,@gdb,2021-07-28 16:28:32+00:00,https://twitter.com/gdb/status/1420420919940378626,"Triton has made it possible for OpenAI researchers with no GPU experience to write screaming-fast GPU code.
+
+Makes it not-so-scary to try out ideas that are outside the bounds of what PyTorch provides natively:"
+434,@gdb,2021-06-29 18:11:33+00:00,https://twitter.com/gdb/status/1409937597841874946,@natfriedman Has been amazing working with the GitHub team on this. Grateful for the opportunity to bring this technology to life together.
+435,@gdb,2021-06-29 15:03:49+00:00,https://twitter.com/gdb/status/1409890354132750336,"An AI pair programmer in your editor.
+
+Powered by OpenAI Codex, a new AI system which can convert from natural language to code with increasing reliability.
+
+Codex will be coming to our API later this summer. Will make it possible to build a new class of applications."
+436,@gdb,2021-06-10 19:14:08+00:00,https://twitter.com/gdb/status/1403067980343242753,"The first GPT-3 NFT just sold for $478,000 at auction:
+
+https://t.co/AWd1mla6Bc https://t.co/HRV9tzcdEW"
+437,@gdb,2021-06-10 17:51:38+00:00,https://twitter.com/gdb/status/1403047215862484992,"We've found that it's possible to target GPT-3's behaviors to a chosen set of values, by carefully creating a small dataset of behavior that reflects those values.
+
+A step towards OpenAI users setting the values within the context of their application:
+
+https://t.co/CVwnwKd6UJ https://t.co/ly8EkTDTW2"
+438,@gdb,2021-05-26 17:47:18+00:00,https://twitter.com/gdb/status/1397610307699281921,"Announcing a $100M fund for startups building on OpenAI API.
+
+We’re particular excited about investing in application areas where AI can have a transformative impact, like healthcare, education, or climate change: https://t.co/OyfynJYL3W"
+439,@gdb,2021-05-04 01:13:00+00:00,https://twitter.com/gdb/status/1389387551727783936,"Welcome @HurdOnTheHill!
+
+https://t.co/rFzowbTmCJ"
+440,@gdb,2021-04-21 21:20:56+00:00,https://twitter.com/gdb/status/1384980496661106691,OpenAI for natural-language shell commands:
+441,@gdb,2021-04-06 17:10:03+00:00,https://twitter.com/gdb/status/1379481542343360515,"New software engineering role open on my team.
+
+Will work closely with me and a small team of excellent folk (with a mix of skillsets/backgrounds) to build models of unprecedented scale and capability.
+
+Come build the next GPT-3 with us. https://t.co/COc9QkUoT9"
+442,@gdb,2021-03-25 19:36:57+00:00,https://twitter.com/gdb/status/1375169852889919488,GPT-3 is currently generating an average of **4.5 billion words per day**: https://t.co/pqwhce8rD3
+443,@gdb,2021-03-17 18:31:30+00:00,https://twitter.com/gdb/status/1372254279591809026,Powered by GPT-3:
+444,@gdb,2021-03-04 23:00:26+00:00,https://twitter.com/gdb/status/1367610920013160449,Progress!
+445,@gdb,2021-03-04 20:44:33+00:00,https://twitter.com/gdb/status/1367576721726205954,"A visualization of ""pose"" in the neuron that responds to the word ""Celebration"", in our latest neural net:
+
+https://t.co/QYoKiDjwho
+
+This network has neurons that respond to the same concept in images, text, and drawings — surprisingly reminiscent of multimodal neurons in humans. https://t.co/4MpZOQjWDi"
+446,@gdb,2021-03-04 00:41:29+00:00,https://twitter.com/gdb/status/1367273961516494851,"First time speaking on Clubhouse: 6p PT today, with several of my co-founders:"
+447,@gdb,2021-02-25 19:46:31+00:00,https://twitter.com/gdb/status/1365025400892452864,GPT-3 for literary critique:
+448,@gdb,2021-02-22 17:47:34+00:00,https://twitter.com/gdb/status/1363908304930361345,A very cool application of GPT-3 — interactive NPCs in video games:
+449,@gdb,2021-02-20 17:13:08+00:00,https://twitter.com/gdb/status/1363174863486115846,Lazy Caturday: https://t.co/EeoGONHo4z
+450,@gdb,2021-02-17 04:41:18+00:00,https://twitter.com/gdb/status/1361898495959920642,Our alignment team is hiring!
+451,@gdb,2021-02-15 03:49:02+00:00,https://twitter.com/gdb/status/1361160564114825224,.@theannabrockman you'll always be my Valentine. https://t.co/C7g1a9S6Xy
+452,@gdb,2021-02-10 20:40:43+00:00,https://twitter.com/gdb/status/1359603222491451394,Agreed: https://t.co/vESf1DrBn4
+453,@gdb,2021-02-10 15:11:07+00:00,https://twitter.com/gdb/status/1359520278338936835,@NpcAuto Please send me an email (gdb@openai.com) with some more details of your use-case!
+454,@gdb,2021-02-09 23:12:27+00:00,https://twitter.com/gdb/status/1359279022736171008,"I don't have an academic degree. @ilyasut has a PhD (though dropped out of high school!). We do not select on the basis of academic credentials, but on evidence of exceptional ability."
+455,@gdb,2021-02-07 00:31:16+00:00,https://twitter.com/gdb/status/1358211693684416515,Our applied AI team is hiring!
+456,@gdb,2021-01-25 19:14:12+00:00,https://twitter.com/gdb/status/1353783244647407616,"We run one of the largest Kubernetes clusters in the world. Having one massive cluster lets us iterate rapidly at small scale, and also scale up large models without changing code.
+
+Tremendous effort by our supercomputing team (who is hiring: https://t.co/El9s3HjrpK!)."
+457,@gdb,2021-01-05 20:52:01+00:00,https://twitter.com/gdb/status/1346560103437090817,"CLIP — our new neural network for classifying images into categories based on arbitrary text.
+
+Works like GPT-3's semantic search, but for images: https://t.co/T4Jx4keGvM
+
+Maybe a path towards vision nets that don't make silly mistakes:
+
+https://t.co/Fixj02nrPd https://t.co/D0Q5ue0XNo"
+458,@gdb,2021-01-05 20:31:44+00:00,https://twitter.com/gdb/status/1346554999241809920,"DALL-E — our new neural network for generating images from text:
+
+https://t.co/HMGw12LPDd https://t.co/XEnUJOGsc6"
