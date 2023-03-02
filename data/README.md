@@ -1,7 +1,7 @@
 # Datasets
 
-* [Futurists from Ross Dawson's Influence Rankings](./futurists_rossdawson/)
-* [Key Opinion Leader list](./futurists_koe/)
+* [Futurists from Ross Dawson's Influence Rankings](./futurists_rossdawson/), from January 2021 to January 2023.
+* [Key Opinion Leader list](./futurists_koe/), from January 2021 to January 2023.
 
 To work with datasets:
 ```python
