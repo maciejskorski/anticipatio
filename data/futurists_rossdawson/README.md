@@ -16,6 +16,7 @@ files = Path('./data').rglob('*csv')
 outs = map(pd.read_csv, files)
 outs = pd.concat(outs)
 outs.columns = ['index','user','timestamp','url','txt']
+outs.reset_index(drop=True,inplace=True)
 outs.shape # (290226, 5)
 outs.head()
 ```
