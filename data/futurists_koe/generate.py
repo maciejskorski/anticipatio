@@ -28,7 +28,9 @@ def get_tweets(username,n_tweets=None,attributes=attributes):
 
 
 # a list of accounts to scrape
-user_names = pd.read_csv('./2023_02_16_A_list_of_tech_and_future_KOE.txt',header=None,sep='\t')[2]
+user_names = pd.read_csv('./2023_03_09_The Key Opinion Leaders anticipating the future.txt', sep=r'\s(?=@)')
+user_names.reset_index(inplace=True)
+user_names.columns = ['name','account']
 
 # parallelise queries for speed ! 
 with mp.Pool(4) as p:
