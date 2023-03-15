@@ -211,7 +211,8 @@
 209. Pinna Pierre @pierrepinna
 210. Rob McCargow @RobMcCargow
 211. Theodora (Theo) Lau @psb_dc
-212. Patrick Mineault @neuromatch.social @patrickmineault
+212. Patrick Mineault @neuromatch.social 
+212. Patrick Mineault @patrickmineault
 213. Pieter Abbeel @pabbeel
 214. Rachel Thomas @math_rachel
 215. Kai-Fu Lee @kaifulee
