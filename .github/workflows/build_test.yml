@@ -13,6 +13,7 @@ jobs:
       with:
         python-version: '3.10'
     - run: |
+        python -m venv .venv
         pip install -e .
         pytest tests
 
