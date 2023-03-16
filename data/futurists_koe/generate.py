@@ -32,6 +32,14 @@ user_names = pd.read_csv('./2023_03_09_The Key Opinion Leaders anticipating the 
 user_names.reset_index(inplace=True)
 user_names.columns = ['name','account']
 
+import os
+scrapped_accounts = os.listdir('data')
+scrapped_accounts = set(t.split('.csv')[0] for t in scrapped_accounts)
+requested_accounts = set(user_names['account'])
+
+user_names = requested_accounts.difference(scrapped_accounts)
+
+
 # parallelise queries for speed ! 
 with mp.Pool(4) as p:
     results = p.imap(get_tweets, user_names)
