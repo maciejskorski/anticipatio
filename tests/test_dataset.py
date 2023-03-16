@@ -11,7 +11,7 @@ def test_all_scraped():
     user_names.columns = ['name','account']
 
     # accounts already scraped
-    scrapped_accounts = Path('data/futurists_koe/data').glob('*csv')
+    scrapped_accounts = Path('data/futurists_kol/data').glob('*csv')
     scrapped_accounts = set(t.stem for t in scrapped_accounts)
     
     # compare
@@ -23,10 +23,18 @@ def test_all_scraped():
 def test_scraped_nonempty():
     """Check if downloaded data are nonempty"""
     
-    # accounts already scraped
-    scrapped_accounts = Path('data/futurists_koe/data').glob('*csv')
-    for t in scrapped_accounts:
-        df = pd.read_csv('data/futurists_koe/data/@OttLegalRebels.csv',engine='python')
-        assert len(df) > 1
+    # accounts to scrape
+    scrapped_accounts = pd.read_csv('data/futurists_kol/2023_03_09_The Key Opinion Leaders anticipating the future.txt', sep=r'\s(?=@)')
+    scrapped_accounts = set(scrapped_accounts['List of Key Opinion Leaders anticipating the future'])
+    scrapped_accounts.remove(None)
+    
+    data_dir = Path('data/futurists_kol/data')
+    for account in scrapped_accounts:
+        try:
+            df = pd.read_csv(data_dir/(account+'.csv'),engine='python')
+            assert len(df) > 1
+        except:
+            print(account)
+
     
     
