@@ -16,6 +16,7 @@ jobs:
         python -m venv .venv
         source .venv/bin/activate
         pip install -e .
+        pytest tests
     - name: Cache python dependencies
       uses: actions/cache@v3
       env:
