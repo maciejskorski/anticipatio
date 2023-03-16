@@ -15,7 +15,7 @@ keywords = ["NLP", "anticipation"]
 license = {text = "MIT"}
 
 dependencies = [
-    "pandas"
+    "pandas",
     "pytest",
     "spacy",
 ]
