@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 
 
-def test_all_scrapped():
+def test_all_scraped():
     """Test if all futurists data are present """
 
     # accounts to scrape
@@ -11,7 +11,6 @@ def test_all_scrapped():
     user_names.columns = ['name','account']
 
     # accounts already scraped
-
     scrapped_accounts = Path('data/futurists_koe/data').glob('*csv')
     scrapped_accounts = set(t.stem for t in scrapped_accounts)
     
@@ -20,3 +19,14 @@ def test_all_scrapped():
     user_names = requested_accounts.difference(scrapped_accounts)
     user_names.remove(None)
     assert user_names == set()
+
+def test_scraped_nonempty():
+    """Check if downloaded data are nonempty"""
+    
+    # accounts already scraped
+    scrapped_accounts = Path('data/futurists_koe/data').glob('*csv')
+    for t in scrapped_accounts:
+        df = pd.read_csv('data/futurists_koe/data/@OttLegalRebels.csv',engine='python')
+        assert len(df) > 1
+    
+    
