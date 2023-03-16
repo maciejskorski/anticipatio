@@ -1,5 +1,5 @@
 import pandas as pd
-import os
+from pathlib import Path
 
 
 def test_all_scrapped():
@@ -12,11 +12,11 @@ def test_all_scrapped():
 
     # accounts already scraped
 
-    scrapped_accounts = os.listdir('data/futurists_koe/data')
-    scrapped_accounts = set(t.split('.csv')[0] for t in scrapped_accounts)
+    scrapped_accounts = Path('data/futurists_koe/data').glob('*csv')
+    scrapped_accounts = set(t.stem for t in scrapped_accounts)
+    
+    # compare
     requested_accounts = set(user_names['account'])
-
     user_names = requested_accounts.difference(scrapped_accounts)
     user_names.remove(None)
-
     assert user_names == set()
