@@ -17,7 +17,6 @@ jobs:
     - name: prepare virtual environment
       run: |
         python -m venv .venv
-        source .venv/bin/activate
     - name: Cache python dependencies
       uses: actions/cache@v3
       env:
@@ -27,6 +26,7 @@ jobs:
         key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('pyproject.toml') }}
     - name: Install dependencies and run tests
       run: |
+        source .venv/bin/activate
         pip install -e .
         pytest tests
 
