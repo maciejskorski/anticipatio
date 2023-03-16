@@ -5,9 +5,10 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "anticipatio"
 authors = [
-    {name = "Maciej Skorski", },
-    {name = "Alina Landowska", },
+    {name = "Maciej Skorski"},
+    {name = "Alina Landowska"},
 ]
+version = "0.1.0"
 readme = "README.md"
 requires-python = ">=3.10"
 keywords = ["NLP", "anticipation"]
@@ -15,4 +16,5 @@ license = {text = "MIT"}
 
 dependencies = [
     "pytest",
+    "spacy",
 ]
