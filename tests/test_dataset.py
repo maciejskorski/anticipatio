@@ -6,7 +6,7 @@ def test_all_scraped():
     """Test if all futurists data are present """
 
     # accounts to scrape
-    user_names = pd.read_csv('data/futurists_koe/2023_03_09_The Key Opinion Leaders anticipating the future.txt', sep=r'\s(?=@)')
+    user_names = pd.read_csv('data/futurists_kol/2023_03_09_The Key Opinion Leaders anticipating the future.txt', sep=r'\s(?=@)')
     user_names.reset_index(inplace=True)
     user_names.columns = ['name','account']
 
