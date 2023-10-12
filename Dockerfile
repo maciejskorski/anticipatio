@@ -6,6 +6,6 @@
 
 FROM nvcr.io/nvidia/pytorch:23.09-py3
 
-RUN pip install --no-cache-dir kaggle bertopic sklearn
+RUN pip install --no-cache-dir kaggle bertopic itables
 
 CMD ["bash"]
