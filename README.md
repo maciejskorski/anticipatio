@@ -1,6 +1,9 @@
-![Python 3.19](https://img.shields.io/badge/python-3.10-blue.svg)
-![tests](https://github.com/maciejskorski/anticipatio/actions/workflows/build_test.yml/badge.svg)
 ![license](https://img.shields.io/pypi/l/fpvgcc.svg?color=blue)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)
+![tests](https://github.com/maciejskorski/anticipatio/actions/workflows/build_test.yml/badge.svg)
+
 # Anticipatio
 In a search for understanding of people's anticipation of the future...
 
@@ -15,6 +18,6 @@ docker build -t anticipatio:dev .
 ```
 Then, run the container mounting this repo directory with 
 ```bash
-docker run --ipc=host --gpus all -it --rm -v $(pwd):/home --name anticipatio anticipatio:dev
+docker run --ipc=host --gpus all -it -d -v $(pwd):/home --name anticipatio anticipatio:dev
 ```
 Finally, connect to the container `anticipatio` using your favorite tools, e.g. VS Code extensions. 
