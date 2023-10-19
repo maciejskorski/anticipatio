@@ -17,4 +17,4 @@ Then, run the container mounting this repo directory with
 ```bash
 docker run --ipc=host --gpus all -it --rm -v $(pwd):/home --name anticipatio anticipatio:dev
 ```
-Finally, connect to the container `anticipatio` via VS Code extensions.
+Finally, connect to the container `anticipatio` using your favorite tools, e.g. VS Code extensions. 
