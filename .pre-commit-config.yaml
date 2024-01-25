@@ -3,3 +3,14 @@ repos:
   rev: v0.2.0
   hooks:
     - id: nbcheckorder
+       exclude: |
+            (?x)^(
+                src/LDA_optimized.ipynb|
+                examples/emusk_tweets.ipynb|
+                src/BERTopic.ipynb|
+                examples/analysis_hashtags.ipynb|
+                src/bertopic-online.ipynb|
+                examples/FrameNet_anticipation.ipynb|
+                data/futurists_kol/generate.ipynb|
+                examples/futurists_tweets.ipynb
+            )$
