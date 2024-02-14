@@ -46,8 +46,8 @@ def test_dataset_order():
             return pd.DataFrame()
 
     tweets = pd.concat([
-        pd.concat(map(open_fn, Path('../data/futurists_kol/data').rglob('*csv'))),
-        pd.concat(map(open_fn, Path('../data/futurists_rossdawson/data').rglob('*csv')))
+        pd.concat(map(open_fn, Path('./data/futurists_kol/data').rglob('*csv'))),
+        pd.concat(map(open_fn, Path('./data/futurists_rossdawson/data').rglob('*csv')))
     ])
 
     tweets.columns = ['index','user','timestamp','url','txt']
