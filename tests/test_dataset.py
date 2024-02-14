@@ -36,5 +36,23 @@ def test_scraped_nonempty():
         except:
             print(account)
 
-    
+def test_dataset_order():
+    """Check dataset indexing """
+
+    def open_fn(f):
+        try:
+            return pd.read_csv(f,engine='python')
+        except:
+            return pd.DataFrame()
+
+    tweets = pd.concat([
+        pd.concat(map(open_fn, Path('../data/futurists_kol/data').rglob('*csv'))),
+        pd.concat(map(open_fn, Path('../data/futurists_rossdawson/data').rglob('*csv')))
+    ])
+
+    tweets.columns = ['index','user','timestamp','url','txt']
+    tweets = tweets.drop_duplicates(subset=['txt'])
+    tweets.reset_index(inplace=True,drop=True)
+
+    print(tweets.loc[3,'txt'])
     
