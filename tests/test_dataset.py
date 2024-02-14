@@ -54,5 +54,5 @@ def test_dataset_order():
     tweets = tweets.drop_duplicates(subset=['txt'])
     tweets.reset_index(inplace=True,drop=True)
 
-    print(tweets.loc[3,'txt'])
+    assert tweets.loc[3,'txt'] == 'The fight over what AIs say and do has just started, and will never end.'
     
