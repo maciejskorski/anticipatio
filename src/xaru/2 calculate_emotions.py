@@ -28,11 +28,7 @@ pipe = pipeline(
 
 async def calculate(txt):
     try:
-        print()
-        print(txt)
-        x = pipe(txt)[0]
-        print(x)
-        return x
+        return pipe(txt)[0]
     except BaseException:
         return empty
 
@@ -43,14 +39,10 @@ async def get_emotions():
 
     docs = tweets["txt"].tolist()
 
-    tasks = [calculate(doc) for doc in docs[3:4]]
+    tasks = [calculate(doc) for doc in docs]
     results = await asyncio.gather(*tasks)
 
-    print(results)
-
     df = pd.DataFrame([{d["label"]: d["score"] for d in r} for r in results])
-    print(df)
-
     df.to_pickle(repo_path / "data/emotions.pkl")
 
 
