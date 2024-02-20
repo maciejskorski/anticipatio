@@ -1,9 +1,10 @@
 import pandas as pd
 from transformers import pipeline
 from pathlib import Path
-import asyncio
 
 repo_path = Path("/home/krajda/anticipatio/")
+from tqdm import tqdm
+
 
 empty = [
     {"label": "sadness", "score": 0},
@@ -26,25 +27,20 @@ pipe = pipeline(
 )
 
 
-async def calculate(txt):
+
+
+tweets = pd.read_pickle(repo_path / "data/final.pkl")
+
+docs = tweets["txt"].tolist()
+
+
+results = []
+
+for doc in tqdm(docs):
     try:
-        return pipe(txt)[0]
+        results.append(pipe(doc)[0])
     except BaseException:
-        return empty
+        results.append(empty)
 
-
-async def get_emotions():
-
-    tweets = pd.read_pickle(repo_path / "data/final.pkl")
-
-    docs = tweets["txt"].tolist()
-
-    tasks = [calculate(doc) for doc in docs]
-    results = await asyncio.gather(*tasks)
-
-    df = pd.DataFrame([{d["label"]: d["score"] for d in r} for r in results])
-    df.to_pickle(repo_path / "data/emotions.pkl")
-
-
-if __name__ == "__main__":
-    asyncio.run(get_emotions())
+df = pd.DataFrame([{d["label"]: d["score"] for d in r} for r in results])
+df.to_pickle(repo_path / "data/emotions.pkl")
