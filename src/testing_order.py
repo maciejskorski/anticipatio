@@ -15,7 +15,7 @@ files2 = Path('../data/futurists_rossdawson/data').rglob('*csv')
 files = itertools.chain(files1,files2)
 files = list(files)
 
-with open('account_list2.txt','tr') as f:
+with open('account_list.txt','tr') as f:
     fpaths = f.readlines()
     fpaths = [line.strip() for line in fpaths]
 
@@ -24,7 +24,7 @@ files = files_shuffled.loc[fpaths].to_list()
 
 tweets2 = pd.concat(map(open_fn, files))
 tweets2.columns = ['index','user','timestamp','url','txt']
-tweets2 = tweets2.drop_duplicates(subset=['txt'])
+tweets2 = tweets2.drop_duplicates(subset=['txt','timestamp'])
 tweets2.reset_index(inplace=True,drop=True)
 
 # cleaning
@@ -63,11 +63,11 @@ import numpy as np
 from transformers import pipeline
 
 pipe = pipeline("text-classification", model="cardiffnlp/twitter-roberta-base-emotion-multilabel-latest", top_k=25)
-doc2emotion = pd.read_pickle("emotions.pkl")
+doc2emotion = pd.read_pickle("../data/emotions_compressed.pkl.gz")
 
 assert len(doc2emotion) == len(docs)
 
-msg_idxs = np.random.randint(0,len(tweets2),20)
+msg_idxs = np.random.randint(0,len(tweets2),1000)
 # msg_idxs = [3] # NOTE: tweet 3 is alligned
 
 for msg_idx in msg_idxs:
@@ -79,6 +79,6 @@ for msg_idx in msg_idxs:
     
     r2 = doc2emotion.loc[msg_idx]
     r2.sort_index(inplace=True)
-    assert (r2-r1).abs().mean() < 5e-2
+    assert (r2-r1).abs().mean() < 1e-2
 
 
