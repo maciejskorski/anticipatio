@@ -2,7 +2,7 @@
 # docker build -t anticipatio:dev .
 
 # RUN with:
-# docker run --ipc=host --gpus all -it --rm -v $(pwd):/home --name anticipatio anticipatio:dev
+# docker run --gpus device=0 -it --rm -v $(pwd):/home --name anticipatio anticipatio:dev
 
 FROM nvcr.io/nvidia/pytorch:23.09-py3
 
